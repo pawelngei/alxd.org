@@ -8,7 +8,7 @@ I highly value rationalist and humanist values and consider myself a [transhuman
 
 I have a background in basic mathematics, physics, neurobiology and neuroinformatics. I program mainly in Python and JavaScript.
 
-You can contact me through my [email], [Diaspora*], or if you really have to, [Facebook].
+You can contact me through my [email], [Diaspora*], or if you really have to, [Facebook]. You can be also interested in my [github] account, although I'm not developing anything interesting at the moment.
 
 
 [Warsaw Hackerspace]: https://hackerspace.pl/
@@ -17,4 +17,4 @@ You can contact me through my [email], [Diaspora*], or if you really have to, [F
 [email]: mailto:alxd(AT)alxd.org
 [Diaspora*]: https://joindiaspora.com/people/9c96cec4917029e3
 [Facebook]: https://www.facebook.com/chojnackipawel91
-
+[github]: https://github.com/pawelchojnacki
