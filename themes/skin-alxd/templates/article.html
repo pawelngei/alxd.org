@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}{{ article.title }} - {{ SITENAME }}{% endblock %}
+{% block content %}
+<div> 
+  <article>
+    <div class="text-justify">
+      <h2 class="text-left">{{ article.title }}</h2>
+      {{ article.content }}
+    </div>
+  </article>
+</div>
+{% endblock %}
