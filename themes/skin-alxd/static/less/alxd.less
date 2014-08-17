@@ -1,0 +1,106 @@
+//
+// Alxd blog custom classes
+// --------------------------------------------------
+
+@import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu);
+
+@font-family-monospace: "Ubuntu Mono";
+
+// Link colors and underline
+@brand-primary: @gray-dark;
+@link-hover-color: lighten(@link-color, 25%);
+a {
+  text-decoration: underline;
+  img {
+    text-decoration: none;
+  }
+  .menu-title {
+    text-decoration: none;
+  }
+}
+
+p {
+  line-height: 1.6;
+}
+
+.container, .container-fluid {
+  margin-top: 1em;
+}
+
+.menu-panel {
+  margin-top: 3em;
+}
+
+.menu-title {
+  font-size: 1.5em;
+  font-family: "Ubuntu";
+  font-weight: 600;
+  padding: 0;
+  margin: 0.25em 0 0 0;
+}
+
+.menu-subtitle {
+  font-family: "Ubuntu";
+  font-style: bold;
+  padding: 0;
+  margin: 0;
+}
+
+.menu-itembox {
+  font-family: "Ubuntu";
+}
+
+.menu-mobile {
+  font-family: "Ubuntu";
+  padding-bottom: 1em;
+}
+
+.menu-icon {
+  padding-bottom: 3px;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: "Ubuntu";
+  a {
+    text-decoration: none;
+  }
+}
+
+blockquote {
+  font-size: 1em;
+  font-style: italic;
+}
+
+.article-img {
+  display: block;
+  max-width: 90%;
+  width: 500px;
+  height: auto;
+  margin: 1em auto 1em;
+}
+
+.article-img-series {
+  max-width: 47.5%;
+  height: auto;
+  position: relative;
+  display: inline-block;
+  margin: 0.5em auto;
+}
+
+.article-img-crop {
+  max-height: 200px;
+  overflow-y: hidden;
+  margin: 1em 0;
+}
+
+.article-img-crop img {
+  max-width: 90%;
+  display: block;
+  margin: 0 auto;
+}
+
+.footer {
+  bottom: 0;
+  margin-top: 3em;
+}
