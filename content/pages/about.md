@@ -10,6 +10,9 @@ I have a background in basic mathematics, physics, neurobiology and neuroinforma
 
 You can contact me through my [email], [Diaspora*], or if you really have to, [Facebook]. You can be also interested in my [github] account, although I'm not developing anything interesting at the moment.
 
+My PGP fingerprint is:
+
+    A1BE 7664 4DFE 56DD D29C CDC0 FA90 F55B D2F6 40D5
 
 [Warsaw Hackerspace]: https://hackerspace.pl/
 [10Clouds]: http://www.10clouds.com/

@@ -23,12 +23,17 @@ p {
   line-height: 1.6;
 }
 
+.text-tiny {
+  font-size: 0.75em;
+}
+
 .container, .container-fluid {
   margin-top: 1em;
 }
 
 .menu-panel {
   margin-top: 3em;
+  max-width: 160px;
 }
 
 .menu-title {
@@ -42,8 +47,8 @@ p {
 .menu-subtitle {
   font-family: "Ubuntu";
   font-style: bold;
-  padding: 0;
-  margin: 0;
+  line-height: 1;
+  margin: 0 0 0.5em 0;
 }
 
 .menu-itembox {
@@ -72,6 +77,10 @@ blockquote {
   font-style: italic;
 }
 
+.article-body {
+  max-width: 700px;
+}
+
 .article-img {
   display: block;
   max-width: 90%;
@@ -89,8 +98,9 @@ blockquote {
 }
 
 .article-img-crop {
-  max-height: 200px;
-  overflow-y: hidden;
+  max-height: 500px;
+  overflow-y: auto;
+  // overflow-y: hidden;
   margin: 1em 0;
 }
 
@@ -100,7 +110,21 @@ blockquote {
   margin: 0 auto;
 }
 
-.footer {
-  bottom: 0;
-  margin-top: 3em;
+//===== Sticky footer requirements =====//
+
+html, body {
+  height: 100%;
+}
+
+// footer wrapper for sticky footer
+.footer-wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -5em;
+}
+
+.footer, .push {
+  height: 5em;
+  padding: 1em 15px 0;
 }
