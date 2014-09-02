@@ -18,6 +18,11 @@
         </div>
         <div class="col-xs-8">
           <a href="{{ article.url }}">{{ article.title }}</a>
+          {% if article.translations %}
+            {% for translation in article.translations %}
+              [<a href="{{ SITEURL }}/{{ translation.url }}">{{ translation.lang }}</a>]
+            {% endfor %}
+          {% endif %}
         </div>
       </li>
       {% endfor %}
