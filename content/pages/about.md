@@ -8,9 +8,9 @@ I highly value rationalist and humanist values and consider myself a [transhuman
 
 I have a background in basic mathematics, physics, neurobiology and neuroinformatics. I program mainly in Python and JavaScript.
 
-You can contact me through my [email], [Diaspora*], or if you really have to, [Facebook]. You can be also interested in my [github] account, although I'm not developing anything interesting at the moment.
+You can contact me through my [email], [Diaspora*], or if you really have to, [Facebook]. You can be also interested in my [github] account, although I'm not developing anything worthwhile at the moment.
 
-My PGP fingerprint is:
+My <a href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0xFA90F55BD2F640D5">PGP fingerprint</a> is:
 
     A1BE 7664 4DFE 56DD D29C CDC0 FA90 F55B D2F6 40D5
 

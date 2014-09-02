@@ -21,15 +21,10 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-# Social widget
-# MENU = (
-#           ('Facebook', 'https://www.facebook.com/chojnackipawel91'),
-#           ('Diaspora*', 'https://joindiaspora.com/u/chojnacki'),
-#           ('email', 'mailto:alxd (AT) alxd.org'),
-#         )
-
 THEME = "themes/skin-alxd"
 # THEME = "themes/alxd.org"
+
+# PLUGINS = ['i18n_subtitles']
 
 DISPLAY_PAGES_ON_MENU = True
 MAX_POSTS_ON_MAIN = 5
