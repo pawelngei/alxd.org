@@ -1,5 +1,7 @@
 ﻿Title: Cyborg's daily problems: the story
+Slug: cyborgs-daily-problems-the-story
 Date: 2014-09-01 22:00
+Lang: en
 Category: Poland, cyborg, story
 
 <a href="http://professional.medtronic.com/pt/neuro/dbs-md/prod/soletra/">

@@ -1,5 +1,8 @@
 Title: NeuroOn: król jest nagi!
 Date: 2014-07-27 12:00
+Slug: neuroon-krol-jest-nagi
+Lang: pl
+Translation: false
 Category: startup, NeuroOn
 
 > *Cytat usunięty na prośbę autora. Całość konwersacji na temat NeuroOna znajduje się w linkach poniżej.*

@@ -5,6 +5,12 @@
   <article>
     <div class="text-justify">
       <h2 class="text-left">{{ article.title }}</h2>
+      {% if article.translations %}
+        Also in: 
+        {% for translation in article.translations %}
+          [<a href="{{ SITEURL }}/{{ translation.url }}">{{ translation.lang }}</a>]
+        {% endfor %}
+      {% endif %}
       {{ article.content }}
     </div>
   </article>

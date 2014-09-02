@@ -14,15 +14,15 @@ STATIC_PATHS = ['images']
 
 TIMEZONE = 'Europe/Warsaw'
 
-DEFAULT_LANG = u'pl'
+DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
+# THEME = "notmyidea"
 THEME = "themes/skin-alxd"
-# THEME = "themes/alxd.org"
 
 # PLUGINS = ['i18n_subtitles']
 
