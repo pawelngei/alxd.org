@@ -18,7 +18,8 @@
       {% endfor %}
     {% endif %}
     {{ article.summary }}
-	
+	{{article.content|length }}
+	{{article.summary|length }}
 	{% if article.content|length > article.summary|length %}
     <p class="text-right">
       <a href="{{ SITEURL }}/{{ article.url }}">

@@ -1,0 +1,130 @@
+//
+// Alxd blog custom classes
+// --------------------------------------------------
+
+@import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu);
+
+@font-family-monospace: "Ubuntu Mono";
+
+// Link colors and underline
+@brand-primary: @gray-dark;
+@link-hover-color: lighten(@link-color, 25%);
+a {
+  text-decoration: underline;
+  img {
+    text-decoration: none;
+  }
+  .menu-title {
+    text-decoration: none;
+  }
+}
+
+p {
+  line-height: 1.6;
+}
+
+.text-tiny {
+  font-size: 0.75em;
+}
+
+.container, .container-fluid {
+  margin-top: 1em;
+}
+
+.menu-panel {
+  margin-top: 3em;
+  max-width: 160px;
+}
+
+.menu-title {
+  font-size: 1.5em;
+  font-family: "Ubuntu";
+  font-weight: 600;
+  padding: 0;
+  margin: 0.25em 0 0 0;
+}
+
+.menu-subtitle {
+  font-family: "Ubuntu";
+  font-style: bold;
+  line-height: 1;
+  margin: 0 0 0.5em 0;
+}
+
+.menu-itembox {
+  font-family: "Ubuntu";
+}
+
+.menu-mobile {
+  font-family: "Ubuntu";
+  padding-bottom: 1em;
+}
+
+.menu-icon {
+  padding-bottom: 3px;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: "Ubuntu";
+  a {
+    text-decoration: none;
+  }
+}
+
+blockquote {
+  font-size: 1em;
+  font-style: italic;
+}
+
+.article-body {
+  max-width: 700px;
+}
+
+.article-img {
+  display: block;
+  max-width: 90%;
+  width: 500px;
+  height: auto;
+  margin: 1em auto 1em;
+}
+
+.article-img-series {
+  max-width: 47.5%;
+  height: auto;
+  position: relative;
+  display: inline-block;
+  margin: 0.5em auto;
+}
+
+.article-img-crop {
+  max-height: 500px;
+  overflow-y: auto;
+  // overflow-y: hidden;
+  margin: 1em 0;
+}
+
+.article-img-crop img {
+  max-width: 90%;
+  display: block;
+  margin: 0 auto;
+}
+
+//===== Sticky footer requirements =====//
+
+html, body {
+  height: 100%;
+}
+
+// footer wrapper for sticky footer
+.footer-wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -6em;
+}
+
+.footer, .push {
+  height: 6em;
+  padding: 1em 15px 1em;
+}
