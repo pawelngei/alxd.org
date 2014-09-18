@@ -18,10 +18,18 @@
       {% endfor %}
     {% endif %}
     {{ article.summary }}
+	
+	{% if article.content|length > article.summary|length %}
     <p class="text-right">
       <a href="{{ SITEURL }}/{{ article.url }}">
         read more...
       </a>
+	{% endif %}
+	
+	
+
+
+
     </p>
   </article>
 
