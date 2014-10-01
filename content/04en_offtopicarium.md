@@ -1,6 +1,6 @@
 Title: 5th Offtopicarium - approaches to science
 Slug: 5th-offtopicarium-approaches-to-science
-Date: 2014-09-28 22:00
+Date: 2014-10-01 21:00
 Lang: en
 Category: conference, science
 
@@ -47,7 +47,7 @@ Such was **Krzysztof Zieleniewski**'s *Mahan's Influence of "The Influence of Se
 
 An hour long talk and discussion was led by **Jan Szejko**, covering *Constructed Languages*. I was impressed by the amount of work he put into it (especially the topic not being his thesis or PhD that I know of), trying to give us a sample of several languages (one of which declared data types for names and numbers). After his talk I realized I really miss some kind of synthetic language based equally on Latin and Asian languages, as I haven't heard of any such construct. I will not, however, be ever able to forgive the omission of Sindarin in favor of Quenya. High elves suck.
 
-**&#x4D;<span style="display:none">null</span>&#x61;<span style="display:none">null</span>&#x142;<span style="display:none">null</span>&#x67;<span style="display:none">null</span>&#x6F;<span style="display:none">null</span>&#x73;<span style="display:none">null</span>&#x69;<span style="display:none">null</span>&#x61;<span style="display:none">null</span>&#x20;<span style="display:none">null</span>&#x41;<span style="display:none">null</span>&#x64;<span style="display:none">null</span>&#x61;<span style="display:none">null</span>&#x6D;<span style="display:none">null</span>&#x63;<span style="display:none">null</span>&#x7A;<span style="display:none">null</span>&#x79;<span style="display:none">null</span>&#x6B;<span style="display:none">null</span>**'s *A Feminist Kinkster Critique of "50 Shades of Grey", or BDSM 101* [(prezi)](http://prezi.com/vrhctcb1ekw_/a-feminist-kinkster-critique-of-fsog/) was an unquestionable hit, especially backed up by heated discussions about LGBT community and non-traditional relationships she led before and afterwards.
+<img src="images/04_offtopicarium/malgosia.png" style="margin-bottom: -1px;"></img>'s *A Feminist Kinkster Critique of "50 Shades of Grey", or BDSM 101* [(prezi)](http://prezi.com/vrhctcb1ekw_/a-feminist-kinkster-critique-of-fsog/) was an unquestionable hit, especially backed up by heated discussions about LGBT community and non-traditional relationships she led before and afterwards.
 
 **Anna Olchowik** had quite unique experience designing games to promote science, which she shared in *Serious Games in Education* [(PPT)](slides/5th_offtopicarium/anna_olchowik.ppt). Her presentation was remarkably refreshing after getting used to the startup babble, as Anna sees a goal behind her work and focuses on promoting knowledge and ideas, not implementing a new business model. Quoting her - *"Money on its own doesn’t work"*.
 
