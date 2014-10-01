@@ -8,7 +8,7 @@ Category: conference, science
   <img class="article-img" src="images/04_offtopicarium/opensource.jpg" style="width: auto; height: 300px;" title="Opening Science">
 </a>
 
-I'm writing this article on a train, coming back from the very latest [Offtopicarium], a Polish conference organized by scientists about sciences, but not exactly scientific. Held in both Polish and English (participant choose language they prefer), it's quite an intimate event, gathering no more than 25 people, 90% of whom with an active academic background.
+I'm writing this article on a train, coming back from the very latest [Offtopicarium], a Polish conference organized by scientists about sciences, but not exactly scientific. Held in both Polish and English (participants choose language they prefer), it's quite an intimate event, gathering no more than 25 people, 90% of whom with an active academic background.
 
 The aim of Offtopicarium is to deal with all topics considered too 'loose' or 'in between' to be presented at a regular scientific conference. It covers various people's approaches and de-facto IS about various approaches to science. Some of the presentations contain large amounts of data - something major, on-topic conferences made us accustomed to - while others barely sketch the main idea and hope for a fruitful discussion, where any kind of hard data wouldn't be suitable.
 
