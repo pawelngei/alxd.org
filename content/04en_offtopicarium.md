@@ -69,6 +69,8 @@ Sadly, I was unable to stay for the Sunday evening's part to listen to other spe
 
 **Rahel Knoepfel**: *PhysicsOverflow: A graduate-level upward physics site and open public peer-review system* [(PPTX)](slides/5th_offtopicarium/Rahel_Knoepfel.pptx)
 
+**Marcin Ziemniak**: *Synthetic life - beyond biology and chemistry* [(PDF)](slides/5th_offtopicarium/M-Ziemniak-Synthetic-life-2.pdf) with his summary: The seminar summarises the recent discoveries and development in biological chemistry which are connected to the idea of  synthetic life such as new synthetic analogues of DNA, extended genetic code and so called bioorthogonal chemistry, which allow us to introduce chemical modifications to proteins, nucleic acids and other biomolecules in the living organism. Another discussed idea is origin of a new biological discipline - xenobiology. This branch of science is exclusively dedicated to investigate the possibility (or even creation) a hypothetical life form having significantly altered biochemistry if compared to known organisms.
+
 As to my own slides - the uploaded versions are the same I used at the conference. They contain some non-free images, legally used only for an educational purpose - but if you would like me to improve the presentation, please just contact me and I'll make it ready for future use in any role.
 
 [Offtopicarium]: http://offtopicarium.wikidot.com/
