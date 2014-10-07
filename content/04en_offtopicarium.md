@@ -14,15 +14,15 @@ The aim of Offtopicarium is to deal with all topics considered too 'loose' or 'i
 
 A good example of the latter kind is a presentation about *Science Communication* (also Promotion and Education) by **Michal Krupinski**, as it painted all the contrasts between the Warsaw and Cracow approach to promoting scientific discoveries and knowledge.
 
-On the other hand, **Blazej Kochanski**'s *Selected Ills of the Polish Banks* were quite enlightening mainly *because* of all the data presented, showing how vicious cycles of loans are started and continue for years, without banks realizing the situation hurting both sides.
+On the other hand, **Błażej Kochański**'s *Selected Ills of the Polish Banks* were quite enlightening mainly *because* of all the data presented, showing how vicious cycles of loans are started and continue for years, without banks realizing the situation hurting both sides.
 
 **Anna Kornakiewicz**, freshly-baked MD, asked a few valuable questions in her *How to Make Healthcare More Open? How to Allocate Resources in Healthcare?* - pondering about the meaning of a *medical hacker*, the possibilities of using external resources and technologies in hospitals, and the feasibility of cooperating with an external company/lab onsite.
 
-The topic was continued by **Mikolaj Babiak** answering *Why Do We Need to be Faster Than Bacteria and How to do It* by pointing the weaknesses of antibiotics and suggesting faster ways to find the most suitable treatment for a bacterial infections.
+The topic was continued by **Mikołaj Babiak** answering *Why Do We Need to be Faster Than Bacteria and How to do It* [(PDF)](/slides/5th_offtopicarium/Mikolaj_Babiak.pdf) by pointing the weaknesses of antibiotics and suggesting faster ways to find the most suitable treatment for a bacterial infections.
 
 **Marcin Kurczych** led a talk on *Hypnosis - Witchcraft or Reality*, by both pinpointing the scientifically known facts about hypnosis, debunking the myths, and sharing the history.
 
-**Emilia Wnekowicz** was another medical graduate at the conference, discussing *Regaining Sight After Long-Term Blindness*. Being a neuroscience enthusiast as I am I couldn't let her go without asking if there was any kind of research on regaining (or gaining) specific senses boosted by the use of nootropics. Sadly, neither of us knew of such papers.
+**Emilia Wnękowicz** was another medical graduate at the conference, discussing *Regaining Sight After Long-Term Blindness*. Being a neuroscience enthusiast as I am I couldn't let her go without asking if there was any kind of research on regaining (or gaining) specific senses boosted by the use of nootropics. Sadly, neither of us knew of such papers.
 
 I had the pleasure of sharing my thoughts and lead a discussion about *Opening Science*, slides of which are available at a wonderful portal [slid.es], or standalone on my server in [HTML] or [PDF] versions. I tried to show both the possibilities of using Open Access, and using non-academic resources such as Hackerspace or Makerspace experts willing to help in research.
 
@@ -32,7 +32,7 @@ A lot of my friends since primary school were geeks. They loved stories, they lo
 
 Nerds, on the other hand, are all about learning things. They want to know. They want to do research. That's their drive, which leads them to the academic world, often taking multiple majors (at once, or one after another). Even sharing a lot of culture with geeks (or even being geeks in addition to nerds, as some prefer), they leave superheroes and fantastic worlds just as Romans left their gods to become rhetorical figures - they focus on different things. Mainly science, with its many faces. Physics, chemistry and biology, but also anthropology, sociology and psychology. There is no difference between superman and a fullerene when it comes to jokes about culture, both being mentioned just as often.
 
-And while geekiness is becoming more and more acceptable - and more and more mainstream, with people not feeling ashamed to read fantasy or sci-fi (which constitute major part of a modern cinema's offer), read anime and watch mangas [/troll], there are still relatively few individuals finding pleasure in learning history, physics and biology just for fun.
+And while geekiness is becoming more and more acceptable - and more and more mainstream, with people not feeling ashamed to read fantasy or sci-fi (which constitute major part of a modern cinema's offer), read anime and watch mangas &lt;/troll&gt;, there are still relatively few individuals finding pleasure in learning history, physics and biology just for fun.
 
 Offtopicarium is a conference made by and for nerds.
 
@@ -45,7 +45,7 @@ It was a festival and a tribute to passions and hard research the participants h
 
 Such was **Krzysztof Zieleniewski**'s *Mahan's Influence of "The Influence of Sea Power upon History" Upon Strategies Then and Now*: having read a remarkable history book he decided to show its brilliance to others, discussing its role in history and how it became obsolete (or didn't).
 
-An hour long talk and discussion was led by **Jan Szejko**, covering *Constructed Languages*. I was impressed by the amount of work he put into it (especially the topic not being his thesis or PhD that I know of), trying to give us a sample of several languages (one of which declared data types for names and numbers). After his talk I realized I really miss some kind of synthetic language based equally on Latin and Asian languages, as I haven't heard of any such construct. I will not, however, be ever able to forgive the omission of Sindarin in favor of Quenya. High elves suck.
+An hour long talk and discussion was led by **Jan Szejko**, covering *Constructed Languages*. I was impressed by the amount of work he put into it (especially the topic not being his thesis or PhD that I know of), trying to give us a sample of several languages (one of which declared data types for names and numbers). After his talk I realized I really miss some kind of synthetic language based equally on Latin and Asian languages, as I haven't heard of any such construct. I will not, however, be ever able to forgive the omission of [Sindarin] in favor of [Quenya]. High elves suck.
 
 <img src="images/04_offtopicarium/malgosia.png" style="margin-bottom: -1px;"></img>'s *A Feminist Kinkster Critique of "50 Shades of Grey", or BDSM 101* [(prezi)](http://prezi.com/vrhctcb1ekw_/a-feminist-kinkster-critique-of-fsog/) was an unquestionable hit, especially backed up by heated discussions about LGBT community and non-traditional relationships she led before and afterwards.
 
@@ -59,7 +59,7 @@ An hour long talk and discussion was led by **Jan Szejko**, covering *Constructe
 
 **Olga Pokorska** shared her passion of infant development in *Before Words*, which (maybe contrary to the speaker's intent) made me wonder if little children are just like extremely lonely, confused and frightened neural networks we may create at some point in time.
 
-**Michal Gumiela** showed us a case study of *The Place of European CanSat Program in (Space) Education*, highlighting the ills of Polish mid- and high-schools not really prepared to cooperate - even if their own students are able to create teams winning European-level awards.
+**Michał Gumiela** showed us a case study of *The Place of European CanSat Program in (Space) Education*, highlighting the ills of Polish mid- and high-schools not really prepared to cooperate - even if their own students are able to create teams winning European-level awards.
 
 **Staszek Krawczyk** captured the essence of Offtopicarium by telling us that *"You Must Gather Your Party Before Venturing forth: Why Were Computer Games from 1990 so Important in Poland?* [(PDF)](slides/5th_offtopicarium/staszek_krawczyk.pdf) Led in a brilliantly nerdy way it mixed the nostalgia for Baldurs Gate games, statistical data of games popularity and insight into gamer's gender profiles.
 
@@ -67,7 +67,7 @@ Sadly, I was unable to stay for the Sunday evening's part to listen to other spe
 
 **EDIT:** I managed to get some slides from the Sunday's presentations. Here you go:
 
-**Rahel Knoepfel**: *PhysicsOverflow: A graduate-level upward physics site and open public peer-review system* [(pdf)](slides/5th_offtopicarium/Rahel_Knoepfel.pdf)
+**Rahel Knoepfel**: *PhysicsOverflow: A graduate-level upward physics site and open public peer-review system* [(PDF)](slides/5th_offtopicarium/Rahel_Knoepfel.pdf)
 
 **Marcin Ziemniak**: *Synthetic life - beyond biology and chemistry* [(PDF)](slides/5th_offtopicarium/M-Ziemniak-Synthetic-life-2.pdf) with his summary: The seminar summarises the recent discoveries and development in biological chemistry which are connected to the idea of  synthetic life such as new synthetic analogues of DNA, extended genetic code and so called bioorthogonal chemistry, which allow us to introduce chemical modifications to proteins, nucleic acids and other biomolecules in the living organism. Another discussed idea is origin of a new biological discipline - xenobiology. This branch of science is exclusively dedicated to investigate the possibility (or even creation) a hypothetical life form having significantly altered biochemistry if compared to known organisms.
 
@@ -79,4 +79,5 @@ As to my own slides - the uploaded versions are the same I used at the conferenc
 [pdf]: slides/5th_offtopicarium/openingscience.pdf
 [computer solving Erdos problem]: http://www.independent.co.uk/life-style/gadgets-and-tech/news/computer-cracks-erds-puzzle--but-no-human-brain-can-check-the-answer-9137097.html
 [Echopraxia]: http://rifters.com/
-
+[Sindarin]: http://en.wikipedia.org/wiki/Sindarin
+[Quenya]: http://en.wikipedia.org/wiki/Quenya
