@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Pawel Chojnacki'
 SITENAME = u'alxd'
 SITESUBTITLE = u'open source transhumanist'
-SITEURL = 'http://alxd.org'
+SITEURL = 'https://alxd.org'
 IMAGE_PATH = 'images/logo-circ.png'
 
 
