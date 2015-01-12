@@ -2,7 +2,7 @@ Title: About me
 Modified: 2014-08-17 18:00
 Slug: about
 
-My name is Pawel Chojnacki. I'm a proud member of [Warsaw Hackerspace], and a full-stack programmer at [10Clouds]. 
+My name is Pawel Chojnacki. I'm a proud member of [Warsaw Hackerspace], and for a while longer - a full-stack programmer at [10Clouds]. I'm planning to quit my job soon and focus on Hackerspace a great deal more for several months.
 
 I highly value rationalist and humanist values and consider myself a [transhumanist]. I seek to live by these ideals, changing world around me bit by bit, day by day.
 
