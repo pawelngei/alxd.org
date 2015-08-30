@@ -4,6 +4,8 @@ Slug: about
 
 My name is Pawel Chojnacki. I'm a full-stack web developer, cybersecurity educator, open science and free software activist and a former [Warsaw Hackerspace] facilitator. 
 
+I freelance as [ALXD](https://prod.ceidg.gov.pl/CEIDG/CEIDG.Public.UI/SearchDetails.aspx?Id=d9303664-0fe2-4dc0-aecb-797877c2d1ba), currently contracting for [Codility](https://codility.com/) - creators of a hiring tool designed to test programmers' algorithmic knowledge.
+
 I highly value rationalist and humanist values and consider myself a [transhumanist]. I seek to live by these ideals, changing world around me bit by bit, day by day.
 
 I have a background in basic mathematics, physics, neurobiology and neuroinformatics. I program mainly in Python and JavaScript.
