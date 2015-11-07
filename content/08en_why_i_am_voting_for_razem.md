@@ -10,7 +10,11 @@ Translation: false
 
 On 25th October 2015 Poland held its 8th free parliamentary elections after regaining independence. With a lot of discussion on the country's situation and the previous ruling party (the Civic Platform) clearly stepping down, I decided to make my voice heard. The following text is a translation from Polish with several sentences expanded for more clarity, created with a great help of Piotr Nowak. 
 
-#### Several people asked me Why I am voting for [Razem party](http://partiarazem.pl/)
+**EDIT:** A few months before the elections a new political party, called [Razem](https://en.wikipedia.org/wiki/Razem) (Together) was brought to life. Their formation is completely grassroots and they made a point of not accepting any of the politicians from other parties, just activists from all over the country. Quoting [Wikipedia](https://en.wikipedia.org/wiki/Razem):
+
+>The party advocates labor rights and opposes deregulation and privatisation of public services. Among its main goals are strengthening redistribution, adopting a 35-hour workweek, raising the income tax threshold to 12,000 PLN (ca. $3,200), establishing progressive corporate tax, and creating a healthcare programme funded directly from the state budget. It also wishes to completely remove special economic zones from Poland. The party's economic program is partially inspired by the Nordic model.
+
+#### Several people asked me why I am voting for [Razem party](http://partiarazem.pl/)
 
 As you probably know, I'm a young software developer and an aspiring freelancer. Not as in 'creative tax-evasion specialist', but a dynamic, mobile freelancer working between Warsaw, Berlin and London.
 
