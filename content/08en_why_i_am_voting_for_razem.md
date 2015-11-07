@@ -1,4 +1,4 @@
-Title: Why am I voting for Razem
+Title: Why I am voting for Razem
 Date: 2015-11-05 18:00
 Slug: why-i-am-voting-for-razem
 Lang: en
