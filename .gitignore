@@ -1,0 +1,9 @@
+Makefile
+cache/
+content-to-be/
+develop_server.sh
+fabfile.py
+fabfile.pyc
+output/
+pelicanconf.pyc
+publishconf.pyc
