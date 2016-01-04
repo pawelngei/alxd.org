@@ -9,8 +9,7 @@ Translation: false
 Just after Christmas, between 27 and 30 of December a city of Hamburg, Germany hosted a 32nd edition of Chaos Communication Congress, an annual meeting of hackers, security researchers, freedom activists and tech-savvy artists. This year's theme was "Gated Communities" - from social network [walled gardens](https://en.wikipedia.org/wiki/Closed_platform), vendor locking and [filter bubbles](https://en.wikipedia.org/wiki/Filter_bubble) to increasingly fragmented societies through Europe and the world.
 
 <a href="https://streaming.media.ccc.de/">
-  <img title="32C3" class="article-img" src="/beta/images/09_32c3/logo.gif" style="width: auto; height: auto; margin: 2em auto;">
-  <!-- <img title="32C3" class="article-img" src="/images/09_32c3/logo.gif" style="width: auto; height: auto; margin: 2em auto;"> -->
+  <img title="32C3" class="article-img" src="/images/09_32c3/logo.gif" style="width: auto; height: auto; margin: 2em auto;">
 </a>
 
 Even with its usual uncontrollable energy of over nine thousand people buzzing around a variety of stalls, workshops, talks and gatherings - this year's Congress seemed dimmed and bleak. Once mad prophets of state surveillance are now proven right by the Snowden revelations and they are not happy about that. Facebook, Google and other corporations are centralizing the Internet again, and it's becoming even harder to fight their pull. No one believes in simple solutions any longer. Quoting one of the talks:
@@ -21,7 +20,7 @@ Even with its usual uncontrollable energy of over nine thousand people buzzing a
 
 If you just want to see the best talks:
 
-[Ten years after "We Lost The War"](https://media.ccc.de/v/32c3-7501-ten_years_after_we_lost_the_war) - [Computational Meta-Psychology](https://media.ccc.de/v/32c3-7483-computational_meta-psychology) - [PQCHacks](https://media.ccc.de/v/32c3-7210-pqchacks) - [Unpatchable](https://media.ccc.de/v/32c3-7273-unpatchable) - [The exhaust emissions scandal ("Diesel-gate")](https://media.ccc.de/v/32c3-7331-the_exhaust_emissions_scandal_dieselgate#video) - [Replication Prohibited](https://media.ccc.de/v/32c3-7435-replication_prohibited#video) - [How Open Source Software, second hand laptops and hackers helped stop Ebola (and stopped an apocalypse)](https://streaming.media.ccc.de/32c3/relive/7561/) - [Free Software and Hardware bring National Sovereignty](https://media.ccc.de/v/32c3-7246-free_software_and_hardware_bring_national_sovereignty)
+[Ten years after "We Lost The War"](https://media.ccc.de/v/32c3-7501-ten_years_after_we_lost_the_war) - [Computational Meta-Psychology](https://media.ccc.de/v/32c3-7483-computational_meta-psychology) - [PQCHacks](https://media.ccc.de/v/32c3-7210-pqchacks) - [Unpatchable](https://media.ccc.de/v/32c3-7273-unpatchable) - [The exhaust emissions scandal ("Diesel-gate")](https://media.ccc.de/v/32c3-7331-the_exhaust_emissions_scandal_dieselgate#video) - [Replication Prohibited](https://media.ccc.de/v/32c3-7435-replication_prohibited#video) - [How Open Source Software, second hand laptops and hackers helped stop Ebola (and stopped an apocalypse)](https://streaming.media.ccc.de/32c3/relive/7561/) - [Free Software and Hardware bring National Sovereignty](https://media.ccc.de/v/32c3-7246-free_software_and_hardware_bring_national_sovereignty) - [Rowhammer.js](https://koeln.media.ccc.de/v/32c3-7197-rowhammer_js_root_privileges_for_web_apps)
 
 Otherwise, let's start with what the Congress is:
 
@@ -29,9 +28,11 @@ Otherwise, let's start with what the Congress is:
 
 The [Chaos Communication Congress](https://en.wikipedia.org/wiki/Chaos_Communication_Congress) traditionally takes place in Congress Center Hamburg, the biggest German port city. It's organized every year by [Chaos Computer Club](https://en.wikipedia.org/wiki/Chaos_Computer_Club) which has managed to give German hackers a good name, making it probably the only country openly accepting the hacker movement without prejudice. Both the Congress and the Club gather a spectrum of individuals - from lonely security researchers, inventive makers and unconventional artists to political activists and loud anarchists, all sharing similar values and working hand-in-hand.
 
-The event can itself rival US [DEF CON](https://en.wikipedia.org/wiki/DEF_CON) and [Black Hat Briefings](https://en.wikipedia.org/wiki/Black_Hat_Briefings) and every fourth year is accompanied by [Chaos Communication Camp](https://en.wikipedia.org/wiki/Chaos_Communication_Camp), taking place in the relative wilderness of German countryside. Both of the C3s are distinguished by their organizational mastery achieved through hundreds or thousands of skilled volunteers doing everything from cleaning and conflict resolving to subtitling, translating and streaming all the talks live and uploading cleaned-up versions as soon as they are off the air. They do it completely for free (and an ability to buy a special Engel version of CCC apparel).
+The event can itself rival US [DEF CON](https://en.wikipedia.org/wiki/DEF_CON) and [Black Hat Briefings](https://en.wikipedia.org/wiki/Black_Hat_Briefings) and every fourth year is accompanied by [Chaos Communication Camp](https://en.wikipedia.org/wiki/Chaos_Communication_Camp), taking place in the relative wilderness of German countryside. Both of the C3s are distinguished by their organizational mastery achieved through hundreds or thousands of skilled volunteers. They do everything from cleaning and resolving arising conflicts to subtitling, translating and streaming all the talks live. Cleaned-up versions are uploaded almost as soon as they are off the air. They do it completely for free (and an Angel t-shirt).
 
-The physical world is only a part of the Congress: life in both the Internet and local networks is buzzing with activity. Every hall and room has its own IRC channel and questions from there - read aloud by the Communication Angels - are as important as the ones from the meatspace. 32C3 wiki is full of of ads for last-minute workshops, calls for help in a project and dating sections (Hacker looking for a Hardware). There's also a local GSM network, with all internal and external calls completely free (after a 5 EUR activation fee).
+The physical world is only a part of the Congress: life in both the Internet and local networks is buzzing with activity. Every hall and room has its own IRC channel and questions from there - read aloud by the Communication Angels - are as important as the ones from the meatspace. 32C3 wiki is full of of ads for last-minute workshops, calls for help in a project and dating sections (Hacker looking for a Hardware). 
+
+There's also a local GSM network, with all internal and external calls completely free (after a 5 EUR activation fee). You can also call a call's number and hear live translation of the talk by the interpreting Angel - both en/de and de/en, virtually stripping the language barrier.
 
 It would be strange if a Congress didn't have it's own suite of mobile apps, including the [schedule](https://f-droid.org/repository/browse/?fdfilter=32c3&fdid=nerd.tuxmobil.fahrplan.congress), [schedule conflict resolver](https://f-droid.org/repository/browse/?fdfilter=32c3&fdid=org.ligi.scr) or even an interactive [map](https://f-droid.org/repository/browse/?fdfilter=32c3&fdid=de.c3nav.droid) with navigation mode. These all are available in form of [webapps](https://c3nav.de/), too.
 
@@ -44,8 +45,7 @@ The allowed photos, are traditionally available at [Mitch Altman's Flickr](https
 There are talks, of course. To watch after coming home, because you wouldn't be able to attend all of the interesting ones either way, and the workshops aren't streamed. Some of the participants aren't leaving the dimmed lights of the Assembly Hall at all.
 
 <a href="https://events.ccc.de/congress/2014/wiki/images/7/78/31c3-map-v0_4_fullsize.png">
-  <img title="Previous edition's map" class="article-img" src="/beta/images/09_32c3/map.png" style="width: auto; height: auto; margin: 2em auto;">
-  <!-- <img title="Previous edition's map" class="article-img" src="/images/09_32c3/map.png" style="width: auto; height: auto; margin: 2em auto;"> -->
+  <img title="Previous edition's map" class="article-img" src="/images/09_32c3/map.png" style="width: auto; height: auto; margin: 2em auto;">
 </a>
 
 There **is** a lot to do at the Chaos Communication Congress. The Assembly Hall at the ground level is a place for hackerspaces, makerspaces and fablabs from around the world to showcase their latest projects, share experiences with other people, hack together and take part in security contests. There's someone with a embroidery machine, someone engraving others' notebooks with a laser cutter, robo-bartenders, custom dildo creators (health-safe soft rubber!), a variety of 3D printers, LED matrices in every shape and form, quad copters and pneumatic postal system encompassing everything. There's Mozilla, c-base and noisebridge, food hackers and coffee ones, even someone with a popcorn machine. There's even a table for [Neuro Hacking](https://www.flickr.com/photos/maltman23/23807105670/in/album-72157660698191134/) (disappointingly unsophisticated, mainly using EEG as some sort of random seed / one switch for simple 3D visualizations).
@@ -54,7 +54,7 @@ Just next to them, [electronic workshop](https://www.flickr.com/photos/maltman23
 
 A little bit on the side was the Lounge with a bar, small concert stage and a smoking space. Several DJs were rotating during the Congress, grabbing a good part of the attendance.
 
-At the first floor some more 3D printers together with several podcast stations overlook lockpicking workshops (legal in Germany!). Diasporans* and rubists sit next to KinkyGeeks teaching BDSM of installing Vistas and Tens. At the far end of the corridor there's a Noisy Square full of activists - Free Software Foundation Europe, Wau Holland Foundation, Electrionic Frontier Foundation and anarchists themselves. All of them giving workshops, discussing policies, activities and plans, giving away fliers, inviting others to join.
+At the first floor some more 3D printers together with several podcast stations overlook lockpicking workshops (legal in Germany!). Diasporans* and rubists sit next to KinkyGeeks teaching BDSM of installing Vistas and Tens. At the far end of the corridor there's a Noisy Square full of activists - Free Software Foundation Europe, Wau Holland Foundation, Electronic Frontier Foundation and anarchists themselves. All of them giving workshops, discussing policies, activities and plans, giving away fliers, inviting others to join.
 
 On the second floor - food stalls and Digital Courage shop, where you can get apparel from the previous Congresses, small RFID detectors, privacy wallets and phone cases. 
 
@@ -74,7 +74,7 @@ As usual, there were some rooms ready for last-moment workshops and talks which 
 
 > The Congress is tricky. Usually few talks at such a big conference are good, but here? Way over half of them are just brilliant.
 
-I'd like to walk you through the ones I had an opportunity to attend, as well as some I was recommended. You can click on their titles for direct link to the videos, translations and downloads. Sorted by days: 
+I'd like to walk you through the ones I had an opportunity to attend, as well as some I was recommended. You can click on their titles for direct link to the videos, translations and downloads. Just remember - that's a very subjective choice, and the Congress might have something much relevant for your interests - [try browsing yourself](https://media.ccc.de/b/congress/2015)!
 
 ### Day 0
 
@@ -106,6 +106,10 @@ The hall was actually so packed I couldn't get in and haven't watched it so far 
 
 Quite weak one, showcasing an academic researcher quest to share ebooks and publications using various technologies. I may have misjudged it due to much higher expectations, yet I think that it would be much better if it went deeper into politics. I would love to hear a coherent summary of current Open Access status, library laws in different countries and [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz)'s story.
 
+#### [How the Great Firewall discovers hidden circumvention servers](https://koeln.media.ccc.de/v/32c3-7196-how_the_great_firewall_discovers_hidden_circumvention_servers) [Tech/Politics]
+
+I didn't manage to make it for this one, but it explains how the Chinese Great Firewall works in practice. Reportedly a good one.
+
 #### [Datahavens from HavenCo to Today](https://media.ccc.de/v/32c3-7432-datahavens_from_havenco_to_today#video) [Culture]
 
 Or "How I decided to set up a startup in Sealand and Failed". More of a story to be remembered than an actual politic statement, quite an interesting talk. Too little on current state of various Datahavens (why not Iceland?).
@@ -123,6 +127,10 @@ The story. Just one, but quite awesome makerspace, and how it changed lives of p
 #### [Lightning Talks Day 2](https://media.ccc.de/v/32c3-7558-lightning_talks_day_2)
 
 Someone messed with the numbering again. Lightning talks are a series of 3- or 5- minute talks by people who either weren't chosen for a full-fledged talk or registered too late. Several nice ideas, several funny stories, and a [Greenlight](http://greenlightformakers.org/) project by Natalia Łukaszewicz which I am helping her with. I didn't attend LT on the next days, but the videos are also available: [Day 3](https://media.ccc.de/v/32c3-7558-lightning_talks_day_3) and [Day 4](https://streaming.media.ccc.de/32c3/relive/7560/).
+
+#### * [Rowhammer.js](https://koeln.media.ccc.de/v/32c3-7197-rowhammer_js_root_privileges_for_web_apps) [Tech]
+
+Another one I haven't managed to attend, but I was recommended to me as quite a ground-breaking concept of exploit: attacking RAM with JavaScript.
 
 #### [Let's Encrypt -- What launching a free CA looks like](https://media.ccc.de/v/32c3-7528-let_s_encrypt_--_what_launching_a_free_ca_looks_like) [Tech]
 
@@ -234,6 +242,10 @@ Something totally different to what I was expecting - instead of a panorama of a
 Yet to watch, but it's called one of the best talks of the Congress. A story of one admin who traveled to Ebola-infested Sierra Leone, built a team of local activists/hackers and revolutionized hospital infrastructure, significantly helping in stopping the epidemic.
 
 If you need some inspiration, grab this one and see how giant impact single people can have.
+
+#### [CHINTERNET ART](https://media.ccc.de/v/32c3-7216-chinternet_art) [Culture]
+
+Another one I haven't seen live, but which influenced the Congress' memesphere heavily - showing how there's little difference between Mao and LMAO.
 
 #### [Sin in the time of Technology](https://media.ccc.de/v/32c3-7286-sin_in_the_time_of_technology#video) [Culture]
 
