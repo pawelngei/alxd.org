@@ -10,7 +10,7 @@ IMAGE_PATH = 'images/logo-circ.png'
 
 
 PATH = 'content'
-STATIC_PATHS = ['images', 'slides']
+STATIC_PATHS = ['images', 'slides', 'scripts']
 
 TIMEZONE = 'Europe/Warsaw'
 
