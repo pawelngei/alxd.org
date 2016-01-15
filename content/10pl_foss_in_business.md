@@ -7,7 +7,7 @@ Translation: false
 Artykuł ten został napisany na prośbę działu Technologii Finansowych Wprost.pl i objęty jest licencją [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pl) pozwalającą również na użycie komercyjne. Byłbym wdzięczny za poinformowanie mnie, jeżeli zostałby wykorzystany poza tym blogiem i wprost.pl.
 
 <a href="https://www.flickr.com/photos/duhhquagliato/4478349112/">
-  <img title="Tux by Eduardo Quagliato" class="article-img" src="/images/10_foss/logo.jpg" style="width: 300px; height: auto; margin: 2em auto;">
+  <img title="Tux by Eduardo Quagliato" class="article-img" src="/images/10_foss/logo.jpg" style="width: 500px; height: auto; margin: 2em auto;">
 </a>
 
 Przeciętny użytkownik komputera nie poświęca wiele uwagi licencjom oprogramowania, jakiego używa. Jest dla niego zupełnie naturalne, że pewne - jak system Windows czy pakiet antywirusowy - powinien zakupić, inne zaś może legalnie ściągnąć z Sieci. Część z nich będzie wyświetlała reklamy, inne przy instalacji podrzucą też do systemu dodatkowy toolbar czy aplikację partnera. Jest jednak i oprogramowanie, które mimo że bezpłatne - nie posunie się do żadnej z tych rzeczy. Należy do niego większość przeglądarek internetowych - być może najważniejszych dla zwykłego użytkownika aplikacji.

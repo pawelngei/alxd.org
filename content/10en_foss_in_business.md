@@ -7,7 +7,7 @@ Translation: true
 This article is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed) which allows commercial use. I will be grateful for notifying me if it's published or printed anywhere outside my blog :)
 
 <a href="https://www.flickr.com/photos/duhhquagliato/4478349112/">
-  <img title="Tux by Eduardo Quagliato" class="article-img" src="/images/10_foss/logo.jpg" style="width: 300px; height: auto; margin: 2em auto;">
+  <img title="Tux by Eduardo Quagliato" class="article-img" src="/images/10_foss/logo.jpg" style="width: 500px; height: auto; margin: 2em auto;">
 </a>
 
 The average computer user doesn't pay much attention to licenses of the software they use. It seems completely natural to them that some software - like the Windows operating system or an antivirus bundle - must be purchased, while other can be legally downloaded from the Web. Some programs display ads, others install a partner's application or toolbar. There is however a type of software which - even though free - will do none of that. One of the most important kind of application for a regular user - the internet browser - belongs to that category.
@@ -65,4 +65,4 @@ There's also a very interesting issue of the growing need for a solution similar
 
 Elon Musk decided to [liberate](https://www.teslamotors.com/blog/all-our-patent-are-belong-you) some of his company's patents last year in order to build an independent electric car infrastructure. Many people applauded his innovative stance, not noticing that we don't have [any legal framework](https://gigaom.com/2014/06/14/what-elon-musk-did-and-did-not-do-when-he-opened-teslas-patents/) for such a decision, which renders it virtually meaningless. If Elon Must steps down from his position, the next CEO of Tesla can suddenly demand payments for all the "liberated patents" - and the company's competitors have already pumped millions of dollars into research.
 
-Having that in mind we should treat the FOSS movement and its solutions not just as a curiosity, but as an absolutely valid business strategy. Some day something our competitors ignore might give us an edge.
+Having that in mind we should treat the FOSS movement and its solutions not just as a curiosity, but as an absolutely valid business strategy. Someday something our competitors ignore might just give us an edge.
