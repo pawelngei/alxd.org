@@ -31,4 +31,6 @@ If you are wondering if you should buy the book - try the free version first. If
 
 Summing it up, I liked the book a lot. Thanks to seeing the actual process and understanding the architecture of a modern web application, reading the comments and discussions on available approaches - I feel much more competent to create one myself. I'm able to do much more than just repeat the patterns I learned at previous jobs and from small tutorials.
 
+If you have any suggestions for the book (which [**is**](https://github.com/survivejs/webpack_react/) licensed under Creative Commons), feel free to drop them in the [AMA section](https://github.com/survivejs/ama/issues). I had some minor recommendations on the Webpack configs, and the author seemed to like them.
+
 [^ES2015]: It's basically ES6 with some experimental additions from ES7 and other proposals such as python-like decorators, available through [BabelJS](https://babeljs.io/).
