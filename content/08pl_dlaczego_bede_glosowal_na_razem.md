@@ -18,7 +18,7 @@ Trochę niski sufit jak na początek kariery.
 
 Nasze społeczeństwo jest biedne. Naprawdę.
 
-Nie mam jak sprzedawać swoich aplikacji, stron, gier i webappek polakom. Ci najzwyczajniej w świecie nie są w stanie mi zapłacić. Zbyt często martwią się o zaspokojenie podstawowych potrzeb, opłacenie czynszu i rachunków. I wbrew temu, co mówi sporo libertarian, nie jest to ich wina.
+Nie mam jak sprzedawać swoich aplikacji, stron, gier i webappek Polakom. Ci najzwyczajniej w świecie nie są w stanie mi zapłacić. Zbyt często martwią się o zaspokojenie podstawowych potrzeb, opłacenie czynszu i rachunków. I wbrew temu, co mówi sporo libertarian, nie jest to ich wina.
 
 Jestem tego świadom: rodząc się w odpowiedniej rodzinie i dobierając sobie zainteresowania, które okazały się opłacalne - miałem szczęście. Owszem, włożyłem w to sporo pracy, jednak nie mniej, niż wiele osób wkłada w zdobycie zawodu nauczyciela i pielęgniarki, za co dostają jedną czwartą tego, co ja.
 
