@@ -5,6 +5,10 @@ Lang: pl
 Tags: neuroon, signal analysis, science, open notebook
 Translation: false
 
+### Edycja 29.09.2016
+
+Analiza wraz ze wszystkimi danymi dostępne są na moim [Githubie](https://github.com/pawelchojnacki/sleep_project).
+
 <a 
     href="/images/14_neuroon_signals/examination/examination_bed.jpg"
     target="_blank">

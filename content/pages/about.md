@@ -16,10 +16,14 @@ My <a href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0xFA90F55BD2F640D5">P
 
     A1BE 7664 4DFE 56DD D29C CDC0 FA90 F55B D2F6 40D5
 
+Should you want to send me any BTC:
+
+    1Z2tDSjoXPYEUVxuFak9ujRw8LvNR47th
+
 [Warsaw Hackerspace]: https://hackerspace.pl/
 [10Clouds]: http://www.10clouds.com/
 [transhumanist]: http://rationalwiki.org/wiki/Transhumanism
 [email]: mailto:alxd(AT)alxd.org
 [Diaspora*]: https://joindiaspora.com/people/9c96cec4917029e3
-[Facebook]: https://www.facebook.com/chojnackipawel91
+[Facebook]: https://www.facebook.com/alxd.org
 [github]: https://github.com/pawelchojnacki
