@@ -382,7 +382,7 @@ Sygnał z obu nocy został zgrany z polisomnografu za pomocą oprogramowania Gra
 
 Mimo iż nowsza wersja software IntelClinic którą otrzymałem zapisuje w plikach z sygnałem timestampy z NeuroOna, streamy z maski i polisomnografu mogą zaczynać się w różnych momentach. By pomóc wyznaczyć wspólny punkt startu, przez pierwsze kilka minut badań co kilka sekund zamykałem oczy i zaciskałem zęby lub wysuwałem żuchwę, co powinno pojawić się jako bardzo wyraźne artefakty mięśniowe pomagające zsynchronizować oba sygnały. 
 
-Wszystkie pliki - zarówno skany opisu, sygnały z NeuroOna (.csv) i AURY (.edf), staging (.xcl, .csv) jak i zdjęcia można znaleźć [na moim serwerze](https://obsidian.alxd.org/cloud/index.php/s/Qw2Fscjr4UJzFZB). Wszystkie wyżej wymienione materiały objęte są licencją Creative Commons BY 4.0[^16].
+Wszystkie pliki - zarówno skany opisu, sygnały z NeuroOna (.csv) i AURY (.edf), staging (.xcl, .csv) jak i zdjęcia można znaleźć [na moim serwerze](https://alxd.org/data/psg_neuroon_raw_data_description.7z). Wszystkie wyżej wymienione materiały objęte są licencją Creative Commons BY 4.0[^16].
 
 ### Podsumowanie
 

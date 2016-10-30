@@ -389,7 +389,7 @@ The signals were downloaded from the polysomnograph using Grass Technologies PSG
 
 Even with the latest version of NeuroOn debugging software saving timestamps to the signal files, streams from the mask and the PSG may start and end in different moments. To help synchronize them for the first several minutes of each session I repeatedly closed my eyes, clenched my teeth and moved my jaw, which should leave plainly visible muscle artifacts on both signals.
 
-All files - scans of the medical documents, signals and staging from NeuroOn (.csv) and AURA (.edf), staging for the latter (.xcl, .xsv), as well as photos are available [on my server](https://obsidian.alxd.org/cloud/index.php/s/Qw2Fscjr4UJzFZB). They are all licensed under Creative Commons BY 4.0[^16].
+All files - scans of the medical documents, signals and staging from NeuroOn (.csv) and AURA (.edf), staging for the latter (.xcl, .xsv), as well as photos are available [on my server](https://alxd.org/data/psg_neuroon_raw_data_description.7z). They are all licensed under Creative Commons BY 4.0[^16].
 
 ### Summing it up
 
