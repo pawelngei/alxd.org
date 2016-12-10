@@ -5,7 +5,7 @@ Lang: pl
 Tags: neuroon, signal analysis, science, open notebook
 Translation: true
 
-Kończąc trwające już od dłuższego czasu czasu badania NeuroOna wraz z Ryszardem Cetnarskim z Instytutu Biologii Eksperymentalnej im. Nenckiego w Warszawie [(profil na githubie)](https://github.com/ryscet/) postanowiliśmy stworzyć poster naukowy podsumowujący nasze odkrycia. Przedstawiliśmy go na Szóstej Międzynarodowej Konferencji "Oblicza Neuronauk" [(link)](http://neuroaspects.org/), mającej miejsce między 25 a 27 listopada w Warszawie.
+Kończąc trwające już od dłuższego czasu badania NeuroOna wraz z Ryszardem Cetnarskim z Instytutu Biologii Eksperymentalnej im. Nenckiego w Warszawie [(profil na githubie)](https://github.com/ryscet/) postanowiliśmy stworzyć poster naukowy podsumowujący nasze odkrycia. Przedstawiliśmy go na Szóstej Międzynarodowej Konferencji "Oblicza Neuronauk" [(link)](http://neuroaspects.org/), mającej miejsce między 25 a 27 listopada w Warszawie.
 
 <a 
     href="/images/16_neuroon_poster/time-sync.png"
