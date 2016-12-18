@@ -40,11 +40,11 @@ And for the people who would like to understand what actually happened here...
 
 ### Long awaited results
 
-This post is part of a series[^analysis] dedicated to NeuroOn sleep mask and its scientific viability. The full code and all signal samples are available at Github[^notebook].
+This post is part of a series[^analysis] dedicated to NeuroOn sleep mask and its scientific viability. The full code and all signal samples are available on Github[^notebook].
 
-Months after the first estimates I would like to present you the results of the NeuroOn experiment, in a form accessible to laymen. The analysis took nearly four months due to my stubbornness in assuring that it's scientifically sound, completely open, and reproducible at different machines. After roughly two months of dedicating every weekend to it, I realized my own understanding of mathematic, statistical analysis and SciPy / NumPy stack falls short for this challenge and asked Ryszard Cetnarski[^ryscet] for help. Together we have been able to create a coherent Jupyter Notebook and open it for peer review on the Internet[^notebook], as well as a scientific poster[^poster] we presented at the Aspects of Neurosciences conference in Warsaw in November 2016. So far the only feedback we gathered regarded only small sample size and graph descriptions. If you have any additional suggestions, please send them to me[^email].
+Months after the first estimates I would like to present you the results of the NeuroOn experiment in a form accessible to laymen. The analysis took nearly four months due to my stubbornness in assuring that it's scientifically sound, completely open and reproducible at different machines. After roughly two months of dedicating every weekend to it, I realized my own understanding of mathematic, statistical analysis and SciPy / NumPy stack falls short for this challenge and asked Ryszard Cetnarski[^ryscet] for help. Together we have been able to create a coherent Jupyter Notebook and open it for peer review on the Internet[^notebook]. In November 2016 we presented a scientific poster[^poster]at the Aspects of Neurosciences[^neuroaspects] conference in Warsaw. Until the publication of this blogpost the only feedback we gathered regarded only small sample size and graph descriptions. If you have any additional suggestions, please send them to me[^email].
 
-I'd like to thank Intelclinic for providing us a test unit of NeuroOn, as well as everybody who contributed to this analysis (in random order): [Michal Kawalec](https://github.com/mkawalec/), [Adam Golinski](http://adamgol.me/), [Bartosz Krol](https://github.com/BartKrol), [Jaroslaw Hirniak](http://www.hirniak.com/), [Karolina Stosio](https://twitter.com/karaszka), [Karol Benq Siek](https://www.linkedin.com/in/karol-siek-6424487a), [Dawid Laszuk](https://laszukdawid.com/) and [Piotr Migdal](http://p.migdal.pl/).
+I'd like to thank Intelclinic[^intelclinic] for providing us a test unit of NeuroOn, Ryszard Cetnarski[^ryscet] for his tremendous help, as well as everybody who contributed to this analysis (in random order): [Michal Kawalec](https://github.com/mkawalec/), [Adam Golinski](http://adamgol.me/), [Bartosz Krol](https://github.com/BartKrol), [Jaroslaw Hirniak](http://www.hirniak.com/), [Karolina Stosio](https://twitter.com/karaszka), [Karol Benq Siek](https://www.linkedin.com/in/karol-siek-6424487a), [Dawid Laszuk](https://laszukdawid.com/) and [Piotr Migdal](http://p.migdal.pl/).
 
 ### What did the experiment measure?
 
@@ -59,6 +59,8 @@ We analyzed signal from A1-F1 electrodes of the EEG (detailed description and el
 It is worth noting that there are only two nights (roughly 16 hours) of recordings captured on a healthy[^healthy] caucasian male in his 25s. To achieve any significant results we shouldn conduct experiments on a more varied population `n > 30` for more than 14 nights, including people with known sleep disorders.
 
 For NeuroOn we used the signal gathered by the three electrodes (single differential channel) on the device and sleep staging performed by offline (not real-time) algorithm executed on an external machine afterwards. The software used to do it was provided to us by Intelclinic on the 08.03.2016 under a condition that we will not try to reverse engineer[^reverse-engineer] it, to which we obliged.
+
+We do not have any information about algorithm implementations on mobile devices used with end-user NeuroOn masks or their possible limitations.
 
 ### NeuroOn's time delay
 
@@ -92,7 +94,7 @@ With the clock synchronization no longer an issue, we can start comparing sleep 
 
 Since usage of EEG-based polysomnography[^PSG] and human-conducted sleep staging are at the moment of writing both academical and industrial standard, we assumed that PSG sleep stages are our single source of truth to which we compared NeuroOn's hypnograms.
 
-We used Cohen's kappa coefficient analysis[^cohens-kappa]. Values from the first night:
+We used Cohen's kappa coefficient analysis[^cohens-kappa]. Heatmaps represent confusion matrices[^confusion-matrix] normalized by rows ("Given a sleep stage detected by PSG, what was probability of NeuroOn to detect it as...?") and joint probability matrices[^joint-probability] which can give insight in the frequency of respective sleep phases.
 
 ```
              precision    recall  f1-score   support
@@ -165,9 +167,6 @@ accuracy: 0.70
     style="width: 500px; height: auto; margin: 2em auto 2em;">
 </a>
 
-
-Heatmaps represent confusion matrices[^confusion-matrix] normalized by rows ("Given a sleep stage detected by PSG, what was probability of NeuroOn to detect is as...?") and joint probability matrices[^joint-probability] which can give insight in the frequency of respective sleep phases.
-
 What's interesting, NeuroOn's staging algorithm never detected N1 sleep stage, which affected its total score.
 
 Accuracy[^accuracy] describes all sleep stages detected by NeuroOn compared to those detected by human in PSG signal. Average value of NeuroOn's accuracy from both nights is `0.65`, **putting it far below any requirements for medical usage.** It doesn't have to disqualify NeuroOn from personal use however.
@@ -190,7 +189,7 @@ If NeuroOn's sleep staging was truly random, the score would fall much closer to
 
 After initial campaign marketing NeuroOn as a medical-grade device[^medical-grade] allowing tracking multiple sleep scores and helping in polyphasic sleep[^polyphasic-sleep] the company has backed off from their promises[^near-medical-grade], replacing them with something much more manageable. Maybe they don't need overall accuracy to deliver them?
 
-The most users may be interested in two questions:
+Most users may be interested in these two questions:
 
  - Will NeuroOn wake me up when it has an opportunity to?
  - Will NeuroOn not wake me up when it shouldn't?
@@ -237,8 +236,8 @@ And mean:
 
 There are two indicators of specific significance:
 
- - There is `26.2%` chance, that NeuroOn will not detect a stage which allows an easy wake up. This isn't harmful to an end-user, since only consecutive misidentification of several stages might cause the alarm clock to go off too late.
- - There is however `31.6%` chance to misidentify a stage which doesn't allow easy wake up in a healthy person. **This may be the single disqualifying feature of NeuroOn**. If a person is woken up in N3 or REM (which NeuroOn interpreted as N1, N2 or WAKE), they will suffer from sleep inertia and grogginess for the rest of the day.
+ - There is `26.2%` chance that NeuroOn will not detect a stage which allows an easy wake up. This isn't harmful to an end-user, since only consecutive misidentification of several stages might cause the alarm clock to go off too late.
+ - There is however `31.6%` chance to misidentify a stage which doesn't allow easy wake up in a healthy person. **This may be the single disqualifying feature of NeuroOn**. If a person is woken up in N3 or REM (which NeuroOn interprets as N1, N2 or WAKE), they will suffer from sleep inertia and grogginess for the rest of the day.
 
 This means that using NeuroOn's alarm clock - in perfect conditions, keeping it well pressed against one's forehead and while not having any sleep disorders - may result in extremely bad waking up nearly 1/3 of the times.
 
@@ -281,17 +280,17 @@ We examined how NeuroOn-recorded delta wave amplitude differs between (PSG-defin
 
 The delta band powers are similarly distinct in both NeuroOn and PSG, which may imply that the signal gathered can be used for advanced and precise sleep staging - maybe even more precise than the current NeuroOn's[^delta-power]. This invalidates my initial assumption I approached NeuroOn with - that it's impossible to gather signal of good enough quality to reliably discern sleep stages from just 3 electrodes. Its analysis in real-time may still be very complex, which leaves us with another, maybe simpler option:
 
-### Why use EEG?
+### Why use EEG at all?
 
 Even though NeuroOn's marketing success was largely founded in the usage of neuro-buzzwords[^neuro-buzzwords] one should also ask: if it is best-quality sleep staging for end-user that we're trying to achieve, should we use EEG? Are there different, less uncomfortable and more accurate methods of analyzing sleep? Or do users need to wake up with electrode prints on their forehead every morning to get a proper signal quality?
 
 Research done on multiple PSG alternatives[^non-laboratory-alternatives], including clinical-grade wrist-worn devices[^actigraph]  [^actillume] suggests that is is possible to achieve results better than NeuroOn's by focusing on accelerometer analysis only. Respective teams were able to obtain `82-89%` agreement rate with the PSG[^actigraph] and `81%` overall accuracy[^actillume] on much bigger populations than this experiment.
 
-NeuroOn's campaign openly criticized wrist-based accelerometers, claiming that *"The competition? They must be dreaming!" (...) "Accelerometer is less precise than biological signal processing"*  [^kickstarter]. After through analysis - it doesn't seems so.
+NeuroOn's campaign openly criticized wrist-based accelerometers, claiming that *"The competition? They must be dreaming!" (...) "Accelerometer is less precise than biological signal processing"*  [^kickstarter]. After through analysis - it doesn't seem that NeuroOn makes much use of the latter.
 
 ### Contrast with current claims
 
-The initial Kickstarter campaign[^kickstarter] was full of unfounded claims, neuro-buzzwords and outright misinformation[^misinformation]. The team even promoted NeuroOn with *"Wanna sleep 2 hours/day ASK ME :)"* t-shirts[^tshirts].
+The initial Kickstarter campaign[^kickstarter] was full of unfounded claims, neuro-buzzwords[^neuro-buzzwords] and outright misinformation[^misinformation]. The team even promoted NeuroOn with *"Wanna sleep 2 hours/day ASK ME :)"* t-shirts[^tshirts].
 After years in development and Facebook battles with skeptics IntelClinic was forced to back off from many of them.
 
 NeuroOn's *Final* Press Release reads:
@@ -337,15 +336,17 @@ Addressing lucid dreaming and light therapy is beyond the scope of this experime
 
 (this is my personal opinion)
 
-Winding up several months of research, tweaking the code, trying to make sense of the data, wondering if *that* method is statistically significant giving I've just used *that* transform from version 0.15.3 - I can say I'm happy I could have done that. No one paid me - quite the opposite, I rented the hospital lab and PSG with my own money - yet still, it was worth it.
+Winding up several months of research, tweaking the code, trying to make sense of the data, wondering if every method is statistically significant - I can say I'm happy I could have done that. No one paid me - quite the opposite, I rented the hospital lab and PSG with my own money - yet still, it was worth it.
 
-I'd like to show you that real innovation requires research. It's tedious, takes much more time than you've previously expected and it's nothing like the startup community has promised you. But it's honest - and it's the only way that yields any results.
+I'd like for everyone to make their own opinion on NeuroOn by reading this pretty detailed analysis, checking my computations and logic. Personally I consider NeuroOn to be a failed project, not researched enough from the start, running mostly on daring marketing promising the impossible.
 
-I consider startups and Kickstarter campaigns like IntelClinic's NeuroOn deeply harmful. Promising a product that you haven't even checked is possible to build is just plain lying. Spending more money on marketing campaigns than actual, peer-reviewed research is just scamming.
+Real innovation requires research. It's tedious, takes much more time than  the startup community promises. But it's honest - and it's the only way that yields any results.
 
-There are much better aspirations than founding a startup. If you're really interested in changing the world and improving something, think about hackerspaces. Build technology with your own hands, share the knowledge and see the impact it makes.
+I consider startups similar to Intelclinic deeply harmful for everyone - customers don't get what they pay for, investors are being misguided about what they support, researchers see their work being abused for the sake of a marketing campaign, and finally the society is being manipulated to see some kind of progress and hope in all that.
 
-I hope my next project will help you with that.
+At the same time as NeuroOn, another neuro-device was put on Kickstarter - OpenBCI[^openbci]. It's a small open hardware EEG amplifier allowing students, hackers and researchers to conduct their own experiments much cheaper than with university equipment. It didn't promise to make everyone's life better and it wasn't marketed as well as the IntelClinic's product. Despite earning much less money, OpenBCI delivered a device fulfilling all their promises.
+
+When it comes to real progress and innovation, I'm much more inclined to believe researchers, hackers and makers showing whitepapers and working prototypes first, not shiny and well-marketed startups.
 
 ### Footnotes
 
@@ -373,7 +374,11 @@ I hope my next project will help you with that.
 
 [^poster]: "Open-science: validation of neuro-startups" scientific poster is available on [my blog](neuroon-validation-poster)
 
+[^neuroaspects]: Aspects of Neuroscience 2016 - [page](http://neuroaspects.org/conference-2016)
+
 [^email]: alxd (at) alxd (dot) org
+
+[^intelclinic]: Intelclinic is a company which created NeuroOn - [web page](https://inteliclinic.com/)
 
 [^medical-grade]: "The application will also allow its users to access and setup the many features we have introduced so far, such as advanced sleep analytics, heart monitoring, intelligent alarm clock, jet lag, and alertness management, *all with medical-grade accuracy*." [source](https://www.kickstarter.com/projects/intelclinic/neuroon-worlds-first-sleep-mask-for-polyphasic-sle/posts/925602) and to a lesser extent [source](https://www.kickstarter.com/projects/intelclinic/neuroon-worlds-first-sleep-mask-for-polyphasic-sle/posts/886714), emphasis mine
 
@@ -420,3 +425,5 @@ I hope my next project will help you with that.
 [^original-blogpost]: Original blogpost: NeuroOn: The Emperor is Naked! (only in Polish) on [my blog](neuroon-krol-jest-nagi-pl.html)
 
 [^sobieskiego]: Sleep Disorders Center at the Institute of Psychiatry and Neurology in Warsaw [homepage](http://www.sen-instytut.pl/index_en.html)
+
+[^openbci]: The original Kickstarter campaign from 2013 - [link](https://www.kickstarter.com/projects/openbci/openbci-an-open-source-brain-computer-interface-fo) and their [homepage](http://openbci.com/)
