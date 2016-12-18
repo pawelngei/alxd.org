@@ -8,7 +8,7 @@ Status: draft
 
 ### tl;dr - So, does it work?!
 
-After an experiment conducted in perfect conditions: on 25-year-old caucasian male with no sleep disorders, sleeping nearly motionlessly with electrodes pressed to his head so firmly they left marks the next day[^marks], we are able to conclude:
+After performing an experiment conducted in perfect conditions: on 25-year-old caucasian male[^sex-bias-neuroscience] with no sleep disorders[^healthy], sleeping nearly motionlessly with electrodes pressed to his head so firmly they left marks the next day[^marks], we were able to conclude:
 
 NeuroOn isn't a medical grade device, but it's much better than a coin toss.
 
@@ -34,7 +34,7 @@ Comparing NeuroOn's sleep stage results to a professional polysomnography[^PSG] 
  - In **68.4%** of cases where PSG says not to wake us up, NeuroOn agrees.
  - In **31.6%** of cases where we absolutely shouldn't be woken up, NeuroOn would still do it. **That's a big deal**, since it means that every ~third Night with NeuroOn alarm clock on we will wake up extremely groggy and tired[^groggy-and-tired].
 
-While the results may be viewed as a step in a right direction, it should be kept in mind that accelerometer-only sleep stage analysis may yield better scores[^actigraph]  [^actillume].
+While the results may be viewed as a step in a right direction, it should be kept in mind that accelerometer-only sleep stage analysis may yield better scores[^non-laboratory-alternatives] [^actigraph] - up to `81%` accuracy[^actillume] compared to NeuroOn's `65%`.
 
 And for the people who would like to understand what actually happened here...
 
@@ -42,9 +42,9 @@ And for the people who would like to understand what actually happened here...
 
 This post is part of a series[^analysis] dedicated to NeuroOn sleep mask and its scientific viability. The full code and all signal samples are available at Github[^notebook].
 
-Months after first estimates I would like to present you results of the NeuroOn experiment, in a form accessible to laymen. The analysis took nearly four months due to my stubbornness in assuring that it's scientifically sound, completely open, and reproducible at different machines. After roughly two months of dedicating every weekend to it, I realized my own understanding of mathematic, statistical analysis and SciPy / NumPy stack falls short for this challenge and asked MSc Ryszard Cetnarski[^ryscet] for help. Together we have been able to create a coherent Jupyter Notebook and open it for peer review in the Internet[^notebook], as well as a scientific poster[^poster] we presented at the Aspects of Neurosciences conference in Warsaw in November 2016. So far the only feedback we gathered regarded only small sample sizes and graph descriptions. If you have any additional suggestions, please send them to me[^email].
+Months after the first estimates I would like to present you the results of the NeuroOn experiment, in a form accessible to laymen. The analysis took nearly four months due to my stubbornness in assuring that it's scientifically sound, completely open, and reproducible at different machines. After roughly two months of dedicating every weekend to it, I realized my own understanding of mathematic, statistical analysis and SciPy / NumPy stack falls short for this challenge and asked Ryszard Cetnarski[^ryscet] for help. Together we have been able to create a coherent Jupyter Notebook and open it for peer review on the Internet[^notebook], as well as a scientific poster[^poster] we presented at the Aspects of Neurosciences conference in Warsaw in November 2016. So far the only feedback we gathered regarded only small sample size and graph descriptions. If you have any additional suggestions, please send them to me[^email].
 
-I'd like to thank Intelclinic for providing us a test unit of NeuroOn, as well as everybody who contributed to this analysis (in random order): Michal Kawalec, Adam Golinski, Bartosz Krol, Jaroslaw Hirniak, Karolina Stosio, Karol Benq Siek, Dawid Laszuk and Piotr Migdal.
+I'd like to thank Intelclinic for providing us a test unit of NeuroOn, as well as everybody who contributed to this analysis (in random order): [Michal Kawalec](https://github.com/mkawalec/), [Adam Golinski](http://adamgol.me/), [Bartosz Krol](https://github.com/BartKrol), [Jaroslaw Hirniak](http://www.hirniak.com/), [Karolina Stosio](https://twitter.com/karaszka), Karol Benq Siek, [Dawid Laszuk](https://laszukdawid.com/) and [Piotr Migdal](http://p.migdal.pl/).
 
 ### What did the experiment measure?
 
@@ -60,7 +60,7 @@ It is worth noting that there are only two nights (roughly 16 hours) of recordin
 
 For NeuroOn we used the signal gathered by the three electrodes (single differential channel) on the device and sleep staging performed by offline (not real-time) algorithm executed on an external machine afterwards. The software used to do it was provided to us by Intelclinic on the 08.03.2016 under a condition that we will not try to reverse engineer it, to which we obliged.
 
-### NeuroOn time delay
+### NeuroOn's time delay
 
 First, we assumed that both NeuroOn's and PSG's signals do correlate and compared them. It turns out that the devices' clocks were desynchronized, with NeuroOn's running roughly `160.5 seconds late` and having a slowly growing delay on the course of the 8-hour recording. For the second night the device's clock was `160.7 seconds late`. Both of these results were acquired using cross correlation between the signals as discussed in a Jupyter Notebook[^correlation].
 
@@ -92,11 +92,22 @@ accuracy: 0.60
     href="/images/18_neuroon_analysis_summary/night_01_all_stages.png"
     target="_blank">
 <img
-    title="Night 01 - All stages"
+    title="Night 01 - sleep stages confusion matrix (normalized by rows)"
     class="article-img"
     src="/images/18_neuroon_analysis_summary/night_01_all_stages.png"
     style="width: 500px; height: auto; margin: 2em auto 2em;">
 </a>
+
+<a
+    href="/images/18_neuroon_analysis_summary/night_01_all_stages.png"
+    target="_blank">
+<img
+    title="Night 01 - sleep stages joint probability matrix"
+    class="article-img"
+    src="/images/18_neuroon_analysis_summary/night_01_all_stages_joint.png"
+    style="width: 500px; height: auto; margin: 2em auto 2em;">
+</a>
+
 
 And the second night:
 
@@ -118,11 +129,22 @@ accuracy: 0.70
     href="/images/18_neuroon_analysis_summary/night_02_all_stages.png"
     target="_blank">
 <img
-    title="Night 02 - All stages"
+    title="Night 02 - sleep stages confusion matrix (normalized by rows)"
     class="article-img"
     src="/images/18_neuroon_analysis_summary/night_02_all_stages.png"
     style="width: 500px; height: auto; margin: 2em auto 2em;">
 </a>
+
+<a
+    href="/images/18_neuroon_analysis_summary/night_02_all_stages.png"
+    target="_blank">
+<img
+    title="Night 02 - sleep stages joint probability matrix"
+    class="article-img"
+    src="/images/18_neuroon_analysis_summary/night_02_all_stages_joint.png"
+    style="width: 500px; height: auto; margin: 2em auto 2em;">
+</a>
+
 
 All values on the heatmaps are minutes, not normalized horizontally nor vertically.
 
@@ -184,12 +206,12 @@ Second night:
 And mean:
 
 <a
-    href="/images/18_neuroon_analysis_summary/intro_waking_matrix_en.png"
+    href="/images/18_neuroon_analysis_summary/both_nights_simplified.png"
     target="_blank">
 <img
     title="Waking Matrix with PSG and NeuroOn"
     class="article-img"
-    src="/images/18_neuroon_analysis_summary/intro_waking_matrix_en.png"
+    src="/images/18_neuroon_analysis_summary/both_nights_simplified.png"
     style="width: 500px; height: auto; margin: 2em auto 2em;">
 </a>
 
@@ -202,15 +224,16 @@ This means that using NeuroOn's alarm clock - in perfect conditions, keeping it 
 
 Since lucid dream induction [SOURCE] is quite complex and still discussed by many researchers, we don't feel that discussing its application in NeuroOn's app[^lucid-dreaming-neuroon] is within the scope of this analysis. What we can assess is NeuroOn's ability to detect REM sleep, which is quite good - [CALCULATE].
 
+<span id="delta">
 ### Beyond sleep staging - NeuroOn's signal quality
 
 Our initial goal was not only to analyze NeuroOn's staging quality, but also its signal gathered by just 3 dry electrodes on the forehead. Is it possible to create a real-time sleep staging algorithm based that signal?
 
 Answering that question fully would require us to build a perfect and much more advanced version of NeuroOn, de-facto taking on IntelClinic's role in developing the device. We could conduct a much simpler analysis instead, looking for well known EEG indicators within the signal.
 
-We resorted to spectral analysis, studying delta power in NeuroOn's single-channel signal. Full analysis with more details, code and signal samples can be found in our Jupyter Notebook[^spectral-analysis].
+EEG waves defined as respective frequencies of EEG signal differ between sleep stages and are one of the most important indicators used in polysomnography. Slow waves between `1Hz` and `3Hz` are called Delta Waves and are used for discriminating deep non-rem sleep phases[^delta-power]. It is reasonable to assume that NeuroOn staging algorithms use these indicators to create its own hypnograms.
 
-Delta power, which we define as sum of the power spectral density between `1hz` and `3hz` is a well established EEG measure which can be used to discriminate sleep stages[^delta-power].
+With that knowledge we resorted to spectral analysis, studying delta power in NeuroOn's single-channel signal. Full analysis with more details, code and signal samples can be found in our Jupyter Notebook[^spectral-analysis].
 
 Data from the first night:
 
@@ -234,21 +257,21 @@ Data from the first night:
     style="width: 500px; height: auto; margin: 2em auto 2em;">
 </a>
 
-[!!!re-check validity, sources for this paragraph!!!]
+We examined how NeuroOn-recorded delta wave amplitude differs between (PSG-defined) N2 and N3 sleep stages. The results indicate that it is possible to differentiate between those two phases with approximately `75%` accuracy basing on a box-plot distribution.
 
 The delta band powers are similarly distinct in both NeuroOn and PSG, which may imply that the signal gathered can be used for advanced and precise sleep staging - maybe even more precise than the current NeuroOn's[^delta-power]. This invalidates my initial assumption I approached NeuroOn with - that it's impossible to gather signal of good enough quality to reliably discern sleep stages from just 3 electrodes. Its analysis in real-time may still be very complex, which leaves us with another, maybe simpler option:
 
 ### Why use EEG?
 
-Even though NeuroOn's marketing success was largely founded in in usage of neuro-buzzwords[^neuro-buzzwords] one should also ask: if it is best-quality sleep staging for end-user that we're trying to achieve, should we use EEG? Are there different, less uncomfortable and more accurate methods of analyzing sleep? Or do users need to wake up with electrode prints on their forehead every morning to get a proper signal quality?
+Even though NeuroOn's marketing success was largely founded in the usage of neuro-buzzwords[^neuro-buzzwords] one should also ask: if it is best-quality sleep staging for end-user that we're trying to achieve, should we use EEG? Are there different, less uncomfortable and more accurate methods of analyzing sleep? Or do users need to wake up with electrode prints on their forehead every morning to get a proper signal quality?
 
-Research done on clinical-grade wrist-worn devices[^actigraph]  [^actillume] suggests that is is possible to achieve results better than NeuroOn's by focusing on accelerometer analysis only. Respective teams were able to obtain `82-89%` agreement rate with the PSG[^actigraph] and `81%` overall accuracy[^actillume] on much bigger populations than this experiment.
+Research done on multiple PSG alternatives[^non-laboratory-alternatives], including clinical-grade wrist-worn devices[^actigraph]  [^actillume] suggests that is is possible to achieve results better than NeuroOn's by focusing on accelerometer analysis only. Respective teams were able to obtain `82-89%` agreement rate with the PSG[^actigraph] and `81%` overall accuracy[^actillume] on much bigger populations than this experiment.
 
 NeuroOn's campaign openly criticized wrist-based accelerometers, claiming that *"The competition? They must be dreaming!" (...) "Accelerometer is less precise than biological signal processing"*  [^kickstarter]. After through analysis - it doesn't seems so.
 
 ### Contrast with current claims
 
-The initial Kickstarter campaign[^kickstarter] was full of unfounded claims, neuro-buzzwords and outright misinformation[^misinformation]. The team even promoted NeuroOn with *"Wanna sleep 2 hours/day ASK ME :)* t-shirts[^tshirts].
+The initial Kickstarter campaign[^kickstarter] was full of unfounded claims, neuro-buzzwords and outright misinformation[^misinformation]. The team even promoted NeuroOn with *"Wanna sleep 2 hours/day ASK ME :)"* t-shirts[^tshirts].
 After years in development and Facebook battles with skeptics IntelClinic was forced to back off from many of them.
 
 NeuroOn's *Final* Press Release reads:
@@ -267,7 +290,7 @@ Over two years ago[^original-blogpost] I wrote:
 
 > The NeuroOn sleep mask cannot work exactly as advertised - it cannot utilize a proper EEG signal. While it can detect a REM phase in sleep very roughly, it's very far from reliable sleep analysis. The majority of the population isn't able to achieve polyphasic sleep, since their brains aren't capable of that. A similar thing goes with lucid dreaming. NeuroOn at its best would be not too useful of a gadget to be put away after several uses.
 
- - `WRONG` Looking at the spectral analysis of NeuroOn's signal above it seems that I have been wrong in saying that it's impossible to reliably discern sleep stages from 3 electrodes located on the forehead. It looks like it should be possible, given much more research than IntelClinic has put in NeuroOn.
+ - `WRONG` Looking at the spectral analysis of NeuroOn's signal above it seems that I have been wrong in saying that it's impossible to reliably discern sleep stages from 3 electrodes located on the forehead. It looks like it should be possible, but requires much more research than IntelClinic has put in NeuroOn.
  - `RIGHT` It holds true that NeuroOn can conduct only a rough (not medical-grade) analysis of the sleep phases.
  - `RIGHT` Polyphasic Sleep isn't supported by NeuroOn, as confirmed by the IntelClinic.
  - `?` We don't know much about lucid dreaming yet, but the research required to change that might be quite costly.
@@ -304,20 +327,31 @@ There are much better aspirations than founding a startup. If you're really inte
 
 I hope my next project will help you with that.
 
-
 ### Footnotes
 
+[^sex-bias-neuroscience]: It's a running joke in neuroscience, since a lot of experimental subjects are just campus students - usually caucasian males, which leads to ignoring biodiversity. [Sex Bias in Neuroscience and Biomedical Research, Annaliese K. Beery and Irving Zucker](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3008499/) and [Androcentrism on Wikipedia](https://en.wikipedia.org/wiki/Androcentrism)
+
+[^healthy]: Full examination of my sleep patterns by a certified medical expert is available in Polish from the analysis blogpost[^analysis].
+
 [^marks]: The electrodes were pressed to my head so firmly they left visible marks the next day [(photo)](https://alxd.org/images/14_neuroon_signals/examination/electrode_prints.jpg)
+
+[^PSG]: Polysomnography is the most accurate scientific sleep study available without giving a person a brain implant - more on [Wikipedia](https://en.wikipedia.org/wiki/Polysomnography)
+
+[^non-laboratory-alternatives]: *Sleep disturbance influences human health. To examine sleep patterns, it is advisable to utilize valid subjective and objective measures. Laboratory-based polysomnography (PSG) is deemed the gold standard to measure sleep objectively, but is impractical for long-term and home utilization (e.g. resource-demanding, difficult to use). Hence, alternative devices have been developed. This study aimed to review the literature systematically, providing an overview of available objective sleep measures in non-laboratory settings as an alternative to PSG. To identify relevant articles, a specific search strategy was run in EMBASE, PubMed, CINAHL, PsycInfo and Compendex (Engineering Village 2). In addition, reference lists of retrieved articles were screened and experts within this research field were contacted. Two researchers, using specified in/exclusion criteria, screened identified citations independently in three stages: on title, abstract and full text. Data from included articles were extracted and inserted into summarizing tables outlining the results. Of the 2217 electronically identified citations, 35 studies met the inclusion criteria. Additional searches revealed eight papers. Psychometric characteristics of nine different objective measures of sleep pattern alternatives to PSG [(bed) actigraphy, observation, bed sensors, eyelid movement- and non-invasive arm sensors, a sleep switch and a remote device] were evaluated. Actigraphy is used widely and has been validated in several populations. Alternative devices to measure sleep patterns are becoming available, but most remain at prototype stage and are validated insufficiently. Future research should concentrate on the development and further validation of non-invasive, inexpensive and user-friendly sleep measures for non-laboratory settings.* - [Van De Water, A. T. M., Holmes, A., & Hurley, D. a. (2011). Objective measurements of sleep for non-laboratory settings as alternatives to polysomnography - a systematic review. Journal of Sleep Research, 20, 183–200](https://www.ncbi.nlm.nih.gov/pubmed/20374444)
+
+[^actigraph]: *Two validation studies were conducted to optimize the sleep-detection algorithm of the Actillume. The first study used home recordings of postmenopausal women (age range: 51 to 77 years), which were analyzed to derive the optimal algorithm for detecting sleep and wakefulness from wrist activity data, both for nocturnal in-bed recordings and considering the entire 24 h. The second study explored the optimal algorithm to score in-bed recordings of healthy young adults (age range: 19 to 34 years) monitored in the laboratory. In Study I, the algorithm for in-bed recordings (n=39) showed a minute-by-minute agreement of 85% between Actillume and polysomnography (PSG), a correlation of .98, and a mean measurement error (ME) of 21 min for estimates of sleep duration. Using the same algorithm to score 24-h recordings with Webster's rules, an agreement of 89%, a correlation of .90, and 1 min ME were observed. A different algorithm proved optimal to score in-bed recordings (n=31) of young adults, yielding an agreement of 91%, a correlation of .92, and an ME of 5 min. The strong correlations and agreements between sleep estimates from Actillume and PSG in both studies suggest that the Actillume can reliably monitor sleep and wakefulness both in community-residing elderly and healthy young adults in the laboratory. However, different algorithms are optimal for individuals with different characteristics.* - [Sleep detection with an accelerometer actigraph: comparisons with polysomnography - Girardin Jean-Louisa, Daniel F Kripkea, Roger J Colec, Joseph D Assmusa, Robert D Langerb](http://www.sciencedirect.com/science/article/pii/S0031938400003553)
+
+[^actillume]: *This study evaluated the Actillume instrument and the modified Action 3 sleep-wake scoring algorithm, in which the scoring factor (P) was set at 0.10, 0.14, 0.20, 0.30, 0.40 and 0.50. Fifteen subjects, each of whom underwent polysomnography with simultaneous wrist actigraphy four times, yielded a total of 60 sleep studies. The sleep data from each subject were divided into four groups. In the high sleep efficiency index groups of the calibration and validation samples, the accuracy of the algorithm significantly differed within six P-values and was highest at P=0.14. In the low sleep efficiency index groups of both samples, however, there were no significant differences in the accuracy. Thus, these results indicate that P=0.14 should be most appropriate for this actigraph and algorithm.* [Evaluation of the Actillume wrist actigraphy monitor in the detection of sleeping and waking. Matsumoto M, Miyagishi T, Sack RL, Hughes RJ, Blood ML, Lewy AJ.](https://www.ncbi.nlm.nih.gov/pubmed/9628126)
+
+[^analysis]: [NeuroOn analysis - introduction and sources]({filename}/15en_neuroon-analysis-sources.md)
+
+[^notebook]: Jupyter Notebook and all the signal files are available on [Github](https://github.com/pawelchojnacki/sleep_project)
 
 [^ryscet]: MSc Ryszard Cetnarski [github](https://github.com/ryscet/)
 
 [^email]: alxd (at) alxd (dot) org
 
 [^groggy-and-tired]: [Sleep Intertia on Wikipedia](https://en.wikipedia.org/wiki/Sleep_inertia) or from a publication: *Sleep inertia is a transitional state of lowered arousal occurring immediately after awakening from sleep and producing a temporary decrement in subsequent performance. Many factors are involved in the characteristics of sleep inertia. The duration of prior sleep can influence the severity of subsequent sleep inertia. Although most studies have focused on sleep inertia after short naps, its effects can be shown after a normal 8-h sleep period. One of the most critical factors is the sleep stage prior to awakening. Abrupt awakening during a slow wave sleep (SWS) episode produces more sleep inertia than awakening in stage 1 or 2, REM sleep being intermediate.* - [Tassi, P., & Muzet, A. (2000). Sleep inertia. Sleep Medicine Reviews, 4(4), 341–353.](https://www.ncbi.nlm.nih.gov/pubmed/12531174)
-
-[^analysis]: [NeuroOn analysis - introduction and sources]({filename}/15en_neuroon-analysis-sources.md)
-
-[^notebook]: Jupyter Notebook and all the signal files are available on [Github](https://github.com/pawelchojnacki/sleep_project)
 
 [^poster]: "Open-science: validation of neuro-startups" scientific poster is available on [my blog](neuroon-validation-poster)
 
@@ -327,13 +361,9 @@ I hope my next project will help you with that.
 
 [^AURA]: [SelectScience review](http://www.selectscience.net/products/aura-psg-ambulatory-systems/?prodID=171717)
 
-[^healthy]: Full examination of my sleep patterns by a certified medical expert is available in Polish from the analysis blogpost[^analysis].
-
 [^correlation]: Cross-correlation computed [here](https://github.com/pawelchojnacki/sleep_project/blob/master/Time_synchronization.ipynb) with various correlation tests available [here](https://github.com/pawelchojnacki/sleep_project/blob/master/Correlation%20test.ipynb)
 
 [^hypnogram-comparison]: Hypnogram comparison description, code and generated graphs are available on [Github](https://github.com/pawelchojnacki/sleep_project/blob/master/Hipnogram_comparison.ipynb)
-
-[^PSG]: Polysomnography is the most accurate scientific sleep study available without giving a person a brain implant - more on [Wikipedia](https://en.wikipedia.org/wiki/Polysomnography)
 
 [^cohens-kappa]: Cohen's kappa on [Wikipedia](https://en.wikipedia.org/wiki/Cohen%27s_kappa)
 
@@ -348,10 +378,6 @@ I hope my next project will help you with that.
 [^delta-power]: Delta Power in EEG - [Aeschbach, D., & Borbely, A. a. (1993). All-night dynamics of the human sleep EEG. Journal of Sleep Research.](https://www.ncbi.nlm.nih.gov/pubmed/10607074), [Mukai, J., Uchida, S., Miyazaki, S., Nishihara, K., & Honda, Y. (2003). Spectral analysis of all-night human sleep EEG in narcoleptic patients and normal subjects. J Sleep Res, 12(1), 63–71.](https://www.ncbi.nlm.nih.gov/pubmed/12603788)
 
 [^neuro-buzzwords]: Widespread usage of non-scientific neurological claims by many startups is a well known problem, well described by [NeuroCritic](http://neurocritic.blogspot.com/2014/01/neurocrap-funded-by-masses-neuroon-and.html) and other science journalists.
-
-[^actigraph]: *Two validation studies were conducted to optimize the sleep-detection algorithm of the Actillume. The first study used home recordings of postmenopausal women (age range: 51 to 77 years), which were analyzed to derive the optimal algorithm for detecting sleep and wakefulness from wrist activity data, both for nocturnal in-bed recordings and considering the entire 24 h. The second study explored the optimal algorithm to score in-bed recordings of healthy young adults (age range: 19 to 34 years) monitored in the laboratory. In Study I, the algorithm for in-bed recordings (n=39) showed a minute-by-minute agreement of 85% between Actillume and polysomnography (PSG), a correlation of .98, and a mean measurement error (ME) of 21 min for estimates of sleep duration. Using the same algorithm to score 24-h recordings with Webster's rules, an agreement of 89%, a correlation of .90, and 1 min ME were observed. A different algorithm proved optimal to score in-bed recordings (n=31) of young adults, yielding an agreement of 91%, a correlation of .92, and an ME of 5 min. The strong correlations and agreements between sleep estimates from Actillume and PSG in both studies suggest that the Actillume can reliably monitor sleep and wakefulness both in community-residing elderly and healthy young adults in the laboratory. However, different algorithms are optimal for individuals with different characteristics.* - [Sleep detection with an accelerometer actigraph: comparisons with polysomnography - Girardin Jean-Louisa, Daniel F Kripkea, Roger J Colec, Joseph D Assmusa, Robert D Langerb](http://www.sciencedirect.com/science/article/pii/S0031938400003553)
-
-[^actillume]: *This study evaluated the Actillume instrument and the modified Action 3 sleep-wake scoring algorithm, in which the scoring factor (P) was set at 0.10, 0.14, 0.20, 0.30, 0.40 and 0.50. Fifteen subjects, each of whom underwent polysomnography with simultaneous wrist actigraphy four times, yielded a total of 60 sleep studies. The sleep data from each subject were divided into four groups. In the high sleep efficiency index groups of the calibration and validation samples, the accuracy of the algorithm significantly differed within six P-values and was highest at P=0.14. In the low sleep efficiency index groups of both samples, however, there were no significant differences in the accuracy. Thus, these results indicate that P=0.14 should be most appropriate for this actigraph and algorithm.* [Evaluation of the Actillume wrist actigraphy monitor in the detection of sleeping and waking. Matsumoto M, Miyagishi T, Sack RL, Hughes RJ, Blood ML, Lewy AJ.](https://www.ncbi.nlm.nih.gov/pubmed/9628126)
 
 [^kickstarter]: NeuroOn Kickstarter campaign made many unfounded claims [(link)](https://www.kickstarter.com/projects/intelclinic/neuroon-worlds-first-sleep-mask-for-polyphasic-sle/description)
 
