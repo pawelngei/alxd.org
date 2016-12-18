@@ -44,7 +44,7 @@ This post is part of a series[^analysis] dedicated to NeuroOn sleep mask and its
 
 Months after the first estimates I would like to present you the results of the NeuroOn experiment, in a form accessible to laymen. The analysis took nearly four months due to my stubbornness in assuring that it's scientifically sound, completely open, and reproducible at different machines. After roughly two months of dedicating every weekend to it, I realized my own understanding of mathematic, statistical analysis and SciPy / NumPy stack falls short for this challenge and asked Ryszard Cetnarski[^ryscet] for help. Together we have been able to create a coherent Jupyter Notebook and open it for peer review on the Internet[^notebook], as well as a scientific poster[^poster] we presented at the Aspects of Neurosciences conference in Warsaw in November 2016. So far the only feedback we gathered regarded only small sample size and graph descriptions. If you have any additional suggestions, please send them to me[^email].
 
-I'd like to thank Intelclinic for providing us a test unit of NeuroOn, as well as everybody who contributed to this analysis (in random order): [Michal Kawalec](https://github.com/mkawalec/), [Adam Golinski](http://adamgol.me/), [Bartosz Krol](https://github.com/BartKrol), [Jaroslaw Hirniak](http://www.hirniak.com/), [Karolina Stosio](https://twitter.com/karaszka), Karol Benq Siek, [Dawid Laszuk](https://laszukdawid.com/) and [Piotr Migdal](http://p.migdal.pl/).
+I'd like to thank Intelclinic for providing us a test unit of NeuroOn, as well as everybody who contributed to this analysis (in random order): [Michal Kawalec](https://github.com/mkawalec/), [Adam Golinski](http://adamgol.me/), [Bartosz Krol](https://github.com/BartKrol), [Jaroslaw Hirniak](http://www.hirniak.com/), [Karolina Stosio](https://twitter.com/karaszka), [Karol Benq Siek](https://www.linkedin.com/in/karol-siek-6424487a), [Dawid Laszuk](https://laszukdawid.com/) and [Piotr Migdal](http://p.migdal.pl/).
 
 ### What did the experiment measure?
 
@@ -58,13 +58,33 @@ We analyzed signal from A1-F1 electrodes of the EEG (detailed description and el
 
 It is worth noting that there are only two nights (roughly 16 hours) of recordings captured on a healthy[^healthy] caucasian male in his 25s. To achieve any significant results we shouldn conduct experiments on a more varied population `n > 30` for more than 14 nights, including people with known sleep disorders.
 
-For NeuroOn we used the signal gathered by the three electrodes (single differential channel) on the device and sleep staging performed by offline (not real-time) algorithm executed on an external machine afterwards. The software used to do it was provided to us by Intelclinic on the 08.03.2016 under a condition that we will not try to reverse engineer it, to which we obliged.
+For NeuroOn we used the signal gathered by the three electrodes (single differential channel) on the device and sleep staging performed by offline (not real-time) algorithm executed on an external machine afterwards. The software used to do it was provided to us by Intelclinic on the 08.03.2016 under a condition that we will not try to reverse engineer[^reverse-engineer] it, to which we obliged.
 
 ### NeuroOn's time delay
 
 First, we assumed that both NeuroOn's and PSG's signals do correlate and compared them. It turns out that the devices' clocks were desynchronized, with NeuroOn's running roughly `160.5 seconds late` and having a slowly growing delay on the course of the 8-hour recording. For the second night the device's clock was `160.7 seconds late`. Both of these results were acquired using cross correlation between the signals as discussed in a Jupyter Notebook[^correlation].
 
+<a
+    href="/images/18_neuroon_analysis_summary/correlation_heatmap.png"
+    target="_blank">
+<img
+    title="NeuroOn / PSG correlation heatmap from the first night"
+    class="article-img"
+    src="/images/18_neuroon_analysis_summary/correlation_heatmap.png"
+    style="width: 600px; height: auto; margin: 2em auto 2em;">
+</a>
+
 After finding the delays from both nights we assumed that the hypnograms - sleep staging graphs from both devices do correlate and decided to analyze their time shift. It turns out that in addition to `160 seconds` of signal delay, NeuroOn hypnogram had an additional `90 seconds` delay in detecting a sleep phase. The result was achieved by running the Intelclinic's algorithms offline, using a developer's scripts - we currently have no data on delays in real-time taking place on mobile devices, as intended for end users.
+
+<a
+    href="/images/18_neuroon_analysis_summary/hypnogram_comparison.png"
+    target="_blank">
+<img
+    title="NeuroOn / PSG hypnogram comparison - Night 1"
+    class="article-img"
+    src="/images/18_neuroon_analysis_summary/hypnogram_comparison.png"
+    style="width: 600px; height: auto; margin: 2em auto 2em;">
+</a>
 
 ### Total accuracy in detecting sleep phases
 
@@ -146,13 +166,13 @@ accuracy: 0.70
 </a>
 
 
-All values on the heatmaps are minutes, not normalized horizontally nor vertically.
+Heatmaps represent confusion matrices[^confusion-matrix] normalized by rows ("Given a sleep stage detected by PSG, what was probability of NeuroOn to detect is as...?") and joint probability matrices[^joint-probability] which can give insight in the frequency of respective sleep phases.
 
 What's interesting, NeuroOn's staging algorithm never detected N1 sleep stage, which affected its total score.
 
 Accuracy[^accuracy] describes all sleep stages detected by NeuroOn compared to those detected by human in PSG signal. Average value of NeuroOn's accuracy from both nights is `0.65`, **putting it far below any requirements for medical usage.** It doesn't have to disqualify NeuroOn from personal use however.
 
-To illustrate how different NeuroOn's results are different from a purely random "coin toss", here's a bootstrapped analysis from the second night:
+To illustrate how different NeuroOn's results are different from a purely random "coin toss", here's a bootstrapped[^bootstrap] analysis from the second night:
 
 <a
     href="/images/18_neuroon_analysis_summary/accuracy_permutation_test.png"
@@ -222,7 +242,7 @@ There are two indicators of specific significance:
 
 This means that using NeuroOn's alarm clock - in perfect conditions, keeping it well pressed against one's forehead and while not having any sleep disorders - may result in extremely bad waking up nearly 1/3 of the times.
 
-Since lucid dream induction [SOURCE] is quite complex and still discussed by many researchers, we don't feel that discussing its application in NeuroOn's app[^lucid-dreaming-neuroon] is within the scope of this analysis. What we can assess is NeuroOn's ability to detect REM sleep, which is quite good - [CALCULATE].
+Since lucid dream induction[^lucid-dream-induction] is quite complex and still discussed by many researchers, we don't feel that discussing its application in NeuroOn's app[^lucid-dreaming-neuroon] is within the scope of this analysis. What we can assess is NeuroOn's ability to detect REM sleep - roughly `72.3%` of PSG-detected REM stages are detected as REM by NeuroOn (mean from both nights).
 
 <span id="delta">
 ### Beyond sleep staging - NeuroOn's signal quality
@@ -337,6 +357,8 @@ I hope my next project will help you with that.
 
 [^PSG]: Polysomnography is the most accurate scientific sleep study available without giving a person a brain implant - more on [Wikipedia](https://en.wikipedia.org/wiki/Polysomnography)
 
+[^groggy-and-tired]: [Sleep Intertia on Wikipedia](https://en.wikipedia.org/wiki/Sleep_inertia) or from a publication: *Sleep inertia is a transitional state of lowered arousal occurring immediately after awakening from sleep and producing a temporary decrement in subsequent performance. Many factors are involved in the characteristics of sleep inertia. The duration of prior sleep can influence the severity of subsequent sleep inertia. Although most studies have focused on sleep inertia after short naps, its effects can be shown after a normal 8-h sleep period. One of the most critical factors is the sleep stage prior to awakening. Abrupt awakening during a slow wave sleep (SWS) episode produces more sleep inertia than awakening in stage 1 or 2, REM sleep being intermediate.* - [Tassi, P., & Muzet, A. (2000). Sleep inertia. Sleep Medicine Reviews, 4(4), 341–353.](https://www.ncbi.nlm.nih.gov/pubmed/12531174)
+
 [^non-laboratory-alternatives]: *Sleep disturbance influences human health. To examine sleep patterns, it is advisable to utilize valid subjective and objective measures. Laboratory-based polysomnography (PSG) is deemed the gold standard to measure sleep objectively, but is impractical for long-term and home utilization (e.g. resource-demanding, difficult to use). Hence, alternative devices have been developed. This study aimed to review the literature systematically, providing an overview of available objective sleep measures in non-laboratory settings as an alternative to PSG. To identify relevant articles, a specific search strategy was run in EMBASE, PubMed, CINAHL, PsycInfo and Compendex (Engineering Village 2). In addition, reference lists of retrieved articles were screened and experts within this research field were contacted. Two researchers, using specified in/exclusion criteria, screened identified citations independently in three stages: on title, abstract and full text. Data from included articles were extracted and inserted into summarizing tables outlining the results. Of the 2217 electronically identified citations, 35 studies met the inclusion criteria. Additional searches revealed eight papers. Psychometric characteristics of nine different objective measures of sleep pattern alternatives to PSG [(bed) actigraphy, observation, bed sensors, eyelid movement- and non-invasive arm sensors, a sleep switch and a remote device] were evaluated. Actigraphy is used widely and has been validated in several populations. Alternative devices to measure sleep patterns are becoming available, but most remain at prototype stage and are validated insufficiently. Future research should concentrate on the development and further validation of non-invasive, inexpensive and user-friendly sleep measures for non-laboratory settings.* - [Van De Water, A. T. M., Holmes, A., & Hurley, D. a. (2011). Objective measurements of sleep for non-laboratory settings as alternatives to polysomnography - a systematic review. Journal of Sleep Research, 20, 183–200](https://www.ncbi.nlm.nih.gov/pubmed/20374444)
 
 [^actigraph]: *Two validation studies were conducted to optimize the sleep-detection algorithm of the Actillume. The first study used home recordings of postmenopausal women (age range: 51 to 77 years), which were analyzed to derive the optimal algorithm for detecting sleep and wakefulness from wrist activity data, both for nocturnal in-bed recordings and considering the entire 24 h. The second study explored the optimal algorithm to score in-bed recordings of healthy young adults (age range: 19 to 34 years) monitored in the laboratory. In Study I, the algorithm for in-bed recordings (n=39) showed a minute-by-minute agreement of 85% between Actillume and polysomnography (PSG), a correlation of .98, and a mean measurement error (ME) of 21 min for estimates of sleep duration. Using the same algorithm to score 24-h recordings with Webster's rules, an agreement of 89%, a correlation of .90, and 1 min ME were observed. A different algorithm proved optimal to score in-bed recordings (n=31) of young adults, yielding an agreement of 91%, a correlation of .92, and an ME of 5 min. The strong correlations and agreements between sleep estimates from Actillume and PSG in both studies suggest that the Actillume can reliably monitor sleep and wakefulness both in community-residing elderly and healthy young adults in the laboratory. However, different algorithms are optimal for individuals with different characteristics.* - [Sleep detection with an accelerometer actigraph: comparisons with polysomnography - Girardin Jean-Louisa, Daniel F Kripkea, Roger J Colec, Joseph D Assmusa, Robert D Langerb](http://www.sciencedirect.com/science/article/pii/S0031938400003553)
@@ -349,11 +371,9 @@ I hope my next project will help you with that.
 
 [^ryscet]: MSc Ryszard Cetnarski [github](https://github.com/ryscet/)
 
-[^email]: alxd (at) alxd (dot) org
-
-[^groggy-and-tired]: [Sleep Intertia on Wikipedia](https://en.wikipedia.org/wiki/Sleep_inertia) or from a publication: *Sleep inertia is a transitional state of lowered arousal occurring immediately after awakening from sleep and producing a temporary decrement in subsequent performance. Many factors are involved in the characteristics of sleep inertia. The duration of prior sleep can influence the severity of subsequent sleep inertia. Although most studies have focused on sleep inertia after short naps, its effects can be shown after a normal 8-h sleep period. One of the most critical factors is the sleep stage prior to awakening. Abrupt awakening during a slow wave sleep (SWS) episode produces more sleep inertia than awakening in stage 1 or 2, REM sleep being intermediate.* - [Tassi, P., & Muzet, A. (2000). Sleep inertia. Sleep Medicine Reviews, 4(4), 341–353.](https://www.ncbi.nlm.nih.gov/pubmed/12531174)
-
 [^poster]: "Open-science: validation of neuro-startups" scientific poster is available on [my blog](neuroon-validation-poster)
+
+[^email]: alxd (at) alxd (dot) org
 
 [^medical-grade]: "The application will also allow its users to access and setup the many features we have introduced so far, such as advanced sleep analytics, heart monitoring, intelligent alarm clock, jet lag, and alertness management, *all with medical-grade accuracy*." [source](https://www.kickstarter.com/projects/intelclinic/neuroon-worlds-first-sleep-mask-for-polyphasic-sle/posts/925602) and to a lesser extent [source](https://www.kickstarter.com/projects/intelclinic/neuroon-worlds-first-sleep-mask-for-polyphasic-sle/posts/886714), emphasis mine
 
@@ -361,21 +381,31 @@ I hope my next project will help you with that.
 
 [^AURA]: [SelectScience review](http://www.selectscience.net/products/aura-psg-ambulatory-systems/?prodID=171717)
 
+[^reverse-engineer]: From [Wikipedia](https://en.wikipedia.org/wiki/Reverse_engineering): *Reverse engineering, also called back engineering, is the processes of extracting knowledge or design information from anything man-made and re-producing it or re-producing anything based on the extracted information. The process often involves disassembling something (a mechanical device, electronic component, computer program, or biological, chemical, or organic matter) and analyzing its components and workings in detail.*
+
 [^correlation]: Cross-correlation computed [here](https://github.com/pawelchojnacki/sleep_project/blob/master/Time_synchronization.ipynb) with various correlation tests available [here](https://github.com/pawelchojnacki/sleep_project/blob/master/Correlation%20test.ipynb)
 
 [^hypnogram-comparison]: Hypnogram comparison description, code and generated graphs are available on [Github](https://github.com/pawelchojnacki/sleep_project/blob/master/Hipnogram_comparison.ipynb)
 
 [^cohens-kappa]: Cohen's kappa on [Wikipedia](https://en.wikipedia.org/wiki/Cohen%27s_kappa)
 
+[^confusion-matrix]: Confusion matrix is defined on [Wikipedia](https://en.wikipedia.org/wiki/Confusion_matrix): *"Each column of the matrix represents the instances in a predicted class while each row represents the instances in an actual class (or vice versa).[2] The name stems from the fact that it makes it easy to see if the system is confusing two classes (i.e. commonly mislabelling one as another)."* The sleep stages are normalized in rows, displaying probability of detecting respective sleep phases by NeuroOn (columns) given that the polysomnograph has detected a given (row) one.
+
+[^joint-probability]: Joint probability distribution on [Wikipedia](https://en.wikipedia.org/wiki/Joint_probability_distribution): *given at least two random variables X, Y, ..., that are defined on a probability space, the joint probability distribution for X, Y, ... is a probability distribution that gives the probability that each of X, Y, ... falls in any particular range or discrete set of values specified for that variable.*
+
 [^accuracy]: Accuracy is a measure of `(True Positives + True Negatives) / (Positives + Negatives)`, as defined in [Evaluation of binary classifiers](https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers)
+
+[^bootstrap]: As [Wikipedia](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)) defines it, *bootstrapping can refer to any test or metric that relies on random sampling with replacement. Bootstrapping allows assigning measures of accuracy (defined in terms of bias, variance, confidence intervals, prediction error or some other such measure) to sample estimates. This technique allows estimation of the sampling distribution of almost any statistic using random sampling methods. Generally, it falls in the broader class of resampling methods.*
 
 [^polyphasic-sleep]: Initial NeuroOn campaign promised customers polyphasic sleep functionalities on [Kickstarter](https://www.kickstarter.com/projects/intelclinic/neuroon-worlds-first-sleep-mask-for-polyphasic-sle)
 
+[^lucid-dream-induction]: *In lucid dreams the dreamer is aware of dreaming and often able to influence the ongoing dream content. Lucid dreaming is a learnable skill and a variety of techniques is suggested for lucid dreaming induction. This systematic review evaluated the evidence for the effectiveness of induction techniques. A comprehensive literature search was carried out in biomedical databases and specific resources. Thirty-five studies were included in the analysis (11 sleep laboratory and 24 field studies), of which 26 employed cognitive techniques, 11 external stimulation and one drug application. The methodological quality of the included studies was relatively low. None of the induction techniques were verified to induce lucid dreams reliably and consistently, although some of them look promising. On the basis of the reviewed studies, a taxonomy of lucid dream induction methods is presented. Several methodological issues are discussed and further directions for future studies are proposed.* - [Induction of lucid dreams: A systematic review of evidence - Tadas Stumbrys, Daniel Erlacher, Melanie Schädlich, Michael Schredl](http://www.sciencedirect.com/science/article/pii/S1053810012001614)
+
 [^lucid-dreaming-neuroon]: Lucid Dreaming app for [NeuroOn](https://neuroon.com/lucid-dreaming/)
 
-[^spectral-analysis]: Spectral Analysis Jupyter Notebook can be found on our [Github](https://github.com/pawelchojnacki/sleep_project/blob/master/Spectral%20analysis.ipynb)
-
 [^delta-power]: Delta Power in EEG - [Aeschbach, D., & Borbely, A. a. (1993). All-night dynamics of the human sleep EEG. Journal of Sleep Research.](https://www.ncbi.nlm.nih.gov/pubmed/10607074), [Mukai, J., Uchida, S., Miyazaki, S., Nishihara, K., & Honda, Y. (2003). Spectral analysis of all-night human sleep EEG in narcoleptic patients and normal subjects. J Sleep Res, 12(1), 63–71.](https://www.ncbi.nlm.nih.gov/pubmed/12603788)
+
+[^spectral-analysis]: Spectral Analysis Jupyter Notebook can be found on our [Github](https://github.com/pawelchojnacki/sleep_project/blob/master/Spectral%20analysis.ipynb)
 
 [^neuro-buzzwords]: Widespread usage of non-scientific neurological claims by many startups is a well known problem, well described by [NeuroCritic](http://neurocritic.blogspot.com/2014/01/neurocrap-funded-by-masses-neuroon-and.html) and other science journalists.
 
