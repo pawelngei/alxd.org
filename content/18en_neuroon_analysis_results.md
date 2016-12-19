@@ -4,20 +4,14 @@ Slug: neuroon-analysis-results
 Lang: en
 Tags: neuroon, signal analysis, science, open notebook
 Translation: false
-Status: draft
 
 ### tl;dr - So, does it work?!
-
-After performing an experiment conducted in perfect conditions: on 25-year-old caucasian male[^sex-bias-neuroscience] with no sleep disorders[^healthy], sleeping nearly motionlessly with electrodes pressed to his head so firmly they left marks the next day[^marks], we were able to conclude:
 
 NeuroOn isn't a medical grade device, but it's much better than a coin toss.
 
 The total accuracy in detecting sleep stages is **65%**. While the results may be viewed as a step in a right direction, it should be kept in mind that accelerometer-only sleep stage analysis may yield better scores[^non-laboratory-alternatives] [^actigraph] - up to **81%** accuracy[^actillume].
 
-Since this value holds little meaning to an end-user, let's ask two simpler questions:
-
- - Will NeuroOn wake me up when it has an opportunity to?
- - Will NeuroOn not wake me up when it shouldn't?
+One of the biggest problems with NeuroOn is that when used as an alarm clock almost every third time (**31.6%**) it will choose the worst possible moment for waking, assuring exhaustion and grogginess for the rest of the day[^groggy-and-tired].
 
 Comparing NeuroOn's sleep stage results to a professional polysomnography[^PSG] scored by a human expert:
 
@@ -65,9 +59,9 @@ EEG-based polysomnographs are the best medical- and scientific- grade devices fo
 
 We analyzed signal from A1-F1 electrodes of the EEG (detailed description and electrode placement is available in the analysis blogpost[^analysis]), pre-cleaned by the Aura PSG amplifier[^AURA] and sleep staging performed by a human technician.
 
-It is worth noting that there are only two nights (roughly 16 hours) of recordings captured on a healthy[^healthy] caucasian male in his 25s. To achieve any significant results we shouldn conduct experiments on a more varied population `n > 30` for more than 14 nights, including people with known sleep disorders.
+It is worth noting that there are only two nights (roughly 16 hours) of recordings captured on a healthy[^healthy] caucasian male[^sex-bias-neuroscience] in his 25s. To achieve any significant results we should conduct experiments on a more varied population `n > 30` for more than 14 nights, including people with known sleep disorders.
 
-For NeuroOn we used the signal gathered by the three electrodes (single differential channel) on the device and sleep staging performed by offline (not real-time) algorithm executed on an external machine afterwards. The software used to do it was provided to us by Intelclinic on the 08.03.2016 under a condition that we will not try to reverse engineer[^reverse-engineer] it, to which we obliged.
+For NeuroOn we used the signal gathered by the three electrodes (single differential channel) on the device pressed to patient's head so firmly they left marks the next day[^marks]. The sleep staging was performed by offline (not real-time) algorithm executed on an external machine afterwards. The software used to do it was provided to us by Intelclinic on the 08.03.2016 under a condition that we will not try to reverse engineer[^reverse-engineer] it, to which we obliged.
 
 We do not have any information about algorithm implementations on mobile devices used with end-user NeuroOn masks or their possible limitations.
 
@@ -85,7 +79,7 @@ First, we assumed that both NeuroOn's and PSG's signals do correlate and compare
     style="width: 600px; height: auto; margin: 2em auto 2em;">
 </a>
 
-After finding the delays from both nights we assumed that the hypnograms - sleep staging graphs from both devices do correlate and decided to analyze their time shift. It turns out that in addition to `160 seconds` of signal delay, NeuroOn hypnogram had an additional `90 seconds` delay in detecting a sleep phase. The result was achieved by running the Intelclinic's algorithms offline, using a developer's scripts - we currently have no data on delays in real-time taking place on mobile devices, as intended for end users.
+After finding the delays from both nights we assumed that the hypnograms - sleep staging graphs from both devices do correlate and decided to analyze their time shift. It turns out that in addition to `160 seconds` of signal delay, NeuroOn hypnogram had an additional `90 seconds` delay in detecting a sleep phase. This hypnogram was acquired by running the Intelclinic's algorithms offline, using developer's scripts - we currently have no data on delays in real-time taking place on mobile devices, as intended for end users.
 
 <a
     href="/images/18_neuroon_analysis_summary/hypnogram_comparison.png"
@@ -99,7 +93,7 @@ After finding the delays from both nights we assumed that the hypnograms - sleep
 
 ### Total accuracy in detecting sleep phases
 
-With the clock synchronization no longer an issue, we can start comparing sleep staging between the two sources. The Jupyter Notebook[^hypnogram-comparison] is a good read for anyone interested in the code itself.
+With the clock synchronization no longer an issue, we could start comparing sleep staging between the two sources. The Jupyter Notebook[^hypnogram-comparison] is a good read for anyone interested in the code itself.
 
 Since usage of EEG-based polysomnography[^PSG] and human-conducted sleep staging are at the moment of writing both academical and industrial standard, we assumed that PSG sleep stages are our single source of truth to which we compared NeuroOn's hypnograms.
 
@@ -355,17 +349,11 @@ Real innovation requires research. It's tedious, takes much more time than  the 
 
 I view startups similar to Intelclinic as deeply harmful for everyone - customers don't get what they pay for, investors are being misguided about what they support, researchers see their work being abused for the sake of a marketing campaign, and finally the society is being manipulated to see some kind of progress and hope in all that.
 
-At the same time as NeuroOn, another neuro-device was put on Kickstarter - OpenBCI[^openbci]. It's a small open hardware EEG amplifier which allows to conduct their own experiments much cheaper than with university equipment. It didn't promise to make everyone's life better and it wasn't marketed as well as the IntelClinic's product. Despite earning much less money, OpenBCI delivered a device fulfilling all their promises.
+At the same time as NeuroOn, another neuro-device was put on Kickstarter - OpenBCI[^openbci]. It's a small open hardware EEG amplifier which allows to conduct experiments much cheaper than with university equipment. It didn't promise to make everyone's life better and it wasn't marketed as well as the IntelClinic's product. Despite earning much less money, OpenBCI delivered a device fulfilling all their promises.
 
 When it comes to real progress and innovation, I'm much more inclined to believe researchers, hackers and makers showing open whitepapers and working prototypes first.
 
 ### Footnotes
-
-[^sex-bias-neuroscience]: It's a running joke in neuroscience, since a lot of experimental subjects are just campus students - usually caucasian males, which leads to ignoring biodiversity. [Sex Bias in Neuroscience and Biomedical Research, Annaliese K. Beery and Irving Zucker](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3008499/) and [Androcentrism on Wikipedia](https://en.wikipedia.org/wiki/Androcentrism)
-
-[^healthy]: Full examination of my sleep patterns by a certified medical expert is available in Polish from the analysis blogpost[^analysis].
-
-[^marks]: The electrodes were pressed to my head so firmly they left visible marks the next day [(photo)](https://alxd.org/images/14_neuroon_signals/examination/electrode_prints.jpg)
 
 [^non-laboratory-alternatives]: *Sleep disturbance influences human health. To examine sleep patterns, it is advisable to utilize valid subjective and objective measures. Laboratory-based polysomnography (PSG) is deemed the gold standard to measure sleep objectively, but is impractical for long-term and home utilization (e.g. resource-demanding, difficult to use). Hence, alternative devices have been developed. This study aimed to review the literature systematically, providing an overview of available objective sleep measures in non-laboratory settings as an alternative to PSG. To identify relevant articles, a specific search strategy was run in EMBASE, PubMed, CINAHL, PsycInfo and Compendex (Engineering Village 2). In addition, reference lists of retrieved articles were screened and experts within this research field were contacted. Two researchers, using specified in/exclusion criteria, screened identified citations independently in three stages: on title, abstract and full text. Data from included articles were extracted and inserted into summarizing tables outlining the results. Of the 2217 electronically identified citations, 35 studies met the inclusion criteria. Additional searches revealed eight papers. Psychometric characteristics of nine different objective measures of sleep pattern alternatives to PSG [(bed) actigraphy, observation, bed sensors, eyelid movement- and non-invasive arm sensors, a sleep switch and a remote device] were evaluated. Actigraphy is used widely and has been validated in several populations. Alternative devices to measure sleep patterns are becoming available, but most remain at prototype stage and are validated insufficiently. Future research should concentrate on the development and further validation of non-invasive, inexpensive and user-friendly sleep measures for non-laboratory settings.* - [Van De Water, A. T. M., Holmes, A., & Hurley, D. a. (2011). Objective measurements of sleep for non-laboratory settings as alternatives to polysomnography - a systematic review. Journal of Sleep Research, 20, 183–200](https://www.ncbi.nlm.nih.gov/pubmed/20374444)
 
@@ -373,9 +361,9 @@ When it comes to real progress and innovation, I'm much more inclined to believe
 
 [^actillume]: *This study evaluated the Actillume instrument and the modified Action 3 sleep-wake scoring algorithm, in which the scoring factor (P) was set at 0.10, 0.14, 0.20, 0.30, 0.40 and 0.50. Fifteen subjects, each of whom underwent polysomnography with simultaneous wrist actigraphy four times, yielded a total of 60 sleep studies. The sleep data from each subject were divided into four groups. In the high sleep efficiency index groups of the calibration and validation samples, the accuracy of the algorithm significantly differed within six P-values and was highest at P=0.14. In the low sleep efficiency index groups of both samples, however, there were no significant differences in the accuracy. Thus, these results indicate that P=0.14 should be most appropriate for this actigraph and algorithm.* [Evaluation of the Actillume wrist actigraphy monitor in the detection of sleeping and waking. Matsumoto M, Miyagishi T, Sack RL, Hughes RJ, Blood ML, Lewy AJ.](https://www.ncbi.nlm.nih.gov/pubmed/9628126)
 
-[^PSG]: Polysomnography is the most accurate scientific sleep study available without giving a person a brain implant - more on [Wikipedia](https://en.wikipedia.org/wiki/Polysomnography)
-
 [^groggy-and-tired]: [Sleep Intertia on Wikipedia](https://en.wikipedia.org/wiki/Sleep_inertia) or from a publication: *Sleep inertia is a transitional state of lowered arousal occurring immediately after awakening from sleep and producing a temporary decrement in subsequent performance. Many factors are involved in the characteristics of sleep inertia. The duration of prior sleep can influence the severity of subsequent sleep inertia. Although most studies have focused on sleep inertia after short naps, its effects can be shown after a normal 8-h sleep period. One of the most critical factors is the sleep stage prior to awakening. Abrupt awakening during a slow wave sleep (SWS) episode produces more sleep inertia than awakening in stage 1 or 2, REM sleep being intermediate.* - [Tassi, P., & Muzet, A. (2000). Sleep inertia. Sleep Medicine Reviews, 4(4), 341–353.](https://www.ncbi.nlm.nih.gov/pubmed/12531174)
+
+[^PSG]: Polysomnography is the most accurate scientific sleep study available without giving a person a brain implant - more on [Wikipedia](https://en.wikipedia.org/wiki/Polysomnography)
 
 [^analysis]: [NeuroOn analysis - introduction and sources]({filename}/15en_neuroon-analysis-sources.md)
 
@@ -396,6 +384,12 @@ When it comes to real progress and innovation, I'm much more inclined to believe
 [^near-medical-grade]: The core functionality of the device is nearly medical-grade sleep measurements and helping people who work shifts, suffer jet lags or have problems falling asleep. The device does not support polyphasic sleep. [source](https://neuroon.com/news/final-version-neuroon-press-release/)
 
 [^AURA]: [SelectScience review](http://www.selectscience.net/products/aura-psg-ambulatory-systems/?prodID=171717)
+
+[^healthy]: Full examination of my sleep patterns by a certified medical expert is available in Polish from the analysis blogpost[^analysis].
+
+[^sex-bias-neuroscience]: It's a running joke in neuroscience, since a lot of experimental subjects are just campus students - usually caucasian males, which leads to ignoring biodiversity. [Sex Bias in Neuroscience and Biomedical Research, Annaliese K. Beery and Irving Zucker](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3008499/) and [Androcentrism on Wikipedia](https://en.wikipedia.org/wiki/Androcentrism)
+
+[^marks]: The electrodes were pressed to my head so firmly they left visible marks the next day [(photo)](https://alxd.org/images/14_neuroon_signals/examination/electrode_prints.jpg)
 
 [^reverse-engineer]: From [Wikipedia](https://en.wikipedia.org/wiki/Reverse_engineering): *Reverse engineering, also called back engineering, is the processes of extracting knowledge or design information from anything man-made and re-producing it or re-producing anything based on the extracted information. The process often involves disassembling something (a mechanical device, electronic component, computer program, or biological, chemical, or organic matter) and analyzing its components and workings in detail.*
 
