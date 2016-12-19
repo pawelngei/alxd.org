@@ -1,5 +1,5 @@
 Title: NeuroOn analysis - results and discussion
-Date: 2016-12-10
+Date: 2016-12-19
 Slug: neuroon-analysis-results
 Lang: en
 Tags: neuroon, signal analysis, science, open notebook
@@ -12,7 +12,9 @@ After performing an experiment conducted in perfect conditions: on 25-year-old c
 
 NeuroOn isn't a medical grade device, but it's much better than a coin toss.
 
-The total accuracy in detecting sleep stages is **65%**. Since this value holds little meaning to an end-user, let's ask two simpler questions:
+The total accuracy in detecting sleep stages is **65%**. While the results may be viewed as a step in a right direction, it should be kept in mind that accelerometer-only sleep stage analysis may yield better scores[^non-laboratory-alternatives] [^actigraph] - up to **81%** accuracy[^actillume].
+
+Since this value holds little meaning to an end-user, let's ask two simpler questions:
 
  - Will NeuroOn wake me up when it has an opportunity to?
  - Will NeuroOn not wake me up when it shouldn't?
@@ -20,21 +22,28 @@ The total accuracy in detecting sleep stages is **65%**. Since this value holds 
 Comparing NeuroOn's sleep stage results to a professional polysomnography[^PSG] scored by a human expert:
 
 <a
-    href="/images/18_neuroon_analysis_summary/intro_waking_matrix_en.png"
+    href="/images/18_neuroon_analysis_summary/intro_wake.png"
     target="_blank">
 <img
-    title="Waking Matrix with PSG and NeuroOn"
+    title="Should you be woken up?"
     class="article-img"
-    src="/images/18_neuroon_analysis_summary/intro_waking_matrix_en.png"
-    style="width: 500px; height: auto; margin: 2em auto 2em;">
+    src="/images/18_neuroon_analysis_summary/intro_wake.png"
+    style="width: 400px; height: auto; margin: 2em auto 2em;">
 </a>
 
- - In **73.8%** of cases where PSG detects a sleep phase suitable for waking up, NeuroOn agrees.
- - In **26.2%** it doesn't, meaning that it will wait for the next opportunity. No big deal.
- - In **68.4%** of cases where PSG says not to wake us up, NeuroOn agrees.
- - In **31.6%** of cases where we absolutely shouldn't be woken up, NeuroOn would still do it. **That's a big deal**, since it means that every ~third Night with NeuroOn alarm clock on we will wake up extremely groggy and tired[^groggy-and-tired].
+When polysomnography detects a sleep phase suitable for waking up, NeuroOn agrees in **73.8%** of the cases. In the rest **26.2%** it isn't a big deal, since it will just wait until the next good opportunity to wake you up.
 
-While the results may be viewed as a step in a right direction, it should be kept in mind that accelerometer-only sleep stage analysis may yield better scores[^non-laboratory-alternatives] [^actigraph] - up to `81%` accuracy[^actillume] compared to NeuroOn's `65%`.
+<a
+    href="/images/18_neuroon_analysis_summary/intro_sleep.png"
+    target="_blank">
+<img
+    title="Should you stay asleep?"
+    class="article-img"
+    src="/images/18_neuroon_analysis_summary/intro_sleep.png"
+    style="width: 400px; height: auto; margin: 2em auto 2em;">
+</a>
+
+When polysomnography says not to wake the user up, NeuroOn agrees in **68.4%**. In the rest **31.6%** - nearly a third of all cases - it could try to wake the user, resulting in grogginess and complete lack of energy till the end of the day[^groggy-and-tired]. **This is a big deal** and may defeat the purpose of NeuroOn's alarm clock altogether.
 
 And for the people who would like to understand what actually happened here...
 
@@ -286,7 +295,7 @@ Even though NeuroOn's marketing success was largely founded in the usage of neur
 
 Research done on multiple PSG alternatives[^non-laboratory-alternatives], including clinical-grade wrist-worn devices[^actigraph]  [^actillume] suggests that is is possible to achieve results better than NeuroOn's by focusing on accelerometer analysis only. Respective teams were able to obtain `82-89%` agreement rate with the PSG[^actigraph] and `81%` overall accuracy[^actillume] on much bigger populations than this experiment.
 
-NeuroOn's campaign openly criticized wrist-based accelerometers, claiming that *"The competition? They must be dreaming!" (...) "Accelerometer is less precise than biological signal processing"*  [^kickstarter]. After through analysis - it doesn't seem that NeuroOn makes much use of the latter.
+NeuroOn's campaign openly criticized wrist-based accelerometers, claiming that *"The competition? They must be dreaming!" (...) "Accelerometer is less precise than biological signal processing"*  [^kickstarter]. After thorough analysis - it doesn't seem that NeuroOn makes much use of the latter.
 
 ### Contrast with current claims
 
@@ -338,15 +347,17 @@ Addressing lucid dreaming and light therapy is beyond the scope of this experime
 
 Winding up several months of research, tweaking the code, trying to make sense of the data, wondering if every method is statistically significant - I can say I'm happy I could have done that. No one paid me - quite the opposite, I rented the hospital lab and PSG with my own money - yet still, it was worth it.
 
-I'd like for everyone to make their own opinion on NeuroOn by reading this pretty detailed analysis, checking my computations and logic. Personally I consider NeuroOn to be a failed project, not researched enough from the start, running mostly on daring marketing promising the impossible.
+I'd like everyone to make their own opinion on NeuroOn by reading this pretty detailed analysis. If you don't trust it, feel free to re-check all my computations in the Jupyter Notebook[^notebook].
+
+Personally I consider NeuroOn to be a failed project, not researched enough from the start, running mostly on daring marketing promising the impossible.
 
 Real innovation requires research. It's tedious, takes much more time than  the startup community promises. But it's honest - and it's the only way that yields any results.
 
-I consider startups similar to Intelclinic deeply harmful for everyone - customers don't get what they pay for, investors are being misguided about what they support, researchers see their work being abused for the sake of a marketing campaign, and finally the society is being manipulated to see some kind of progress and hope in all that.
+I view startups similar to Intelclinic as deeply harmful for everyone - customers don't get what they pay for, investors are being misguided about what they support, researchers see their work being abused for the sake of a marketing campaign, and finally the society is being manipulated to see some kind of progress and hope in all that.
 
-At the same time as NeuroOn, another neuro-device was put on Kickstarter - OpenBCI[^openbci]. It's a small open hardware EEG amplifier allowing students, hackers and researchers to conduct their own experiments much cheaper than with university equipment. It didn't promise to make everyone's life better and it wasn't marketed as well as the IntelClinic's product. Despite earning much less money, OpenBCI delivered a device fulfilling all their promises.
+At the same time as NeuroOn, another neuro-device was put on Kickstarter - OpenBCI[^openbci]. It's a small open hardware EEG amplifier which allows to conduct their own experiments much cheaper than with university equipment. It didn't promise to make everyone's life better and it wasn't marketed as well as the IntelClinic's product. Despite earning much less money, OpenBCI delivered a device fulfilling all their promises.
 
-When it comes to real progress and innovation, I'm much more inclined to believe researchers, hackers and makers showing whitepapers and working prototypes first, not shiny and well-marketed startups.
+When it comes to real progress and innovation, I'm much more inclined to believe researchers, hackers and makers showing open whitepapers and working prototypes first.
 
 ### Footnotes
 
@@ -356,15 +367,15 @@ When it comes to real progress and innovation, I'm much more inclined to believe
 
 [^marks]: The electrodes were pressed to my head so firmly they left visible marks the next day [(photo)](https://alxd.org/images/14_neuroon_signals/examination/electrode_prints.jpg)
 
-[^PSG]: Polysomnography is the most accurate scientific sleep study available without giving a person a brain implant - more on [Wikipedia](https://en.wikipedia.org/wiki/Polysomnography)
-
-[^groggy-and-tired]: [Sleep Intertia on Wikipedia](https://en.wikipedia.org/wiki/Sleep_inertia) or from a publication: *Sleep inertia is a transitional state of lowered arousal occurring immediately after awakening from sleep and producing a temporary decrement in subsequent performance. Many factors are involved in the characteristics of sleep inertia. The duration of prior sleep can influence the severity of subsequent sleep inertia. Although most studies have focused on sleep inertia after short naps, its effects can be shown after a normal 8-h sleep period. One of the most critical factors is the sleep stage prior to awakening. Abrupt awakening during a slow wave sleep (SWS) episode produces more sleep inertia than awakening in stage 1 or 2, REM sleep being intermediate.* - [Tassi, P., & Muzet, A. (2000). Sleep inertia. Sleep Medicine Reviews, 4(4), 341–353.](https://www.ncbi.nlm.nih.gov/pubmed/12531174)
-
 [^non-laboratory-alternatives]: *Sleep disturbance influences human health. To examine sleep patterns, it is advisable to utilize valid subjective and objective measures. Laboratory-based polysomnography (PSG) is deemed the gold standard to measure sleep objectively, but is impractical for long-term and home utilization (e.g. resource-demanding, difficult to use). Hence, alternative devices have been developed. This study aimed to review the literature systematically, providing an overview of available objective sleep measures in non-laboratory settings as an alternative to PSG. To identify relevant articles, a specific search strategy was run in EMBASE, PubMed, CINAHL, PsycInfo and Compendex (Engineering Village 2). In addition, reference lists of retrieved articles were screened and experts within this research field were contacted. Two researchers, using specified in/exclusion criteria, screened identified citations independently in three stages: on title, abstract and full text. Data from included articles were extracted and inserted into summarizing tables outlining the results. Of the 2217 electronically identified citations, 35 studies met the inclusion criteria. Additional searches revealed eight papers. Psychometric characteristics of nine different objective measures of sleep pattern alternatives to PSG [(bed) actigraphy, observation, bed sensors, eyelid movement- and non-invasive arm sensors, a sleep switch and a remote device] were evaluated. Actigraphy is used widely and has been validated in several populations. Alternative devices to measure sleep patterns are becoming available, but most remain at prototype stage and are validated insufficiently. Future research should concentrate on the development and further validation of non-invasive, inexpensive and user-friendly sleep measures for non-laboratory settings.* - [Van De Water, A. T. M., Holmes, A., & Hurley, D. a. (2011). Objective measurements of sleep for non-laboratory settings as alternatives to polysomnography - a systematic review. Journal of Sleep Research, 20, 183–200](https://www.ncbi.nlm.nih.gov/pubmed/20374444)
 
 [^actigraph]: *Two validation studies were conducted to optimize the sleep-detection algorithm of the Actillume. The first study used home recordings of postmenopausal women (age range: 51 to 77 years), which were analyzed to derive the optimal algorithm for detecting sleep and wakefulness from wrist activity data, both for nocturnal in-bed recordings and considering the entire 24 h. The second study explored the optimal algorithm to score in-bed recordings of healthy young adults (age range: 19 to 34 years) monitored in the laboratory. In Study I, the algorithm for in-bed recordings (n=39) showed a minute-by-minute agreement of 85% between Actillume and polysomnography (PSG), a correlation of .98, and a mean measurement error (ME) of 21 min for estimates of sleep duration. Using the same algorithm to score 24-h recordings with Webster's rules, an agreement of 89%, a correlation of .90, and 1 min ME were observed. A different algorithm proved optimal to score in-bed recordings (n=31) of young adults, yielding an agreement of 91%, a correlation of .92, and an ME of 5 min. The strong correlations and agreements between sleep estimates from Actillume and PSG in both studies suggest that the Actillume can reliably monitor sleep and wakefulness both in community-residing elderly and healthy young adults in the laboratory. However, different algorithms are optimal for individuals with different characteristics.* - [Sleep detection with an accelerometer actigraph: comparisons with polysomnography - Girardin Jean-Louisa, Daniel F Kripkea, Roger J Colec, Joseph D Assmusa, Robert D Langerb](http://www.sciencedirect.com/science/article/pii/S0031938400003553)
 
 [^actillume]: *This study evaluated the Actillume instrument and the modified Action 3 sleep-wake scoring algorithm, in which the scoring factor (P) was set at 0.10, 0.14, 0.20, 0.30, 0.40 and 0.50. Fifteen subjects, each of whom underwent polysomnography with simultaneous wrist actigraphy four times, yielded a total of 60 sleep studies. The sleep data from each subject were divided into four groups. In the high sleep efficiency index groups of the calibration and validation samples, the accuracy of the algorithm significantly differed within six P-values and was highest at P=0.14. In the low sleep efficiency index groups of both samples, however, there were no significant differences in the accuracy. Thus, these results indicate that P=0.14 should be most appropriate for this actigraph and algorithm.* [Evaluation of the Actillume wrist actigraphy monitor in the detection of sleeping and waking. Matsumoto M, Miyagishi T, Sack RL, Hughes RJ, Blood ML, Lewy AJ.](https://www.ncbi.nlm.nih.gov/pubmed/9628126)
+
+[^PSG]: Polysomnography is the most accurate scientific sleep study available without giving a person a brain implant - more on [Wikipedia](https://en.wikipedia.org/wiki/Polysomnography)
+
+[^groggy-and-tired]: [Sleep Intertia on Wikipedia](https://en.wikipedia.org/wiki/Sleep_inertia) or from a publication: *Sleep inertia is a transitional state of lowered arousal occurring immediately after awakening from sleep and producing a temporary decrement in subsequent performance. Many factors are involved in the characteristics of sleep inertia. The duration of prior sleep can influence the severity of subsequent sleep inertia. Although most studies have focused on sleep inertia after short naps, its effects can be shown after a normal 8-h sleep period. One of the most critical factors is the sleep stage prior to awakening. Abrupt awakening during a slow wave sleep (SWS) episode produces more sleep inertia than awakening in stage 1 or 2, REM sleep being intermediate.* - [Tassi, P., & Muzet, A. (2000). Sleep inertia. Sleep Medicine Reviews, 4(4), 341–353.](https://www.ncbi.nlm.nih.gov/pubmed/12531174)
 
 [^analysis]: [NeuroOn analysis - introduction and sources]({filename}/15en_neuroon-analysis-sources.md)
 
