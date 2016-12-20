@@ -7,11 +7,11 @@ Translation: true
 
 ### tl;dr - Czy to w końcu działa?!
 
-NeuroOn nie jest urządzeniem o dokładności medycznej, jednak jest znacnzie lepszy niż rzut monetą.
+[NeuroOn](https://neuroon.com/), *"pierwsza inteligentna maska do snu"* nie jest urządzeniem o dokładności medycznej, jednak jest znacznie lepszy niż rzut monetą.
 
-Końcowa dokładność w rozpoznawaniu faz snu wynosi **65%**. Może być to krok w dobrym kierunku, jednak już teraz istnieją na rynku rozwiązania opierające się jedynie na akcelerometrze, które rozpoznają fazy snu z dokładnością **81%**.
+Końcowa dokładność w rozpoznawaniu faz snu wynosi **65%**.
 
-Jednym z największych problemów z NeuroOnem jest fakt, że kiedy używamy go jako budzika - co około trzecią noc (w **31.6%** przypadków) obudzi nas w najgorszym możliwym momencie, gwarantując ospałość i przemęczenie przez resztę dnia.
+Jednym z największych problemów z NeuroOnem jest fakt, że kiedy używamy go jako budzika - co około trzecią noc (w **31.6%** przypadków) obudzi nas w najgorszym możliwym momencie, gwarantując ospałość i przemęczenie po przebudzeniu.
 
 Porównując zdolność rozpoznawania faz snu przez NeuroOna z profesjonalnym badaniem polisomnograficznym opisanym przez człowieka:
 
@@ -37,6 +37,6 @@ Gdy polisomnografia wykrywa fazę snu nadającą się do wybudzenia, NeuroOn zga
     style="width: 400px; height: auto; margin: 2em auto 2em;">
 </a>
 
-Kiedy polisomnografia wykrywa fazę snu z której nie powinniśmy być wybudzani, NeuroOn zgadza się w **68.4%**. W pozostałych **31.6%** - niemal jednej trzeciej - będzie próbował nas wybudzić, co wywoła ospałość i brak energii do końca dnia. **Jest to poważny problem**, który może całkowicie zdyskwalifikować NeuroOna jako urządzenie do użytku prywatnego.
+Kiedy polisomnografia wykrywa fazę snu z której nie powinniśmy być wybudzani, NeuroOn zgadza się w **68.4%**. W pozostałych **31.6%** - niemal jednej trzeciej - będzie próbował nas wybudzić, co wywoła ospałość i brak energii po przebudzeniu. **Jest to poważny problem**, który może całkowicie zdyskwalifikować NeuroOna jako urządzenie do użytku prywatnego.
 
 Całe podsumowanie wraz z opisem badania można przeczytać [po angielsku]({filename}/18en_neuroon_analysis_results.md).
