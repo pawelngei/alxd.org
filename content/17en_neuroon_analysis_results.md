@@ -5,7 +5,7 @@ Lang: en
 Tags: neuroon, signal analysis, science, open notebook
 Translation: false
 
-Updated once, on 20 December 2016. Notes below.
+Updated twice, last on 21 December 2016. Notes below.
 
 ### tl;dr - So, does it work?!
 
@@ -18,24 +18,24 @@ One of the biggest problems with NeuroOn is that when used as an alarm clock alm
 Comparing NeuroOn's sleep stage results to a professional polysomnography[^PSG] scored by a human expert:
 
 <a
-    href="/images/18_neuroon_analysis_summary/intro_wake.png"
+    href="/images/17_neuroon_analysis_summary/intro_wake.png"
     target="_blank">
 <img
     title="Should you be woken up?"
     class="article-img"
-    src="/images/18_neuroon_analysis_summary/intro_wake.png"
+    src="/images/17_neuroon_analysis_summary/intro_wake.png"
     style="width: 400px; height: auto; margin: 2em auto 2em;">
 </a>
 
 When polysomnography detects a sleep phase suitable for waking up, NeuroOn agrees in **73.8%** of the cases. In the rest **26.2%** it isn't a big deal, since it will just wait until the next good opportunity to wake you up.
 
 <a
-    href="/images/18_neuroon_analysis_summary/intro_sleep.png"
+    href="/images/17_neuroon_analysis_summary/intro_sleep.png"
     target="_blank">
 <img
     title="Should you stay asleep?"
     class="article-img"
-    src="/images/18_neuroon_analysis_summary/intro_sleep.png"
+    src="/images/17_neuroon_analysis_summary/intro_sleep.png"
     style="width: 400px; height: auto; margin: 2em auto 2em;">
 </a>
 
@@ -72,24 +72,24 @@ We do not have any information about algorithm implementations on mobile devices
 First, we assumed that both NeuroOn's and PSG's signals do correlate and compared them. It turns out that the devices' clocks were desynchronized, with NeuroOn's running roughly `160.5 seconds late` and having a slowly growing delay on the course of the 8-hour recording. For the second night the device's clock was `160.7 seconds late`. Both of these results were acquired using cross correlation between the signals as discussed in a Jupyter Notebook[^correlation].
 
 <a
-    href="/images/18_neuroon_analysis_summary/correlation_heatmap.png"
+    href="/images/17_neuroon_analysis_summary/correlation_heatmap.png"
     target="_blank">
 <img
     title="NeuroOn / PSG correlation heatmap from the first night"
     class="article-img"
-    src="/images/18_neuroon_analysis_summary/correlation_heatmap.png"
+    src="/images/17_neuroon_analysis_summary/correlation_heatmap.png"
     style="width: 600px; height: auto; margin: 2em auto 2em;">
 </a>
 
 After finding the delays from both nights we assumed that the hypnograms - sleep staging graphs from both devices do correlate and decided to analyze their time shift. It turns out that in addition to `160 seconds` of signal delay, NeuroOn hypnogram had an additional `90 seconds` delay in detecting a sleep phase. This hypnogram was acquired by running the Intelclinic's algorithms offline, using developer's scripts - we currently have no data on delays in real-time taking place on mobile devices, as intended for end users.
 
 <a
-    href="/images/18_neuroon_analysis_summary/hypnogram_comparison.png"
+    href="/images/17_neuroon_analysis_summary/hypnogram_comparison.png"
     target="_blank">
 <img
     title="NeuroOn / PSG hypnogram comparison - Night 1"
     class="article-img"
-    src="/images/18_neuroon_analysis_summary/hypnogram_comparison.png"
+    src="/images/17_neuroon_analysis_summary/hypnogram_comparison.png"
     style="width: 600px; height: auto; margin: 2em auto 2em;">
 </a>
 
@@ -116,22 +116,22 @@ accuracy: 0.60
 ```
 
 <a
-    href="/images/18_neuroon_analysis_summary/night_01_all_stages.png"
+    href="/images/17_neuroon_analysis_summary/night_01_all_stages.png"
     target="_blank">
 <img
     title="Night 01 - sleep stages confusion matrix (normalized by rows)"
     class="article-img"
-    src="/images/18_neuroon_analysis_summary/night_01_all_stages.png"
+    src="/images/17_neuroon_analysis_summary/night_01_all_stages.png"
     style="width: 500px; height: auto; margin: 2em auto 2em;">
 </a>
 
 <a
-    href="/images/18_neuroon_analysis_summary/night_01_all_stages.png"
+    href="/images/17_neuroon_analysis_summary/night_01_all_stages.png"
     target="_blank">
 <img
     title="Night 01 - sleep stages joint probability matrix"
     class="article-img"
-    src="/images/18_neuroon_analysis_summary/night_01_all_stages_joint.png"
+    src="/images/17_neuroon_analysis_summary/night_01_all_stages_joint.png"
     style="width: 500px; height: auto; margin: 2em auto 2em;">
 </a>
 
@@ -153,22 +153,22 @@ accuracy: 0.70
 ```
 
 <a
-    href="/images/18_neuroon_analysis_summary/night_02_all_stages.png"
+    href="/images/17_neuroon_analysis_summary/night_02_all_stages.png"
     target="_blank">
 <img
     title="Night 02 - sleep stages confusion matrix (normalized by rows)"
     class="article-img"
-    src="/images/18_neuroon_analysis_summary/night_02_all_stages.png"
+    src="/images/17_neuroon_analysis_summary/night_02_all_stages.png"
     style="width: 500px; height: auto; margin: 2em auto 2em;">
 </a>
 
 <a
-    href="/images/18_neuroon_analysis_summary/night_02_all_stages.png"
+    href="/images/17_neuroon_analysis_summary/night_02_all_stages.png"
     target="_blank">
 <img
     title="Night 02 - sleep stages joint probability matrix"
     class="article-img"
-    src="/images/18_neuroon_analysis_summary/night_02_all_stages_joint.png"
+    src="/images/17_neuroon_analysis_summary/night_02_all_stages_joint.png"
     style="width: 500px; height: auto; margin: 2em auto 2em;">
 </a>
 
@@ -179,12 +179,12 @@ Accuracy[^accuracy] describes all sleep stages detected by NeuroOn compared to t
 To illustrate how different NeuroOn's results are different from a purely random "coin toss", here's a bootstrapped[^bootstrap] analysis from the second night:
 
 <a
-    href="/images/18_neuroon_analysis_summary/accuracy_permutation_test.png"
+    href="/images/17_neuroon_analysis_summary/accuracy_permutation_test.png"
     target="_blank">
 <img
     title="Night 02 - All stages"
     class="article-img"
-    src="/images/18_neuroon_analysis_summary/accuracy_permutation_test.png"
+    src="/images/17_neuroon_analysis_summary/accuracy_permutation_test.png"
     style="width: 500px; height: auto; margin: 2em auto 2em;">
 </a>
 
@@ -206,36 +206,36 @@ We aggregated the results of these sleep stages, allowing NeuroOn to misidentify
 Normalized and aggregated results from the first night:
 
 <a
-    href="/images/18_neuroon_analysis_summary/night_01_simplified.png"
+    href="/images/17_neuroon_analysis_summary/night_01_simplified.png"
     target="_blank">
 <img
     title="Night 01 - Simplified Stages"
     class="article-img"
-    src="/images/18_neuroon_analysis_summary/night_01_simplified.png"
+    src="/images/17_neuroon_analysis_summary/night_01_simplified.png"
     style="width: 500px; height: auto; margin: 2em auto 2em;">
 </a>
 
 Second night:
 
 <a
-    href="/images/18_neuroon_analysis_summary/night_02_simplified.png"
+    href="/images/17_neuroon_analysis_summary/night_02_simplified.png"
     target="_blank">
 <img
     title="Night 02 - Simplified Stages"
     class="article-img"
-    src="/images/18_neuroon_analysis_summary/night_02_simplified.png"
+    src="/images/17_neuroon_analysis_summary/night_02_simplified.png"
     style="width: 500px; height: auto; margin: 2em auto 2em;">
 </a>
 
 And mean:
 
 <a
-    href="/images/18_neuroon_analysis_summary/both_nights_simplified.png"
+    href="/images/17_neuroon_analysis_summary/both_nights_simplified.png"
     target="_blank">
 <img
     title="Waking Matrix with PSG and NeuroOn"
     class="article-img"
-    src="/images/18_neuroon_analysis_summary/both_nights_simplified.png"
+    src="/images/17_neuroon_analysis_summary/both_nights_simplified.png"
     style="width: 500px; height: auto; margin: 2em auto 2em;">
 </a>
 
@@ -261,22 +261,22 @@ With that knowledge we resorted to spectral analysis, studying delta power in Ne
 Data from the first night:
 
 <a
-    href="/images/18_neuroon_analysis_summary/night_01_delta_power_neuroon.png"
+    href="/images/17_neuroon_analysis_summary/night_01_delta_power_neuroon.png"
     target="_blank">
 <img
     title="Night 01 - Delta Power"
     class="article-img"
-    src="/images/18_neuroon_analysis_summary/night_01_delta_power_neuroon.png"
+    src="/images/17_neuroon_analysis_summary/night_01_delta_power_neuroon.png"
     style="width: 500px; height: auto; margin: 2em auto 2em;">
 </a>
 
 <a
-    href="/images/18_neuroon_analysis_summary/night_01_delta_power_psg.png"
+    href="/images/17_neuroon_analysis_summary/night_01_delta_power_psg.png"
     target="_blank">
 <img
     title="Night 01 - Delta Power"
     class="article-img"
-    src="/images/18_neuroon_analysis_summary/night_01_delta_power_psg.png"
+    src="/images/17_neuroon_analysis_summary/night_01_delta_power_psg.png"
     style="width: 500px; height: auto; margin: 2em auto 2em;">
 </a>
 
@@ -296,6 +296,8 @@ NeuroOn's *Final* Press Release reads:
 I wouldn't say it was growing beyond, but rather realizing that the previous promises made by IntelClinic were completely unfounded in contemporary scientific knowledge. Without spending significant amounts of money on research[^any-papers?] the company wasn't able to deliver, so the startup pivoted and changed scope.
 
 After backing off from "medical grade" device, "near-medical grade" might mean virtually anything.
+
+Intelclinic did register two patents: *"System for polyphasic sleep management, method of its operation, device for sleep analysis, method of current sleep phase classification and use of the system and the device in polyphasic sleep management"* [^polyphasic-patent] and *"System, apparatus and method for treating sleep disorder symptoms"* [^sleep-disorder-patent]. While both of them contain technical overview into the mask's working, I am not aware of any whitepapers showcasing respective functions' feasibility[^any-papers?].
 
 Evaluating its effectiveness of light therapy or jet lag adjustment would require a separate experiment and should be conducted (and released together will all the data) by IntelClinic itself in order to prove its effectiveness.
 
@@ -351,6 +353,8 @@ When it comes to real progress and innovation, I'm much more inclined to believe
 In my original blog post I wrongly assumed that NeuroOn's sleep stage detection accuracy may be compared to actigraphy sleep/non-sleep accuracy, which is a much simpler indicator of sleep state. Its current limits are far below any device using EEG signals[^actigraphy-limitations]. These paragraphs are now removed.
 
 I also clarified that sleep inertia is perceptible right after awakening and doesn't necessarily last all day (even though it might affect person's mood).
+
+Added IntelClinic's patents to footnotes.
 
 Previous version of this blogpost may be found on my Github[^blogpost-history].
 
@@ -420,7 +424,11 @@ Previous version of this blogpost may be found on my Github[^blogpost-history].
 
 [^tshirts]: T-Shirts worn by IntelClinic team at WebSummit Dublin 2013 [(photo)](https://ksr-ugc.imgix.net/assets/001/341/456/57eb4c010584ad8eb5343ec8ae07df2c_original.jpg?w=680&fit=max&v=1384737341&auto=format&q=92&s=d64354acf07b087cd497c5a07785bf4b)
 
-[^any-papers?]: If you are aware of any peer-reviewed scientific papers or patents submitted by IntelClinic regarding NeuroOn project, please contact me, and I will officially apologize for my previous criticism. IntelClinic mentions their patents on [their homepage](https://neuroon.com/) and in [multiple](http://mamstartup.pl/technologie/8009/neuroon-ma-ponad-piec-tysiecy-zamowien-ta-maska-mierzy-parametry-snu) [interviews](http://pierwszymilion.forbes.pl/neuroon-polski-projekt-z-sukcesem-na-kickstarterze,artykuly,167476,1,1.html#) with startup portals.
+[^any-papers?]: If you are aware of any whitepapers or peer-reviewed scientific papers by IntelClinic regarding NeuroOn project, please contact me, and I will officially apologize for my previous criticism. IntelClinic mentions their patents on [their homepage](https://neuroon.com/) and in [multiple](http://mamstartup.pl/technologie/8009/neuroon-ma-ponad-piec-tysiecy-zamowien-ta-maska-mierzy-parametry-snu) [interviews](http://pierwszymilion.forbes.pl/neuroon-polski-projekt-z-sukcesem-na-kickstarterze,artykuly,167476,1,1.html#) with startup portals.
+
+[^polyphasic-patent]: *System for polyphasic sleep management, method of its operation, device for sleep analysis, method of current sleep phase classification and use of the system and the device in polyphasic sleep management* on [Google Patents](https://patents.google.com/patent/WO2015111012A1/en), filed 2015-01-26
+
+[^sleep-disorder-patent]: *System, apparatus and method for treating sleep disorder symptoms* on [Google Patents](https://patents.google.com/patent/US20160193442A1/en), filed 2015-01-05 
 
 [^original-blogpost]: Original blogpost: NeuroOn: The Emperor is Naked! (only in Polish) on [my blog](neuroon-krol-jest-nagi-pl.html)
 
@@ -430,4 +438,4 @@ Previous version of this blogpost may be found on my Github[^blogpost-history].
 
 [^actigraphy-limitations]: *Purpose of the investigation was to evaluate the differences of movement density during the sleep stages and waking. 22 diurnally active, healthy, male volunteers of mean age 30.7 (+/-Standard deviation +/- 3.3) years and a Body-Mass-Index 23.6 +/- 3.3 kg/m2 participated in the study. All subjects were recorded in the sleep lab via cardiorespiratory polysomnography and wrist actigraphy (Ambulatory Monitoring, Ardsley, USA) worn on the non-dominant hand, for two consecutive nights. The activity data, consisting of the number of zero crossings (NZC) were recorded in 1-minute periods. Sleep stages were scored visually according to standard criteria. EEG- and actigraphy data were converted to the same data format (European Feature Files). Attaching the actimetry data to the sleep stages was calculated mean NZC for every sleep stage and Wake. In spite of high differences in total individual NZC we observed that most NZC occurred during Wake. NREM 1 movement density was significantly higher in 19 recordings (86%) than in any other sleep stage. In 18 cases (82%) lowest movement density was found in NREM 3/4 with significant difference to all other sleep stages. Within 50% of the recordings were found decreasing activity in the following sequence of stages: Wake > NREM 1 > REM > NREM 2 > NREM 3/4 However, in all other cases there was a varying pattern of activity. Conclusion: Although there is some correlation between motor activity and sleep stages, the predictive value of actimetry data analysis in the assessment of sleep structure appeared to be limited mainly by individual movement density, especially during REM and NREM 2.* [Actigraphy: methodological limits for evaluation of sleep stages and sleep structure of healthy probands - Conradt R, Brandenburg U, Ploch T, Peter JH.](https://www.ncbi.nlm.nih.gov/pubmed/9340625)
 
-[^blogpost-history]: All files used to create this webpage - including raw blogpost texts in Markdown - are stored on my [Github](https://github.com/pawelchojnacki/alxd.org/blob/master/content/18en_neuroon_analysis_results.md)
+[^blogpost-history]: All files used to create this webpage - including raw blogpost texts in Markdown - are stored on my [Github](https://github.com/pawelchojnacki/alxd.org/blob/master/content/17en_neuroon_analysis_results.md)
