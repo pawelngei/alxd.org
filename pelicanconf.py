@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Pawel Chojnacki'
+AUTHOR = u'Pawel Ngei'
 SITENAME = u'alxd'
-SITESUBTITLE = u'open source transhumanist'
+SITESUBTITLE = u'open science activist'
 SITEURL = 'https://alxd.org/'
 IMAGE_PATH = 'images/logo-circ.png'
 
