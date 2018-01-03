@@ -6,6 +6,8 @@
     <meta name="author" content="{{ AUTHOR }}">
     <link rel="icon" type="image/png" sizes="any" href="{{ SITEURL }}/theme/images/favicon.png">
 
+    <meta property="og:image:secure_url" content="https://alxd.org/images/logo-circ.png"/>
+
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,7 +33,7 @@
                       text-center">
             <div class="menu-panel pull-right">
               <a href="{{ SITEURL }}">
-                <img src="{{SITEURL}}/{{ IMAGE_PATH }}">
+                <img class="page-logo" src="{{SITEURL}}/{{ IMAGE_PATH }}">
                 <p class="menu-title">
                     {{ SITENAME }}
                 </p>
@@ -42,13 +44,18 @@
 
               <ul class="menu-itembox list-unstyled">
                 <li>
-                  <a href="{{ SITEURL }}/archives.html">
-                    archive
+                  <a href="{{ SITEURL }}/pages/about.html">
+                    about me
+                  </a>
+                </li>
+               <li>
+                  <a href="https://glider.ink/">
+                    Glider Ink
                   </a>
                 </li>
                 <li>
-                  <a href="{{ SITEURL }}/pages/about.html">
-                    about me
+                  <a href="{{ SITEURL }}/archives.html">
+                    archive
                   </a>
                 </li>
                 <li>
@@ -153,7 +160,7 @@
                       text-justify">
             <p>
               <a href="https://creativecommons.org/licenses/by-sa/4.0/deed">CC-BY-SA</a>
-                Pawel Ngei 2014-2017
+                Pawel Ngei 2014-2018
               <br>
               Site generated with <a href="http://blog.getpelican.com/">Pelican</a> static site generator. RSS Icon made by <a href="http://www.flaticon.com" title="Flaticon">Elegant Themes</a>.
             </p>

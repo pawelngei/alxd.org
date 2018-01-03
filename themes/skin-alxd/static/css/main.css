@@ -6289,3 +6289,8 @@ body {
   height: 6em;
   padding: 1em 15px 1em;
 }
+
+.page-logo {
+  max-width: 100px;
+  max-height: 100px;
+}

@@ -5,12 +5,12 @@ from __future__ import unicode_literals
 AUTHOR = u'Pawel Ngei'
 SITENAME = u'alxd'
 SITESUBTITLE = u'open science activist'
-SITEURL = 'https://alxd.org/'
+SITEURL = 'https://alxd.org'
 IMAGE_PATH = 'images/logo-circ.png'
 
 
 PATH = 'content'
-STATIC_PATHS = ['images', 'slides', 'scripts']
+STATIC_PATHS = ['images', 'slides', 'content/slides', 'scripts']
 
 TIMEZONE = 'Europe/Warsaw'
 
