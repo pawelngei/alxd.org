@@ -53,7 +53,8 @@ STATIC_PATHS = ['images', 'slides', 'content/slides', 'scripts']
 
 THEME = "themes/Flex"
 
-# PLUGINS = ['i18n_subtitles']
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['post_stats']
 
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
