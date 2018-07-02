@@ -3,7 +3,7 @@ Date: 2016-06-27
 Slug: neuroon-analysis-sources
 Lang: en
 Tags: neuroon, signal analysis, science, open notebook
-Translation: true
+Translation: false
 
 ### Edit 29.09.2016
 
