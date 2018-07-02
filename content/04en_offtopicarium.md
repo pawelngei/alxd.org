@@ -2,7 +2,6 @@ Title: 5th Offtopicarium - approaches to science
 Slug: 5th-offtopicarium-approaches-to-science
 Date: 2014-10-01 21:00
 Lang: en
-Category: conference, science
 
 <a href="images/04_offtopicarium/opensource.jpg">
   <img class="article-img" src="images/04_offtopicarium/opensource.jpg" style="width: auto; height: 300px;" title="Opening Science">
@@ -26,7 +25,7 @@ The topic was continued by **Mikołaj Babiak** answering *Why Do We Need to be F
 
 I had the pleasure of sharing my thoughts and lead a discussion about *Opening Science*, slides of which are available at a wonderful portal [slid.es], or standalone on my server in [HTML] or [PDF] versions. I tried to show both the possibilities of using Open Access, and using non-academic resources such as Hackerspace or Makerspace experts willing to help in research.
 
-Before proceeding to all the other presentations I think it's worth mentioning that this conference helped me understand the difference between a *geek* and a *nerd*, as defined by Western culture. 
+Before proceeding to all the other presentations I think it's worth mentioning that this conference helped me understand the difference between a *geek* and a *nerd*, as defined by Western culture.
 
 A lot of my friends since primary school were geeks. They loved stories, they loved ideas, they collected them and made their own: remixing, mastering, creating something more than the sum of its parts. But even when creative - they were always based on something pre-existing, created by someone else. They often focused on completing a collection or gaining a position in the fandom.
 

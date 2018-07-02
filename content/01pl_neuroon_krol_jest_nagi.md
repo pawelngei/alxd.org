@@ -3,7 +3,6 @@ Date: 2014-07-27 12:00
 Slug: neuroon-krol-jest-nagi
 Lang: pl
 Translation: false
-Category: startup, NeuroOn
 
 > *Cytat usunięty na prośbę autora. Całość konwersacji na temat NeuroOna znajduje się w linkach poniżej.*
 
@@ -87,7 +86,7 @@ Wszystko zmieniła jednak [ta dyskusja] na Facebooku. Dla nie korzystających z 
 
 Kamil Adamczyk (CEO NeuroOna) wydaje się nie być w stanie znieść jakiejkolwiek krytyki produktu, a dodatkowo rozjuszają go prośby o źródła i dowody. Kilka cytatów z dyskusji:
 
->Kamil Adamczyk: Po pierwsze, NeuroOn to nie maszynka do snu polifazowego, tylko coś zupełnie innego. To, że jesteśmy tak odbierani to prawdopobodnie po części nasz błąd komunikacyjny, po części specyfika polskich mediów- bo za granicą jesteśmy odbierani zupełnie inaczej. 
+>Kamil Adamczyk: Po pierwsze, NeuroOn to nie maszynka do snu polifazowego, tylko coś zupełnie innego. To, że jesteśmy tak odbierani to prawdopobodnie po części nasz błąd komunikacyjny, po części specyfika polskich mediów- bo za granicą jesteśmy odbierani zupełnie inaczej.
 
 Ze strony Kickstartera NeuroOna: "NeuroOn: World's first sleep mask for polyphasic sleep”
 

@@ -2,7 +2,6 @@
 Slug: cyborgs-daily-problems-the-story
 Date: 2014-09-02 22:00
 Lang: pl
-Category: Poland, cyborg, story
 
 <a href="http://professional.medtronic.com/pt/neuro/dbs-md/prod/soletra/">
   <img class="article-img" src="images/02_cyborg_story/medtronic-soletra.jpg" style="width: 300px; height: 300px;" title="Soletra neurostimulator by Medtronic">

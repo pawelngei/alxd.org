@@ -2,7 +2,6 @@
 Slug: cyborgs-daily-problems-the-story
 Date: 2014-09-01 22:00
 Lang: en
-Category: Poland, cyborg, story
 
 <a href="http://professional.medtronic.com/pt/neuro/dbs-md/prod/soletra/">
   <img class="article-img" src="images/02_cyborg_story/medtronic-soletra.jpg" style="width: 300px; height: 300px;" title="Soletra neurostimulator by Medtronic">
@@ -52,4 +51,3 @@ This blogpost was meant only to convey a story, which may have been oversimplifi
 [habituated]: http://en.wikipedia.org/wiki/Habituation
 [Institute of Psychiatry and Neurology]: http://www.ipin.edu.pl/
 [Public Hospital number 4]: http://www.spsk4.lublin.pl/
-
