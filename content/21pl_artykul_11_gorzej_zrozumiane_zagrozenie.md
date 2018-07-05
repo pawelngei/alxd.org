@@ -52,7 +52,7 @@ Będzie to niewątpliwie niemała zagwozdka dla lokalnych prawodawców mających
 
 2. **Ograniczenia w linkowaniu** - nie mogąc podać tytułu artykułu linkowanego, użytkownicy będą zmuszeni podążać za "ślepymi" łączami
 
-3. **Ograniczenie wolności wypowiedzi i dostępu do informacji w społeczeństwie** - prawo nie ogranicza się jedynie do wielkich korporacji, ale wszystkich blogerów, wikipedystów i dziennikarzy
+3. **Ograniczenie wolności wypowiedzi i dostępu do informacji w społeczeństwie** - prawo nie ogranicza się jedynie do wielkich korporacji, ale wszystkich blogerów i dziennikarzy
 
 4. **Promocja [fake newsów](https://juliareda.eu/2018/04/fake-news-link-tax/)** - jeżeli rzetelne źródła informacji wydawane przez korporacje będą wymagały opłat za samo wspomnienie o nich, bardzo ciężko będzie walczyć ze źródłami fałszywych czy propagandowych informacji. Ich wydawcy celu osiągnięcia maksymalnego efektu mogą nie pobierać opłat, promując swoje artykuły (jeżeli będzie to możliwe w danym kraju).
 
@@ -60,11 +60,11 @@ Będzie to niewątpliwie niemała zagwozdka dla lokalnych prawodawców mających
 
 6. **Ograniczenia dla małych i niszowych wydawców** - którym znacznie ciężej może być dotrzeć do czytelników, jeżeli nikt nie będzie mógł cytować ich nagłówków czy artykułów. Jest to niejako przeciwwaga punktu czwartego - jeżeli lokalne prawo nie obejmie wszystkich, najbardziej skorzystają dostawcy fake newsów. Jeżeli zaś będzie przymusowe - stracą małe podmioty.
 
-## Wikipedia, DuckDuckGo i my wszyscy
+## Mastodon, DuckDuckGo i my wszyscy
 
 Nowe prawa mogą wpłynąć nie tylko na wielkie wyszukiwarki i portale społecznościowe - przepisy mogą zacząć odnosić się do wszystkich, łącznie ze mną - blogerem. Bez opłacenia odpowiedniej licencji nie będę więc mógł przeanalizować, jak to polskie startupy [leczą raka implantami mózgu](https://www.spidersweb.pl/e/cardio-technology-neuroon).
 
-Straci też Wikipedia, której działanie _opiera_ się na cytowaniu wielu książek, publikacji i artykułów prasowych. Nawet, jeżeli [WikiNews](https://pl.wikinews.org/wiki/Strona_g%C5%82%C3%B3wna) nie jest dla nas tak istotne, musimy pamiętać, że ochrona artykułów prasowych ma trwać przez ponad 20 lat od ich publikacji - co poważnie zaszkodzi też "normalnym" artykułom z Wikipedii. Jeżeli prawo to weszłoby w życie przed [przystąpieniem Polski do Unii Europejskiej](https://pl.wikipedia.org/wiki/Polska_w_Unii_Europejskiej) w 2004 roku, Wikipedia _wciąż_ nie mogłaby się powoływać na [artykuły prasowe z tego okresu](https://www.theguardian.com/world/2004/feb/23/eu.poland)!
+**Edit**: Zwrócono mi uwagę, że Wikipedia ze względu na niekomercyjność i charakter edukacyjny najprawdopodobniej objęta zostanie wyjątkiem. Niekoniecznie będzie on jednak dotyczył innych wiki, jak [SCP Wiki](http://scp-wiki.org/) zbierającego straszne historie i creepypasty, która wyświetla reklamy. Warto też pamiętać, że samo Stowarzyszenie Wikimedia Polska [protestuje](http://blog.wikimedia.pl/blog/2018/06/20/stanowisko-stowarzyszenia-wikimedia-polska-w-sprawie-proponowanej-dyrektywy-o-prawach-autorskich-na-jednolitym-rynku-cyfrowym/) przeciw Artykułom 11 i 13.
 
 Podobnie będzie też z konkurentami Google'a, Facebooka czy Twittera: wyszukiwarka [DuckDuckGo](https://duckduckgo.com/) i utrzymywana przez kolektywy sieć społecznościowa [Mastodon](https://joinmastodon.org/) będą musiały ponosić takie same opłaty jak giganci, aby pokazywać nagłówki czy fragmenty artykułów. Może to de-facto zabetonować rynek i uniemożliwić jakąkolwiek konkurencję z największymi graczami, a już na pewno próbę stworzenia innych, mniej scentralizowanych modeli biznesowych.
 
@@ -72,7 +72,7 @@ Warto zauważyć, że same międzynarodowe organizacje dziennikarskie, takie jak
 
 > Przez wprowadzenie "podatku od linkowania" i wymogów licencyjnych pomiędzy platformami dostawców i organizacjami medialnymi - jak nasza - przepisy te mogą stanowczo ograniczyć zdolność OCCRP i innych niezależnych wydawców do tworzenia rzetelnych i wiarygodnych reportaży, oraz uniemożliwić naszym artykułom dotarcie do jak najszerszego grona czytelników. Byłby to poważny cios dla dziennikarstwa śledczego i wielki krok w tył w walce z dezinformacją.
 
-**W próbie regulacji przez Artykuł 11 Unia Europejska ponownie zapomina, że Internet tworzony jest nie tylko przez gigantów.** Akceptacja takiego prawa oznaczałaby zgodę na to - i przyszłość pełną posłuszeństwa korporacjom bez alternatyw, dopiero po latach _nakłanianych_ do czegoś przez europejskie przepisy. Zapomnijmy więc o małych blogach komentujących aktualności, o dobrze uźródłowionej Wikipedii, niezależnych wyszukiwarkach i innych rzeczch, które gwarantują nam cyfrową i intelektualną niezależność.
+**W próbie regulacji przez Artykuł 11 Unia Europejska ponownie zapomina, że Internet tworzony jest nie tylko przez gigantów.** Akceptacja takiego prawa oznaczałaby zgodę na to - i przyszłość pełną posłuszeństwa korporacjom bez alternatyw, dopiero po latach _nakłanianych_ do czegoś przez europejskie przepisy. Zapomnijmy więc o małych blogach komentujących aktualności, o utrzymywanych z reklam platformach wiki, niezależnych wyszukiwarkach i innych rzeczch, które gwarantują nam cyfrową i intelektualną niezależność.
 
 ## Co możemy zrobić
 
