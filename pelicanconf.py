@@ -18,11 +18,13 @@ PYGMENTS_STYLE = 'monokai'
 USE_FOLDER_AS_CATEGORY = False
 MAIN_MENU = True
 HOME_HIDE_TAGS = True
+USE_GOOGLE_FONTS = False
 
 MENUITEMS = (('Archives', '/archives.html'),)
 
 SOCIAL = (
-    ('envelope-o', 'mailto:alxd (AT) alxd.org'),
+    ('envelope-open', 'mailto:alxd (AT) alxd.org'),
+    ('mastodon', 'https://chaos.social/@alxd'),
     ('github', 'https://github.com/pawelngei'),
     ('twitter', 'https://twitter.com/pawelngei'),
     ('linkedin', 'https://www.linkedin.com/in/pawel-ngei-19227983/'),
