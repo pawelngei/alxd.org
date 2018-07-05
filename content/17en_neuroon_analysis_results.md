@@ -366,7 +366,7 @@ Previous version of this blogpost may be found on my Github[^blogpost-history].
 
 [^analysis]: [NeuroOn analysis - introduction and sources]({filename}/14en_neuroon_analysis_sources.md)
 
-[^notebook]: Jupyter Notebook and all the signal files are available on [Github](https://github.com/pawelchojnacki/sleep_project)
+[^notebook]: Jupyter Notebook and all the signal files are available on [Github](https://github.com/pawelngei/sleep_project)
 
 [^ryscet]: MSc Ryszard Cetnarski [github](https://github.com/ryscet/)
 
@@ -392,9 +392,9 @@ Previous version of this blogpost may be found on my Github[^blogpost-history].
 
 [^reverse-engineer]: From [Wikipedia](https://en.wikipedia.org/wiki/Reverse_engineering): *Reverse engineering, also called back engineering, is the processes of extracting knowledge or design information from anything man-made and re-producing it or re-producing anything based on the extracted information. The process often involves disassembling something (a mechanical device, electronic component, computer program, or biological, chemical, or organic matter) and analyzing its components and workings in detail.*
 
-[^correlation]: Cross-correlation computed [here](https://github.com/pawelchojnacki/sleep_project/blob/master/Time_synchronization.ipynb) with various correlation tests available [here](https://github.com/pawelchojnacki/sleep_project/blob/master/Correlation%20test.ipynb)
+[^correlation]: Cross-correlation computed [here](https://github.com/pawelngei/sleep_project/blob/master/Time_synchronization.ipynb) with various correlation tests available [here](https://github.com/pawelngei/sleep_project/blob/master/Correlation%20test.ipynb)
 
-[^hypnogram-comparison]: Hypnogram comparison description, code and generated graphs are available on [Github](https://github.com/pawelchojnacki/sleep_project/blob/master/Hipnogram_comparison.ipynb)
+[^hypnogram-comparison]: Hypnogram comparison description, code and generated graphs are available on [Github](https://github.com/pawelngei/sleep_project/blob/master/Hipnogram_comparison.ipynb)
 
 [^cohens-kappa]: Cohen's kappa on [Wikipedia](https://en.wikipedia.org/wiki/Cohen%27s_kappa)
 
@@ -414,7 +414,7 @@ Previous version of this blogpost may be found on my Github[^blogpost-history].
 
 [^delta-power]: Delta Power in EEG - [Aeschbach, D., & Borbely, A. a. (1993). All-night dynamics of the human sleep EEG. Journal of Sleep Research.](https://www.ncbi.nlm.nih.gov/pubmed/10607074), [Mukai, J., Uchida, S., Miyazaki, S., Nishihara, K., & Honda, Y. (2003). Spectral analysis of all-night human sleep EEG in narcoleptic patients and normal subjects. J Sleep Res, 12(1), 63–71.](https://www.ncbi.nlm.nih.gov/pubmed/12603788)
 
-[^spectral-analysis]: Spectral Analysis Jupyter Notebook can be found on our [Github](https://github.com/pawelchojnacki/sleep_project/blob/master/Spectral%20analysis.ipynb)
+[^spectral-analysis]: Spectral Analysis Jupyter Notebook can be found on our [Github](https://github.com/pawelngei/sleep_project/blob/master/Spectral%20analysis.ipynb)
 
 [^neuro-buzzwords]: Widespread usage of non-scientific neurological claims by many startups is a well known problem, well described by [NeuroCritic](http://neurocritic.blogspot.com/2014/01/neurocrap-funded-by-masses-neuroon-and.html) and other science journalists.
 
@@ -428,7 +428,7 @@ Previous version of this blogpost may be found on my Github[^blogpost-history].
 
 [^polyphasic-patent]: *System for polyphasic sleep management, method of its operation, device for sleep analysis, method of current sleep phase classification and use of the system and the device in polyphasic sleep management* on [Google Patents](https://patents.google.com/patent/WO2015111012A1/en), filed 2015-01-26
 
-[^sleep-disorder-patent]: *System, apparatus and method for treating sleep disorder symptoms* on [Google Patents](https://patents.google.com/patent/US20160193442A1/en), filed 2015-01-05 
+[^sleep-disorder-patent]: *System, apparatus and method for treating sleep disorder symptoms* on [Google Patents](https://patents.google.com/patent/US20160193442A1/en), filed 2015-01-05
 
 [^original-blogpost]: Original blogpost: NeuroOn: The Emperor is Naked! (only in Polish) on [my blog](neuroon-krol-jest-nagi-pl.html)
 
@@ -438,4 +438,4 @@ Previous version of this blogpost may be found on my Github[^blogpost-history].
 
 [^actigraphy-limitations]: *Purpose of the investigation was to evaluate the differences of movement density during the sleep stages and waking. 22 diurnally active, healthy, male volunteers of mean age 30.7 (+/-Standard deviation +/- 3.3) years and a Body-Mass-Index 23.6 +/- 3.3 kg/m2 participated in the study. All subjects were recorded in the sleep lab via cardiorespiratory polysomnography and wrist actigraphy (Ambulatory Monitoring, Ardsley, USA) worn on the non-dominant hand, for two consecutive nights. The activity data, consisting of the number of zero crossings (NZC) were recorded in 1-minute periods. Sleep stages were scored visually according to standard criteria. EEG- and actigraphy data were converted to the same data format (European Feature Files). Attaching the actimetry data to the sleep stages was calculated mean NZC for every sleep stage and Wake. In spite of high differences in total individual NZC we observed that most NZC occurred during Wake. NREM 1 movement density was significantly higher in 19 recordings (86%) than in any other sleep stage. In 18 cases (82%) lowest movement density was found in NREM 3/4 with significant difference to all other sleep stages. Within 50% of the recordings were found decreasing activity in the following sequence of stages: Wake > NREM 1 > REM > NREM 2 > NREM 3/4 However, in all other cases there was a varying pattern of activity. Conclusion: Although there is some correlation between motor activity and sleep stages, the predictive value of actimetry data analysis in the assessment of sleep structure appeared to be limited mainly by individual movement density, especially during REM and NREM 2.* [Actigraphy: methodological limits for evaluation of sleep stages and sleep structure of healthy probands - Conradt R, Brandenburg U, Ploch T, Peter JH.](https://www.ncbi.nlm.nih.gov/pubmed/9340625)
 
-[^blogpost-history]: All files used to create this webpage - including raw blogpost texts in Markdown - are stored on my [Github](https://github.com/pawelchojnacki/alxd.org/blob/master/content/17en_neuroon_analysis_results.md)
+[^blogpost-history]: All files used to create this webpage - including raw blogpost texts in Markdown - are stored on my [Github](https://github.com/pawelngei/alxd.org/blob/master/content/17en_neuroon_analysis_results.md)

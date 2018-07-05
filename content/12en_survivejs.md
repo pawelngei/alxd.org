@@ -7,7 +7,7 @@ Translation: false
 
 This time I wish to share a recommendation. For two years I've been developing in JavaScript in Angular, using various in-house habits and techniques of my respective employers. I have tried vanilla JS and CoffeeScript, Grunt and Gulp, Jasmine and Mocha, various deployment models. I have been learning various tools on my own, but I always seemed to lack the understanding of what is their specific place and strength in a project.
 
-I never really got what's so good in [React](https://facebook.github.io/react/) and [Webpack](https://webpack.github.io/), even though I've completed the tutorials before. I got myself to understand [ES6 and BabelJS](https://babeljs.io/), but never intuitively realized the potential of `const` and modules, even though my [taxBrackets](https://github.com/pawelchojnacki/d3-taxBrackets) project uses a lot of their functions.
+I never really got what's so good in [React](https://facebook.github.io/react/) and [Webpack](https://webpack.github.io/), even though I've completed the tutorials before. I got myself to understand [ES6 and BabelJS](https://babeljs.io/), but never intuitively realized the potential of `const` and modules, even though my [taxBrackets](https://github.com/pawelngei/d3-taxBrackets) project uses a lot of their functions.
 
 <a href="http://survivejs.com/">
   <img title="SurviveJS" class="article-img" src="/images/12_survivejs/title.png" style="width: auto; height: auto; margin: 2em auto;">
@@ -21,7 +21,7 @@ If you want to spare $20 to $24 dollars (depending on where you live), you can b
 
 What I like about it is the fact that it never shows *the only way* to achieve something, describing each of the tools and approaches instead. It covers Webpack, but also talks about Grunt and Gulp. It uses ES2015, but TypeScript is an option. React Flux implementation? [Alt](http://alt.js.org/), but read also about [Redux](https://github.com/rackt/redux) and all the others. The book is full of links and references, which make a great context, enriching every developer's knowledge.
 
-The application itself is just a Kanban/ToDo demo, available [online](http://survivejs.com/demos/08_building_kanban/). I really encourage you to try going after the author step by step, commiting each subchapter and seeing all the errors you will get after forgetting that semicolon. Thanks to this approach I feel I really understood what's the role of a `const` and modules (including libraries) in an ES6 app, I began to love Webpack which seemed bloated and unintuitive so far. I will certainly have some ideas how to rewrite my taxBrackets with this knowledge. 
+The application itself is just a Kanban/ToDo demo, available [online](http://survivejs.com/demos/08_building_kanban/). I really encourage you to try going after the author step by step, commiting each subchapter and seeing all the errors you will get after forgetting that semicolon. Thanks to this approach I feel I really understood what's the role of a `const` and modules (including libraries) in an ES6 app, I began to love Webpack which seemed bloated and unintuitive so far. I will certainly have some ideas how to rewrite my taxBrackets with this knowledge.
 
 The only thing I feel uneasy about is the whole variety of Flux implementations - such as [alt](http://alt.js.org/) used in the project. The sheer number of them and differences between the very concepts of respective libraries leave me confused. I could definitely use rewriting the SurviveJS application with [redux](https://github.com/rackt/redux) for example.
 

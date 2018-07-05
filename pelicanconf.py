@@ -23,7 +23,7 @@ MENUITEMS = (('Archives', '/archives.html'),)
 
 SOCIAL = (
     ('envelope-o', 'mailto:alxd (AT) alxd.org'),
-    ('github', 'https://github.com/pawelchojnacki'),
+    ('github', 'https://github.com/pawelngei'),
     ('twitter', 'https://twitter.com/pawelngei'),
     ('linkedin', 'https://www.linkedin.com/in/pawel-ngei-19227983/'),
     ('rss', 'feeds/all.atom.xml'),

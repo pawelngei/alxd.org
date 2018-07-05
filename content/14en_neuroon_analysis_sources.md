@@ -7,9 +7,9 @@ Translation: false
 
 ### Edit 29.09.2016
 
-The analysis and all the data files are available for peer review at my [Github](https://github.com/pawelchojnacki/sleep_project).
+The analysis and all the data files are available for peer review at my [Github](https://github.com/pawelngei/sleep_project).
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/examination_bed.jpg"
     target="_blank">
 <img
@@ -49,7 +49,7 @@ Over course of the last two years I declared my willingness to conduct full rese
 
 The developer model of the NeuroOn looks and according to my understanding works exactly as a production model - it's just a PCB board in a silicone casing with several additional cables allowing access to its data ports.
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_main_unit_front.jpg"
     target="_blank">
 <img
@@ -61,7 +61,7 @@ The developer model of the NeuroOn looks and according to my understanding works
 
 Three gold plated electrodes are located at the very top of the board (I haven't checked the exact material so as not to damage the mask, but the product description claims[^13] it's gold). Together they produce one differential channel of combined EEG, EOG and EMG, with the center electrode serving as a ground. The pulse oximeter and thermometer are hidden in a cutout area close to the middle electrode and LEDs are visible in the bottom corners. In the very heart of the board there is the only button serving as an on/off toggle.
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_main_unit_back.jpg"
     target="_blank">
 <img
@@ -73,7 +73,7 @@ Three gold plated electrodes are located at the very top of the board (I haven't
 
 There are no interesting elements on the back of the board. I understand "test unit" to be only the signature of pre-production units, with exactly the same specifications as the production models.
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_foam_back.jpg"
     target="_blank">
 <img
@@ -85,7 +85,7 @@ There are no interesting elements on the back of the board. I understand "test u
 
 The mask itself together with the band that holds it tightly to the user's head. Its length can be regulated by undoing the velcro between the foam and more rigid mask front and just moving the band's holders on the velcro.
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_foam_front.jpg"
     target="_blank">
 <img
@@ -97,7 +97,7 @@ The mask itself together with the band that holds it tightly to the user's head.
 
 The front of the mask unit is made of foam. The PCB board is placed in the opening at its top and is not held by any kind of velcro or additional bands. If the NeuroOn is worn properly it cannot fall of being kept between the user's forehead and the mask - the electrode prints on the skin can be visible even an hour after waking up.
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_assembled_noleds.jpg"
     target="_blank">
 <img
@@ -109,7 +109,7 @@ The front of the mask unit is made of foam. The PCB board is placed in the openi
 
 The LEDs are visible exactly in the foam's cutouts.
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_assembled_led.jpg"
     target="_blank">
 <img
@@ -123,7 +123,7 @@ After turning the mask on, a pair of blue LEDs light up. In my very subjective o
 
 I used the mask in developer mode, using a graphical manager created in Java by the Intelclinic team. According to our agreement I cannot share its code or binary files used for signal analysis. It also means that I haven't used a regular phone app, going to a Bluetooth / data cable debugger instead.
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_debug_ground.jpg"
     target="_blank">
 <img
@@ -135,7 +135,7 @@ I used the mask in developer mode, using a graphical manager created in Java by 
 
 Even though NeuroOn has a microUSB port it isn't connected to the data pin, serving only as a universal charger. In my setup I'm using it as a ground.
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_debug_nochannel.jpg"
     target="_blank">
 <img
@@ -147,7 +147,7 @@ Even though NeuroOn has a microUSB port it isn't connected to the data pin, serv
 
 The data pin is located as the very first pin on the left side of the board, under the silicone. In order to reach it, I need to prick the outer silicone layer with a specially prepared signal cable.
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_debug_data.jpg"
     target="_blank">
 <img
@@ -159,7 +159,7 @@ The data pin is located as the very first pin on the left side of the board, und
 
 The data cable properly put on. It only looks off, it's working.
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_debug_full.jpg"
     target="_blank">
 <img
@@ -175,7 +175,7 @@ Now NeuroOn the is ready to be connected to my PC and programmed in debugging mo
 
 After conducting several night-ling signal gathering sessions with NeuroOn I decided to proceed with a proper experiment. My main research question was: *is signal gathered by the mask of a good enough quality to detect a sleep stage in real time, given processing power of an average smartphone?* Intelclinic promised a mask able to wake up its user in an optimal sleep stage - so I'm assuming that it should have knowledge of their state at any given moment.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/doorsign.jpg"
     target="_blank">
 <img
@@ -203,7 +203,7 @@ The second night consisted of only:
 
 Of course during both of them I was gathering signal from the NeuroOn as well. Its location of my forehead wasn't a problem - no electrodes in traditional 10-20 based sleep examinations are located so low above eyebrows.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/examination_bed.jpg"
     target="_blank">
 <img
@@ -215,7 +215,7 @@ Of course during both of them I was gathering signal from the NeuroOn as well. I
 
 NeuroOn on an examination bed. Since the room wasn't shielded or covered in a Faraday cage, please expect 50Hz band to be cut off from the result signal due to resonance with the electric network.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/testing_suite.jpg"
     target="_blank">
 <img
@@ -227,7 +227,7 @@ NeuroOn on an examination bed. Since the room wasn't shielded or covered in a Fa
 
 Programming the board before the first night, so that it gathers signal for the next eight hours. I was instructed to use the "CLEAR" option before each session, which in my understanding means overwriting the free memory with zeros.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/amplifier_front.jpg"
     target="_blank">
 <img
@@ -239,7 +239,7 @@ Programming the board before the first night, so that it gathers signal for the 
 
 During both of the nights AURA PSG by GRASS Technologies[^15] was used. It gathered signals with 200Hz frequency. According to the Sleep Disorders Center it's a standard for professional drug research.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/amplifier_back.jpg"
     target="_blank">
 <img
@@ -251,7 +251,7 @@ During both of the nights AURA PSG by GRASS Technologies[^15] was used. It gathe
 
 All signals were saved directly to a computer in the Center, bypassing the device's memory.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/1020.png"
     target="_blank">
 <img
@@ -263,7 +263,7 @@ All signals were saved directly to a computer in the Center, bypassing the devic
 
 Electrodes used in both sessions: A1 and A2, F3 and F4, C3 and C4, O1 and O2, Fz and Cz as ground and reference. In addition to them EOG1 and EOG2 for EOG, CHIN1, CHIN2 and CHIN3 on the chin, for detecting face movements and ECG on the chest.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/night_1_electrodes_front.jpg"
     target="_blank">
 <img
@@ -275,7 +275,7 @@ Electrodes used in both sessions: A1 and A2, F3 and F4, C3 and C4, O1 and O2, Fz
 
 Night one - electrode placement on the front - EOG1 and EOG2 are visible by the eyes, Fz on the forehead, CHIN1, CHIN2 and CHIN3 under the chin. F3 and F4 just over the (nonexistent) hairline.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/night_1_electrodes_left.jpg"
     target="_blank">
 <img
@@ -287,7 +287,7 @@ Night one - electrode placement on the front - EOG1 and EOG2 are visible by the 
 
 Visible CHIN1, EOG1, F3, C3 and O1. The tape just behind my ear is used only for securing the cables.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/night_1_electrodes_back.jpg"
     target="_blank">
 <img
@@ -299,7 +299,7 @@ Visible CHIN1, EOG1, F3, C3 and O1. The tape just behind my ear is used only for
 
 Visible O1 and O2 on the back of my skull, Cz on the top of it.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/night_1_electrodes_right.jpg"
     target="_blank">
 <img
@@ -313,7 +313,7 @@ As on the left: CHIN3, EOG2, F4 and C4, O2.
 
 After trying on the NeuroOn Fz had to be moved a little bit upwards, as otherwise the tape might touch one of its electrodes.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/night_1_lying.jpg"
     target="_blank">
 <img
@@ -327,7 +327,7 @@ Just before putting the mask on - I can honestly say that the full body "armor" 
 
 Due to the amount of equipment I had on myself my sleep quality was very low, which should be visible both in the signal and its description.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/night_2_electrodes_front.jpg"
     target="_blank">
 <img
@@ -339,7 +339,7 @@ Due to the amount of equipment I had on myself my sleep quality was very low, wh
 
 Second night - gathering only EEG, EOG and ECG signals. I knew that shaving my head and face will help, but completely forgot about ECG. Well, I lost some of my chest hair in the morning.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/night_2_electrodes_mask.jpg"
     target="_blank">
 <img
@@ -351,7 +351,7 @@ Second night - gathering only EEG, EOG and ECG signals. I knew that shaving my h
 
 After putting the NeuroOn foam - the electrode placement is plainly visible.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/night_2_full_mask.jpg"
     target="_blank">
 <img
@@ -363,7 +363,7 @@ After putting the NeuroOn foam - the electrode placement is plainly visible.
 
 As you can see, the electrodes are pressed firmly to my forehead.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/electrode_prints.jpg"
     target="_blank">
 <img
@@ -375,7 +375,7 @@ As you can see, the electrodes are pressed firmly to my forehead.
 
 Electrode prints are plainly visible even an hour after waking up.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/software.jpg"
     target="_blank">
 <img
@@ -412,6 +412,6 @@ Since signal analysis should take me at least a month, I don't want to come to a
 > In my first post I mentioned having asked the support whether the mask hardware is technically capable of detecting the sleep-stage in real time. I got a message from the support today. They did not answer my question directly (or course…) but said that “We may add in the future the option of waking up when in the light sleep”. What I make of this is that it’s hard to implement and not their top priority at the moment.
 [^13]: [NeuroOn Technology](https://neuroon.com/technology/)
 [^14]: Sleep Disorders Center at the Institute of Psychiatry and Neurology in Warsaw's [official page](http://www.sen-instytut.pl/index_en.html)
-[^15]: All official pages of GRASS Technology seem dead, but information about AURA PSG amplifier are available at [SelectScience](http://www.selectscience.net/products/aura-psg-ambulatory-systems/?prodID=171717) and [Sleep Disorders Center's page](http://www.sen-instytut.pl/sleep_laboratory.html) 
+[^15]: All official pages of GRASS Technology seem dead, but information about AURA PSG amplifier are available at [SelectScience](http://www.selectscience.net/products/aura-psg-ambulatory-systems/?prodID=171717) and [Sleep Disorders Center's page](http://www.sen-instytut.pl/sleep_laboratory.html)
 [^16]: CC-BY 4.0 - detailed license can be found at [Creative Commons](https://creativecommons.org/licenses/by/4.0/)
 [^17]: Open science notebook as a great way of presenting findings - [JuPyTer](http://jupyter.org/)

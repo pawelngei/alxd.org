@@ -9,7 +9,7 @@ Hah, my first technical post on the blog, even if very lame :)
 
 During the last year's elections in Poland a truly leftist party surfaced for the first time in decades, proposing to raise the taxes with a progressive tax system. It turned out that a lot of Poles didn't know how such a system works and became terrified by the thought of a 75% tax for the richest.
 
-That convinced me to create some kind of visualization of various tax systems - be in flat or progressive. This is an early stage effect of my works: TaxBrackets 0.1, available at [my Github](http://github.com/pawelchojnacki/d3-taxBrackets).
+That convinced me to create some kind of visualization of various tax systems - be in flat or progressive. This is an early stage effect of my works: TaxBrackets 0.1, available at [my Github](http://github.com/pawelngei/d3-taxBrackets).
 
 <a href="https://www.flickr.com/photos/jakerust/16825349671/">
   <img title="Taxes CC-BY http://www.gotcredit.com/" class="article-img" src="/images/11_taxbrackets/taxes.jpg" style="width: 500px; height: auto; margin: 2em auto;">
@@ -181,7 +181,6 @@ This is just an early alpha version, which probably needs a redesign as well as 
 
 6. Packaging it into a standardized d3 module, maybe?
 
-I will try to keep you updated about [my progress](http://github.com/pawelchojnacki/d3-taxBrackets) - maybe this will keep me motivated to finish this project before the next elections ;)
+I will try to keep you updated about [my progress](http://github.com/pawelngei/d3-taxBrackets) - maybe this will keep me motivated to finish this project before the next elections ;)
 
 If you have any comments - please [contact me](mailto:a%6C%78%64 (A%54) %61%6Cxd.org) about it!
-

@@ -31,4 +31,4 @@ Should you want to send me any cryptocurrencies:
 [email]: mailto:alxd(AT)alxd.org
 [Diaspora*]: https://joindiaspora.com/people/9c96cec4917029e3
 [Facebook]: https://www.facebook.com/alxd.org
-[github]: https://github.com/pawelchojnacki
+[github]: https://github.com/pawelngei

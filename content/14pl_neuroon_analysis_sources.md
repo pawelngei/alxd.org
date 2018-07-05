@@ -7,9 +7,9 @@ Translation: true
 
 ### Edycja 29.09.2016
 
-Analiza wraz ze wszystkimi danymi dostępne są na moim [Githubie](https://github.com/pawelchojnacki/sleep_project).
+Analiza wraz ze wszystkimi danymi dostępne są na moim [Githubie](https://github.com/pawelngei/sleep_project).
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/examination_bed.jpg"
     target="_blank">
 <img
@@ -44,7 +44,7 @@ Na przestrzeni ostatnich dwóch lat wielokrotnie deklarowałem chęć przeprowad
 
 Model deweloperski maski jest tak naprawdę zwykłym egzemplarzem produkcyjnym - płytką PCB zanurzoną w silikonie - z dodatkowymi kabelkami pozwalającymi na przebicie się przez silikon do pinów danych na płytce.
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_main_unit_front.jpg"
     target="_blank">
 <img
@@ -56,7 +56,7 @@ Model deweloperski maski jest tak naprawdę zwykłym egzemplarzem produkcyjnym -
 
 Z przodu widzimy trzy elektrody (wg opisu produktu pokryte warstwą złota[^13] - nie sprawdzałem tego samodzielnie nie chcąc uszkodzić maski), pulsoksymetr i termometr w charakterystycznym wycięciu, LEDy w narożnikach oraz jedyny guzik znajdujący się w samym środku płytki. Elektrody razem dają jeden kanał różnicowy - środkowa jest masą.
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_main_unit_back.jpg"
     target="_blank">
 <img
@@ -68,7 +68,7 @@ Z przodu widzimy trzy elektrody (wg opisu produktu pokryte warstwą złota[^13] 
 
 Tylna część płytki NeuroOna nie zawiera elementów charakterystycznych. Z mojego rozumienia "test unit" oznacza po prostu model wyprodukowany na potrzeby Intelclinic przed produkcją masową, posiadający identyczne parametry.
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_foam_back.jpg"
     target="_blank">
 <img
@@ -80,7 +80,7 @@ Tylna część płytki NeuroOna nie zawiera elementów charakterystycznych. Z mo
 
 Maska z gumką, którą NeuroOn przymocowany jest do twarzy użytkownika. <del>Niestety, nie posiada regulacji i dla osób z dużą głową (jak ja) może być obcisła / powodować chęć zmiany pozycji urzadzenia w nocy, co bardzo źle wpłynie na sygnał.</del> Edit: NeuroOn posiada regulację długości gumki - w tym calu należy rozebrać gąbkę, odrywając przypiętą na rzep przednią część i zmienić położenie uchwytu paska (również zamocowanego na rzep). Dzięki Karol!
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_foam_front.jpg"
     target="_blank">
 <img
@@ -92,7 +92,7 @@ Maska z gumką, którą NeuroOn przymocowany jest do twarzy użytkownika. <del>N
 
 Przód maski wykonany jest z gąbki. Płytka PCB wkładana jest w otwór widoczny na górze, gdzie leży dość dobrze, jednak nie jest przymocowana żadnym rzepami, magnesami czy gumkami. Poprawnie założona nie powinna wypaść w nocy - maska sprawia, że elektrody przylegają bardzo ściśle i zostawiają odciski na skórze (zdjęcia później).
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_assembled_noleds.jpg"
     target="_blank">
 <img
@@ -104,7 +104,7 @@ Przód maski wykonany jest z gąbki. Płytka PCB wkładana jest w otwór widoczn
 
 Maska z włożoną płytką - LEDy wypadają dokładnie w miejscach wycięć gąbki.
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_assembled_led.jpg"
     target="_blank">
 <img
@@ -118,7 +118,7 @@ Po włączeniu płytki zapalają się niebieskie LEDy. Bardzo subiektywnie nie l
 
 Maski używałem w trybie deweloperskim - z graficznym menadżerem napisanym w Javie przez zespół Intelclinic, którego kodem - ani binarkami do analizy danych - nie mogę się jednak podzielić wedle naszej umowy. Oznacza to także, że nie korzystałem z aplikacji NeuroOna na telefon. Zastąpiły mi ją dedykowany moduł bluetooth na USB oraz dwa kabelki podpięte pod debugger.
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_debug_ground.jpg"
     target="_blank">
 <img
@@ -130,7 +130,7 @@ Maski używałem w trybie deweloperskim - z graficznym menadżerem napisanym w J
 
 Podłączenie masy pod port microUSB w NeuroOnie. Sam w sobie służy jedynie do ładowania i nie ma podpiętego data pina.
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_debug_nochannel.jpg"
     target="_blank">
 <img
@@ -142,7 +142,7 @@ Podłączenie masy pod port microUSB w NeuroOnie. Sam w sobie służy jedynie do
 
 Pin danych znajduje się na płytce - jest to pierwszy od lewej pin pod silikonem, przez który należy się przebić (dedykowaną igłą w krokodylku), aby uzyskać dostęp do danych z maski.
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_debug_data.jpg"
     target="_blank">
 <img
@@ -154,7 +154,7 @@ Pin danych znajduje się na płytce - jest to pierwszy od lewej pin pod silikone
 
 Poprawnie założony krokodylek (tylko wygląda na krzywy),
 
-<a 
+<a
     href="/images/14_neuroon_signals/mask/neuroon_debug_full.jpg"
     target="_blank">
 <img
@@ -170,7 +170,7 @@ NeuroOn gotowy do podpięcia do komputera i wejścia w tryb debugowania. Pozwala
 
 Po wykonaniu kilku testowych całonocnych nagrań NeuroOnem postanowiłem przeprowadzić rzetelny eksperyment, który pozwoliłby mi z dużą pewnością odpowiedzieć na pytanie: *czy zbierany przez maskę sygnał jest wystarczająco dobrej jakości, by posiadając moc obliczeniową smartphone'a móc w czasie rzeczywistym wykrywać fazę snu na podstawie EEG, EOG, pulsoksymetru, termometru i akcelerometru?* Kickstarterowe obietnice IntelClinic mówiły właśnie o masce będącej w stanie wybudzić nas w odpowiednim momencie - a więc muszącej wiedzieć, w jakiej fazie snu jesteśmy w danej chwili.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/doorsign.jpg"
     target="_blank">
 <img
@@ -198,7 +198,7 @@ Druga noc zawierała już tylko:
 
 Podczas obu zbierałem też równolegle sygnał z NeuroOna, którego umiejscowienie na twarzy nie sprawiało zbytniego problemu - żadne elektrody wykorzystywane w profesjonalnych badaniach nie znajdują się zaraz nad łukiem brwiowym.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/examination_bed.jpg"
     target="_blank">
 <img
@@ -210,7 +210,7 @@ Podczas obu zbierałem też równolegle sygnał z NeuroOna, którego umiejscowie
 
 NeuroOn na łóżku, gdzie wykonywane będą badania. Pomieszczenie nie było w żaden sposób ekranowane i nie znajdowało się pod klatką Faradaya, przez co pasmo 50Hz będzie wycięte z końcowego sygnału ze względu na rezonans z siecią elektryczną w ścianach.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/testing_suite.jpg"
     target="_blank">
 <img
@@ -222,7 +222,7 @@ NeuroOn na łóżku, gdzie wykonywane będą badania. Pomieszczenie nie było w 
 
 Programowanie płytki przed pierwszą nocą, aby nie włączała trybu wybudzania przed ośmioma godzinami i zbierała cały sygnał. Przed każdym nagraniem dobrze jest też nadpisać cąłą wolną pamięć zerami (a przynajmniej tak rozumiem opcję CLEAR w oprogramowaniu).
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/amplifier_front.jpg"
     target="_blank">
 <img
@@ -234,7 +234,7 @@ Programowanie płytki przed pierwszą nocą, aby nie włączała trybu wybudzani
 
 Przez obie noce używany był wzmacniacz AURA PSG firmy GRASS[^15] zbierający sygnały z częstotliwością 200Hz. Wedle informacji udzielonych mi przez Ośrodek jest to standard we w pełni profesjonalnych badaniach lekowych.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/amplifier_back.jpg"
     target="_blank">
 <img
@@ -246,7 +246,7 @@ Przez obie noce używany był wzmacniacz AURA PSG firmy GRASS[^15] zbierający s
 
 Wszystkie sygnały zapisywane były bezpośrednio do komputera w Ośrodku z pominięciem pamięci wewnętrznej urzadzenia.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/1020.png"
     target="_blank">
 <img
@@ -258,7 +258,7 @@ Wszystkie sygnały zapisywane były bezpośrednio do komputera w Ośrodku z pomi
 
 Elektrody użyte w EEG w obu badaniach: A1 i A2, F3 i F4, C3 i C4, O1 i O2, Fz i Cz jako uziemienie oraz referencyjna. Oprócz nich zostały użyte elektrody EOG1 i EOG2 (EOG), CHIN1, CHIN2 i CHIN3 (na brodzie, do wykrywania grymasów twarzy) oraz ECG na klatce piersiowej.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/night_1_electrodes_front.jpg"
     target="_blank">
 <img
@@ -270,7 +270,7 @@ Elektrody użyte w EEG w obu badaniach: A1 i A2, F3 i F4, C3 i C4, O1 i O2, Fz i
 
 Noc pierwsza - umiejscowienie elektrod z frontu - widoczne są EOG1 i EOG2 przy oczach, Fz na czole, CHIN1, CHIN2 i CHIN3 pod brodą, F3 i F4 tuż nad linią włosów.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/night_1_electrodes_left.jpg"
     target="_blank">
 <img
@@ -282,7 +282,7 @@ Noc pierwsza - umiejscowienie elektrod z frontu - widoczne są EOG1 i EOG2 przy 
 
 Widoczne elektrody CHIN1, EOG1, F3, C3 i O1. Kawałek kleju za uchem trzyma jedynie kable.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/night_1_electrodes_back.jpg"
     target="_blank">
 <img
@@ -294,7 +294,7 @@ Widoczne elektrody CHIN1, EOG1, F3, C3 i O1. Kawałek kleju za uchem trzyma jedy
 
 Widoczne O1 i O2 z tyłu głowy, Cz na szczycie czaszki.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/night_1_electrodes_right.jpg"
     target="_blank">
 <img
@@ -306,9 +306,9 @@ Widoczne O1 i O2 z tyłu głowy, Cz na szczycie czaszki.
 
 Analogicznie z prawej strony głowy: CHIN3, EOG2, F4 i C4, O2.
 
-Po przymierzeniu maski Fz należało przesunąć trochę do góry, by plastry przytrzymujące ją nie zasłaniały elektrod NeuroOna. 
+Po przymierzeniu maski Fz należało przesunąć trochę do góry, by plastry przytrzymujące ją nie zasłaniały elektrod NeuroOna.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/night_1_lying.jpg"
     target="_blank">
 <img
@@ -320,7 +320,7 @@ Po przymierzeniu maski Fz należało przesunąć trochę do góry, by plastry pr
 
 Zaraz przed założeniem maski - jestem w stanie powiedzieć, że pełna uprząż do badania ruchów klatki piersiowej jest wyjątkowo niewygodna. Brakuje mi zdjęć z NeuroOnem z pierwszej nocy, pojawiają się jednak następnej. Z uwagi na ilość sprzętu jaką miałem na sobie, jakość mojego snu była na początku bardzo niska, co będzie dobrze widoczne tak w opisie, jak i w sygnale.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/night_2_electrodes_front.jpg"
     target="_blank">
 <img
@@ -332,7 +332,7 @@ Zaraz przed założeniem maski - jestem w stanie powiedzieć, że pełna uprzą�
 
 Druga noc - i już tylko EEG, EOG i EKG. Wiedziałem, że pozbycie się zarostu z twarzy i skalpu pomoże, zapomniałem jednak o EKG - i straciłem trochę włosów z klatki piersiowej.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/night_2_electrodes_mask.jpg"
     target="_blank">
 <img
@@ -344,7 +344,7 @@ Druga noc - i już tylko EEG, EOG i EKG. Wiedziałem, że pozbycie się zarostu 
 
 Po założeniu maski - dość dobrze widać, gdzie będą przylegały elektrody.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/night_2_full_mask.jpg"
     target="_blank">
 <img
@@ -356,7 +356,7 @@ Po założeniu maski - dość dobrze widać, gdzie będą przylegały elektrody.
 
 Jak widać, przylegają one do twarzy bardzo mocno.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/electrode_prints.jpg"
     target="_blank">
 <img
@@ -368,7 +368,7 @@ Jak widać, przylegają one do twarzy bardzo mocno.
 
 Odciski widoczne są na twarzy kolejnego dnia - nawet do godziny po zdjęciu.
 
-<a 
+<a
     href="/images/14_neuroon_signals/examination/software.jpg"
     target="_blank">
 <img
@@ -380,7 +380,7 @@ Odciski widoczne są na twarzy kolejnego dnia - nawet do godziny po zdjęciu.
 
 Sygnał z obu nocy został zgrany z polisomnografu za pomocą oprogramowania Grass Technologies PSG TWin 4.5.4 oraz 4.5.2 dla upewnienia się, że nie powstaną artefakty pochodzenia software'owego.
 
-Mimo iż nowsza wersja software IntelClinic którą otrzymałem zapisuje w plikach z sygnałem timestampy z NeuroOna, streamy z maski i polisomnografu mogą zaczynać się w różnych momentach. By pomóc wyznaczyć wspólny punkt startu, przez pierwsze kilka minut badań co kilka sekund zamykałem oczy i zaciskałem zęby lub wysuwałem żuchwę, co powinno pojawić się jako bardzo wyraźne artefakty mięśniowe pomagające zsynchronizować oba sygnały. 
+Mimo iż nowsza wersja software IntelClinic którą otrzymałem zapisuje w plikach z sygnałem timestampy z NeuroOna, streamy z maski i polisomnografu mogą zaczynać się w różnych momentach. By pomóc wyznaczyć wspólny punkt startu, przez pierwsze kilka minut badań co kilka sekund zamykałem oczy i zaciskałem zęby lub wysuwałem żuchwę, co powinno pojawić się jako bardzo wyraźne artefakty mięśniowe pomagające zsynchronizować oba sygnały.
 
 Wszystkie pliki - zarówno skany opisu, sygnały z NeuroOna (.csv) i AURY (.edf), staging (.xcl, .csv) jak i zdjęcia można znaleźć [na moim serwerze](https://alxd.org/data/psg_neuroon_raw_data_description.7z). Wszystkie wyżej wymienione materiały objęte są licencją Creative Commons BY 4.0[^16].
 
@@ -406,6 +406,6 @@ Analiza sygnałów zajmie mi przynajmniej miesiąc, nie chcę więc w tej chwili
 > In my first post I mentioned having asked the support whether the mask hardware is technically capable of detecting the sleep-stage in real time. I got a message from the support today. They did not answer my question directly (or course…) but said that “We may add in the future the option of waking up when in the light sleep”. What I make of this is that it’s hard to implement and not their top priority at the moment.
 [^13]: [NeuroOn Technology](https://neuroon.com/technology/)
 [^14]: Ośrodek Medycyny Snu Instytutu Psychiatrii i Neurologii [strona główna](http://www.sen-instytut.pl/index.html)
-[^15]: Wszystkie strony firmy Grass wydają się martwe, natomiast informacje o wzmacniaczu AURA dostępne są na [SelectScience](http://www.selectscience.net/products/aura-psg-ambulatory-systems/?prodID=171717) i [stronie Ośrodka Medycyny Snu](http://www.sen-instytut.pl/sleep_laboratory.html) 
+[^15]: Wszystkie strony firmy Grass wydają się martwe, natomiast informacje o wzmacniaczu AURA dostępne są na [SelectScience](http://www.selectscience.net/products/aura-psg-ambulatory-systems/?prodID=171717) i [stronie Ośrodka Medycyny Snu](http://www.sen-instytut.pl/sleep_laboratory.html)
 [^16]: CC-BY 4.0 - szczegółowe warunki licencji dostępne są na stronie [Creative Commons](https://creativecommons.org/licenses/by/4.0/deed.pl)
 [^17]: Otwarty notes naukowy jako świetna forma do prezentacji swoich badań - [JuPyTer](http://jupyter.org/)
