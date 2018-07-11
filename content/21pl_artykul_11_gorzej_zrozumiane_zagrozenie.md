@@ -1,5 +1,5 @@
 Title: Artykuł 11: gorzej zrozumiane zagrożenie
-Date: 2018-06-03
+Date: 2018-07-03
 Slug: artykul-11-gorzej-zrozumiane-zagrozenie
 Lang: pl
 Translation: false

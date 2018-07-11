@@ -1,5 +1,5 @@
 Title: (Nie) zamierzone efekty reformy praw autorskich w UE
-Date: 2018-06-02
+Date: 2018-07-02
 Slug: nie-zamierzone-efekty-reformy-praw-autorskich-w-ue
 Lang: pl
 Translation: false
