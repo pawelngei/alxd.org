@@ -4,7 +4,7 @@ Slug: solarpunk-notatki-do-manifestu
 Lang: pl
 Translation: false
 
-*Poniższy tekst jest moim tłumaczeniem [tekstu](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/) Adama Flynna, który w 2014 roku zamieścił na wiki [Projektu Hieroglyph](https://hieroglyph.asu.edu/). Jest to pierwsza kompleksowa próba opisu nowopowstającego ruchu literackiego i nowej wizji przyszłości zwanej "Solarpunkiem".*
+*Poniższy tekst jest moim tłumaczeniem [tekstu](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/) Adama Flynna, który w 2014 roku został zamieszczony na wiki [Projektu Hieroglyph](https://hieroglyph.asu.edu/). Jest to pierwsza kompleksowa próba opisu nowopowstającego ruchu literackiego i nowej wizji przyszłości zwanej "Solarpunkiem".*
 
 ![Copyright by Olivia/Land of Masks and Jewels](/images/22_solarpunk/Solarpunk-punk1_sm.png)
 
@@ -12,7 +12,7 @@ Translation: false
 
 ---
 
-Ciężko jest być futurystą mającym mniej niż trzydzieści lat.
+Ciężko jest być futurologiem mając mniej niż trzydzieści lat.
 
 W trakcie naszej edukacji - niezależnie od kraju, który nam ją zapewnił - mieliśmy okazję spotkać się z prezentacjami na [TEDzie](https://www.ted.com/) czy [WorldChanging](https://en.wikipedia.org/wiki/Worldchanging)[^ted-worldchanging], pięknie zaprojektowanymi reklamami ekologicznej konsumpcji i organizacjami pozarządowymi promującymi zrównoważony rozwój. W tym samym czasie dorastaliśmy jednak z zapowiedziami zagrożeń mających ziścić się zanim jeszcze przejdziemy na emerytury - tak z powolną acz nieubłaganą militaryzacją policji[^państwa-policyjne], jak i elitami politycznymi całkowicie niepotrafiącymi poradzić sobie z istniejącym, ale jeszcze nie tak pilnym zagrożeniem zmiany klimatu. Wielu z nas sądzi, że nieetyczne jest sprowadzać dzieci na taki świat. Wyrośliśmy w cieniu tych zagrożeń i jeżeli czasem przypominamy grzyb - jest to komplement dla naszych umiejętności przystosowawczych.
 
@@ -20,7 +20,7 @@ Jesteśmy solarpunkami, ponieważ jedyne inne opcje to wyparcie lub rozpacz.
 
 W obietnicach Singularystów i [Transhumanistów](https://pl.wikipedia.org/wiki/Transhumanizm) jest miejsce dla jednostek, nie społeczeństw, a ich wizje przyszłości są pozbawione jakiejkolwiek równowagi. Jak wiele z nich może zdarzyć się w świecie, w którym energia nie jest tania i powszechnie dostępna, nie wspominając już o metalach ziem rzadkich[^peak-computing]?
 
-Solarpunk skupia się na znalezieniu sposobów, by uczynić życie lepszym już teraz, dla nas samych - i co jeszcze ważniejsze - dla przyszłych pokoleń. Chcemy przedłużenia ludzkiego życia na poziomie gatunku, nie tylko jednostki. Nasza przyszłość nie może być jednorazowa, musi przewidywać ponowne wykorzystanie przedmiotów czy budynków, z których korzystamy dziś - zamiast dwudziestowiecznego modernizmu, niszczącego i budującego od nowa. Nasz futuryzm nie jest nihilistyczny jak [cyberpunk](https://pl.wikipedia.org/wiki/Cyberpunk) i stara się uniknąć  potencjalnie reakcyjnych tendencji [steampunka](https://pl.wikipedia.org/wiki/Steampunk): głosimy pomysłowość, kreatywność, niezależność i nacisk na społeczności.
+Solarpunk skupia się na znalezieniu sposobów, by uczynić życie lepszym już teraz, dla nas samych - i co jeszcze ważniejsze - dla przyszłych pokoleń. Chcemy przedłużenia ludzkiego życia na poziomie gatunku, nie tylko jednostki. Nasza przyszłość nie może być jednorazowa, musi przewidywać ponowne wykorzystanie przedmiotów czy budynków, z których korzystamy dziś - zamiast dwudziestowiecznego modernizmu, niszczącego i budującego od nowa. Nasza futurologia nie jest nihilistyczna jak [cyberpunk](https://pl.wikipedia.org/wiki/Cyberpunk) i stara się uniknąć potencjalnie reakcyjnych tendencji [steampunka](https://pl.wikipedia.org/wiki/Steampunk): głosimy pomysłowość, kreatywność, niezależność i nacisk na społeczności.
 
 Końcówka _-punk_ w Solarpunku nie znalazła się tam tylko dlatego, że dobrze brzmi. Oznacza ona sprzeciw, jednak sprzeciw wyrażony budowaniem podwalin pod nowe możliwości. Widać to już w próbach podejścia do rosnącej ilości paneli słonecznych przez administrację publiczną. "Budowa niezależnej infrastruktury to zapewnienie, że nikt nie odbierze obywatelowi jego niezależności", jak słusznie zauważył Chokwe Lumumba, burmistrz Jackson, Mississippi. Dostrzegamy zalety posiadania publicznej sieci energetycznej i chcemy ją podtrzymywać, jednak tylko zdrowa samowystarczalność społeczności lokalnych pozwoli im obronić się przed monopolistami chcącymi odciąć prąd całym dzielnicom, jak to się stało w Detroit[^Detroit].
 
@@ -29,7 +29,7 @@ Solarpunk nawiązuje do do ideału chłopa Jeffersona[^yeoman-farmer], swadeshi 
 Estetyka i aspekty wizualne Solarpunka są otwarte i wciąż ewoluują. W chwili pisania tego artykułu są połączeniem:
 
  - dziewiętnastowiecznego "[wieku żagli](https://pl.wikipedia.org/wiki/Wiek_%C5%BCagli)" i życia na nowo skolonizowanych lądach (ale z większą ilością rowerów)
- - kreatywnego użycia istniejącej infrastruktury na nieprzewidziane sposoby, co czasami wygląda post-apokaliptycznie, a czasami po prostu dziwnie
+ - kreatywnego użycia istniejącej infrastruktury na nieprzewidziane sposoby, co czasami wygląda postapokaliptycznie, a czasami po prostu dziwnie
  - wynalazczości w stylu [jugaad](https://en.wikipedia.org/wiki/Jugaad) i podobnych obecnych w mnóstwie krajów rozwijających się
  - zaawansowanej technologii w prostej, eleganckiej formie
 
@@ -44,6 +44,8 @@ Ilustrację zamieszczam za zgodą [Olivia/Land of Masks and Jewels](http://misso
 *Starałem się oddać treść oryginału tak wiernie jak to możliwe - zamieściłem też przypisy, które mogą pomóc zrozumieć polskim czytelnikom zagadnienia głęboko zakorzenione w kulturze Stanów Zjednoczonych.*
 
 *Autor wyraził zgodę na tłumaczenie i publikację tego tekstu, jednak w przeciwieństwie do większości tego bloga nie jest on objęty licencją Creative Commons. Ilustracje należą do podpisanych autorów.*
+
+*Ogromne dzięki Krzysztofowi Kornasowi za uwagi do tłumaczenia.*
 
 [^ted-worldchanging]: [TED](https://www.ted.com/) jest serią konferencji (pod markami TED jak i TEDx) promujących innowacje, rozwój osobisty i ciekawe historie pod hasłem "idee warte propagowania". Nieistniejący już [worldchanging.com](https://en.wikipedia.org/wiki/Worldchanging) natomiast skupiał się na ekologii i zrównoważonym rozwoju. Obie serie wystąpień mają status dość kultowych w Stanach Zjedoczonych ze względu na wysoką jakość wykonania, przystępność i ambicję intelektualną.
 
