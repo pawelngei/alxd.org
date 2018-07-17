@@ -34,7 +34,8 @@ SOCIAL = (
 CC_LICENSE = {
     'name': 'Creative Commons Attribution-ShareAlike',
     'version': '4.0',
-    'slug': 'by-sa'
+    'slug': 'by-sa',
+    'local_icons': True
 }
 
 COPYRIGHT_YEAR = datetime.now().year
