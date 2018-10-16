@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: goaccess.html
-Disallow: /new_skin/

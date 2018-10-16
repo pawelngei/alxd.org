@@ -23,7 +23,7 @@ USE_GOOGLE_FONTS = False
 MENUITEMS = (('Archives', '/archives.html'),)
 
 SOCIAL = (
-    ('envelope-open', 'mailto:alxd (AT) alxd.org'),
+    ('envelope', 'mailto:alxd (AT) alxd.org'),
     ('mastodon', 'https://chaos.social/@alxd'),
     ('github', 'https://github.com/pawelngei'),
     ('twitter', 'https://twitter.com/pawelngei'),
