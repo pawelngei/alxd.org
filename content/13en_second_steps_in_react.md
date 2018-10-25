@@ -9,14 +9,14 @@ For some time I've been using React JS stack in my professional projects at X-Te
 
 <img title="React frameworks" class="article-img" src="/images/13_second_steps/main_img.png" style="width: 300px; height: auto;">
 
-Initially given on April 27th in a wonderful Noisebridge hackerspace, I updated it a little after React Europe 2016 and presented again at MeetJS Warsaw on the 7th of June 2016. 
+Initially given on April 27th in a wonderful Noisebridge hackerspace, I updated it a little after React Europe 2016 and presented again at MeetJS Warsaw on the 7th of June 2016.
 
 The presented application of React + Redux is just a simple view authentication method, which nicely highlights the simplicity of the architecture. All links - including "by then you should know" are clickable, so feel free to browse sources recommended by me. All code itself is either runnable or has a `pseudocode` warning on the slide.
 
-Slides are available in an `iframe` below or at my [slides.com](https://slides.com/pawelchojnacki/second-steps-in-react-auth/) account.
+Slides are available in an `iframe` below or at my [slides.com](https://slides.com/pawelngei/second-steps-in-react-auth/) account.
 
 <div style="text-align: center; margin: 1em 0">
-  <iframe style="margin: auto" src="//slides.com/pawelchojnacki/second-steps-in-react-auth/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="//slides.com/pawelngei/second-steps-in-react-auth/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 To learn more about High Order Components, head to [Andrew Clark's presentation](https://www.youtube.com/watch?v=zD_judE-bXk) from this year's React Europe.

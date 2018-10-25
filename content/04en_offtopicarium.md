@@ -73,7 +73,7 @@ Sadly, I was unable to stay for the Sunday evening's part to listen to other spe
 As to my own slides - the uploaded versions are the same I used at the conference. They contain some non-free images, legally used only for an educational purpose - but if you would like me to improve the presentation, please just contact me and I'll make it ready for future use in any role.
 
 [Offtopicarium]: http://offtopicarium.wikidot.com/
-[slid.es]: https://slides.com/pawelchojnacki/openingscience/
+[slid.es]: https://slides.com/pawelngei/openingscience/
 [html]: slides/5th_offtopicarium/openingscience.html
 [pdf]: slides/5th_offtopicarium/openingscience.pdf
 [computer solving Erdos problem]: http://www.independent.co.uk/life-style/gadgets-and-tech/news/computer-cracks-erds-puzzle--but-no-human-brain-can-check-the-answer-9137097.html

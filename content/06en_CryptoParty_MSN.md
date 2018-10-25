@@ -38,10 +38,10 @@ After the presentation I noticed several topics which could have been mentioned 
 
 We've already got two or three invitations to schools around Warsaw to go with the same presentation, yet I think that it should be changed to better suit the younger listeners. While they may see the MITM on their smartphones, we should focus on *why is it important to stay private* and *why not to share naked pictures of yourself* instead of dwelling on subjects easily grasped by the youth (like why Internet Explorer is a bad idea).
 
-The presentation itself (sadly, Polish only for now - but a lot of pictures) may be found [here](http://slides.com/pawelchojnacki/cryptopartymsn) or in the `iframe` below (press `F` to fullscreen):
+The presentation itself (sadly, Polish only for now - but a lot of pictures) may be found [here](http://slides.com/pawelngei/cryptopartymsn) or in the `iframe` below (press `F` to fullscreen):
 
 <div style="text-align: center; margin: 1em;">
-  <iframe src="//slides.com/pawelchojnacki/cryptopartymsn/embed?style=hidden" width="500" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="//slides.com/pawelngei/cryptopartymsn/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 If you've got any suggestions or comments, feel free to write me an [email](mailto:alxd AT alxd.org).
