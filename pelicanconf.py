@@ -24,7 +24,7 @@ MENUITEMS = (('Archives', '/archives.html'),)
 
 SOCIAL = (
     ('envelope', 'mailto:alxd (AT) alxd.org'),
-    ('mastodon', 'https://chaos.social/@alxd'),
+    ('mastodon', 'https://writing.exchange/@alxd'),
     ('github', 'https://github.com/pawelngei'),
     ('twitter', 'https://twitter.com/pawelngei'),
     ('linkedin', 'https://www.linkedin.com/in/pawel-ngei-19227983/'),
