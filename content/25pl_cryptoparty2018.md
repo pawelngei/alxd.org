@@ -6,7 +6,7 @@ Translation: true
 
 Od pięciu lat prowadzę w Polsce darmowe wykłady z podstaw cyberbezpieczeństwa dla gimnazjów, liceów i grup zainteresowanych. Jest to temat niezwykle istotny we współczesnym świecie, a którego bardzo ciężko się nauczyć bez odpowiednich źródeł.  Wielu dorosłych opuściło szkołę bez możliwości zrozumienia jak dbać o swoje bezpieczeństwo w Sieci, a młodzież nie zawsze ma dostęp do wiedzy znajdującej się poza podstawą programową.
 
-![CC-BY-SA Agnieszka Bilska](/images/25_cryptoparty2018/gliwice_makers.jpg)
+![CC-BY-SA Leszek Janasik](/images/25_cryptoparty2018/milanowek.jpg)
 
 Rok 2018 był szczególnie owocny jeżeli chodzi o Cryptoparty: udało mi się poprowadzić je w liceach i gimnazjach w Gliwicach, Warszawie, podwarszawskich Wołominie i Milanówku oraz online dla uczniów z nauczaniem indywidualnym.
 
@@ -30,6 +30,8 @@ Kilka rzeczy, których nauczyłem się przygotowując ten wykład:
 * Mówienie o samych zagrożeniach bez pokazywania metod radzenia sobie z nim jest kontrproduktywne: sprawia tylko, że słuchacze stają się apatyczni i zniechęceni. Postanowiłem więc nie wspominać o niektórych technologiach, jak np. browser fingerprinting, które nie są kluczowymi problemami - a mogą zniechęcić uczniów do podjęcia jakichkolwiek działań. "Przecież i tak ktoś nas będzie śledził!".
 * Do każdego tematu dodaję źródła: linki do stron i kontakty do NGOsów zajmujących się poszczególnymi kwestiami. Dodaje to prezentacji wiarygodności, oraz pokazuje uczniom i nauczycielom gdzie szukać więcej wiedzy na dany temat. Jako, że slajdy są dostępne w Sieci, każdy będzie w stanie zajrzeć do nich w wolnej chwili i rozpocząć własne poszukiwania.
 * Wykład zakańczam podaniem trzech bardzo konkretnych instrukcji, które uczniowie mogą wykonać w domu, aby poprawić swoje bezpieczeństwo i prywatność w Sieci. Znany z marketingu "call to action" jest bardzo skutecznym mechanizmem, który działa nawet na tych, którzy "dopiero się obudzili" na ostatnim slajdzie.
+
+![CC-BY-SA Agnieszka Bilska](/images/25_cryptoparty2018/gliwice_makers.jpg)
 
 Obecna forma Cryptoparty nie jest jednak idealna. Największe problemy, jakie zauważyłem to:
 
