@@ -8,6 +8,8 @@ At 35th Chaos Communication Congress I had an opportunity to give a lightning ta
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B3k7cuF-Hjw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+**EDIT:** [OpenTranscripts](http://opentranscripts.org/transcript/we-need-better-story-than-cyberpunk/) volunteered their work and wrote down the transcript of my talk. Thank you!
+
 My goal was to show hackers that by repeating the dystopian cyberpunk tropes in their own narratives they're hurting their own agenda. The general public, seeing them as senseless rebels, doesn't even stop to consider valid points they raise, like the net neutrality, tech accountability or the value of privacy.
 
 I believe we can change that by painting new world based on hacker values - but this time inclusive for the regular people, bakers and schoolteachers. Such world wouldn't require everyone to learn how to code or secure a server, but we could all benefit from the _cultural_ technologies of transparent knowledge sharing, open dialog about technology and distributed, horizontal power structures.
