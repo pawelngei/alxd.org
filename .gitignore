@@ -8,5 +8,6 @@ output/
 pelicanconf.pyc
 publishconf.pyc
 *.pid
+*.backup
 
 content/slides/19_mitch_altman/*
