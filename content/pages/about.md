@@ -4,7 +4,7 @@ Slug: about
 
 My name is Pawel Ngei (previously Pawel Chojnacki). I'm a full-stack web developer, cybersecurity educator, open science and free software activist and a former [Warsaw Hackerspace] facilitator.
 
-I freelance as ALXD [(registry index)](https://prod.ceidg.gov.pl/CEIDG/CEIDG.Public.UI/SearchDetails.aspx?Id=d9303664-0fe2-4dc0-aecb-797877c2d1ba) and with the awesome [X-Team](http://x-team.com/). You can also check my [LinkedIn](https://pl.linkedin.com/pub/pawel-chojnacki/83/279/192) profile.
+I freelance as ALXD [(registry index)](https://prod.ceidg.gov.pl/CEIDG/CEIDG.Public.UI/SearchDetails.aspx?Id=d9303664-0fe2-4dc0-aecb-797877c2d1ba) and with the awesome [X-Team](http://x-team.com/). You can also check my [LinkedIn](https://www.linkedin.com/in/paul-ngei-19227983/) profile.
 
 I highly value rationalist and humanist values and consider myself a critical [transhumanist]. I seek to live by these ideals, changing world around me bit by bit, day by day.
 
