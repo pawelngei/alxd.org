@@ -6,7 +6,7 @@ from datetime import datetime
 AUTHOR = 'Pawel Ngei'
 SITENAME = 'alxd'
 SITETITLE = 'alxd'
-SITESUBTITLE = u'hacker with a story to tell'
+SITESUBTITLE = u'solarpunk | hacker'
 
 SITEURL = 'https://alxd.org'
 SITELOGO = '/images/logo-circ.png'
