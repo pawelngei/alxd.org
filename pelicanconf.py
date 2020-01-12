@@ -27,7 +27,7 @@ SOCIAL = (
     ('mastodon', 'https://writing.exchange/@alxd'),
     ('github', 'https://github.com/pawelngei'),
     ('twitter', 'https://twitter.com/pawelngei'),
-    ('linkedin', 'https://www.linkedin.com/in/pawel-ngei-19227983/'),
+    ('linkedin', 'https://www.linkedin.com/in/paul-ngei-19227983'),
     ('rss', 'feeds/all.atom.xml'),
 )
 
