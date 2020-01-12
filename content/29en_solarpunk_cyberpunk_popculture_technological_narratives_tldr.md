@@ -8,12 +8,16 @@ This blogpost is a written version of a talk I originally was to give at [re:pub
 
 ---
 
-Several years ago I visited a hackerspace for the first time. At the time I was a Computational Neuroscience student, wanting to learn so much, but being constantly told I need to "wait out" my first few years of theoretical studies before I can lay my hands on any EEG equipment. I heard that hackers learn everything hands-on and are not limiting their curiosity. That proved true.
+EDIT: Thanks to [Artes Mobiles](https://collective.artesmobiles.art/en/index.php) I had an opportunity to give this talk at 36th Chaos Communication Congress in Leipzig, Germany, in December 2019. You can find the slides at [slides.com](https://slides.com/pawelngei/solarpunk-cyberpunk-and-popculture-technological-narratives-tl-dr/#/).
 
-I immediately fell in love with what I saw: people exploring technology not waiting for anyone's permission. If they - or their friends - had a problem, they just started looking for a way to solve it. They were able to fully dedicate themselves to their curiosities, not limited by any company or university. They shared everything they learned with each other and the world, building together instead of being afraid of anyone "stealing" their ideas.
+---
+
+Several years ago I visited a hackerspace for the first time. At the time I was a Computational Neuroscience student, wanting to learn so much, but being constantly told I need to "wait out" my first few years of theoretical studies before I can lay my hands on any EEG equipment. I heard that hackers learn everything hands-on and are not limiting their curiosity. That proved true.
 
 ![Hackerspace CC-BY-SA Mike Liuzzi](/images/29_technological_narratives/hackerspace.jpg)
 [Hackerspace CC-BY-SA Mike Liuzzi](http://www.mikeliuzzi.com/)
+
+I immediately fell in love with what I saw: people exploring technology not waiting for anyone's permission. If they - or their friends - had a problem, they just started looking for a way to solve it. They were able to fully dedicate themselves to their curiosities, not limited by any company or university. They shared everything they learned with each other and the world, building together instead of being afraid of anyone "stealing" their ideas.
 
 I quickly found out it's really hard to explain it to anyone who isn't already a part of the movement. After a moment I decided to start telling accessible stories which could introduce this approach to an average person. It's not an easy task, since our culture, and especially popculture - tell us to expect something very different. The thoughts below are largely a product of the last two years of my storytelling and research.
 
