@@ -4,6 +4,10 @@ Slug: inspirations
 
 When overwhelmed by the stupidity, ignorance and despair around me, I like going back to these just to regain some hope in humanity:
 
+### Solarpunk
+
+A Solarpunk [Manifesto](http://www.re-des.org/a-solarpunk-manifesto/) summing up all the values of the movement. Focusing on hope and finding solutions instead of warnings.
+
 ### Hackerspaces
 
 #### [Gemsi - Our Story](https://www.youtube.com/watch?v=TJpsNQF60Fc)

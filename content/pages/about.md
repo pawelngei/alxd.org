@@ -18,6 +18,7 @@ My <a href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0xFA90F55BD2F640D5">P
 
     A1BE 7664 4DFE 56DD D29C CDC0 FA90 F55B D2F6 40D5
 
+Avatar by [Marty Tina G.](http://martygart.weebly.com/).
 
 [Warsaw Hackerspace]: https://hackerspace.pl/
 [transhumanist]: http://rationalwiki.org/wiki/Transhumanism
