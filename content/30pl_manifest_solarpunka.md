@@ -3,15 +3,16 @@ Date: 2020-03-08
 Slug: manifest-solarpunka
 Lang: pl
 Translation: false
+opengraph_image: 30_solarpunk_manifesto/sustainable_cities_james_mckay.jpeg
 
 ![Sustainable Cities by James McKay](/images/30_solarpunk_manifesto/sustainable_cities_james_mckay.jpeg)
 [Sustainable Cities by James McKay](https://eps.leeds.ac.uk/staff/216/James_McKay)
 
 ### Wstęp od tłumaczy
 
-Spolarpunk jest gatunkiem usiłującym zredefiniować nasze opowieści, wyjść poza ograniczenia poznawcze i językowe znacznej większości fikcji drugiej połowy XX i XXI wieku. Bardzo mocno bazuje na koncepcie sustainability, które niestety nie ma bezpośredniego odpowiednika w języku polskim. W słowniku możemy znaleźć termin „zrównoważony rozwój” pochodzący raczej z narracji korporacyjnych i kapitalistycznych; samo sustainability żadnego rozwoju w sobie nie zawiera. Jest w nim równowaga, harmonia, jest możliwość długotrwałego, samodzielnego podtrzymania swojego stanu: samopodtrzymywalność czy samoutrzymywalność. Jest w nim coś z żywej homeostazy i ekologii bardziej niż ekonomii czy cybernetyki.
+Solarpunk jest gatunkiem usiłującym zredefiniować nasze opowieści, wyjść poza ograniczenia poznawcze i językowe znacznej większości fikcji drugiej połowy XX i XXI wieku. Bardzo mocno bazuje na koncepcie sustainability, które niestety nie ma bezpośredniego odpowiednika w języku polskim. W słowniku możemy znaleźć termin „zrównoważony rozwój” pochodzący raczej z narracji korporacyjnych i kapitalistycznych; samo sustainability żadnego rozwoju w sobie nie zawiera. Jest w nim równowaga, harmonia, jest możliwość długotrwałego, samodzielnego podtrzymania swojego stanu: samopodtrzymywalność czy samoutrzymywalność. Jest w nim coś z żywej homeostazy i ekologii bardziej niż ekonomii czy cybernetyki.
 
-Po dłuższym zastanowieniu proponujemy więc nowe tłumaczenie: **trwalny**, zasugerowane przez Michała Klatę.
+Po dłuższym zastanowieniu proponujemy więc nowe tłumaczenie: **trwalny**.
 
 ### Solarpunk
 
@@ -99,4 +100,4 @@ Solarpunk jest jednocześnie wizją przyszłości, wnikliwą prowokacją, stylem
 
     - może się spełnić, już dziś.
 
-Oryginał CC-BY-SA [The Solarpunk Community](http://www.re-des.org/a-solarpunk-manifesto/), tłumaczenie CC-BY-SA Paweł Ngei, Martyna Łysiakiewicz, Michał Klata.
+Oryginał CC-BY-SA [The Solarpunk Community](http://www.re-des.org/a-solarpunk-manifesto/), tłumaczenie CC-BY-SA Paweł Ngei, Martyna Łysiakiewicz.

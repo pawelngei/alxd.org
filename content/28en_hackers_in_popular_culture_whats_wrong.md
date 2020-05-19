@@ -3,6 +3,7 @@ Date: 2019-03-05
 Slug: hackers-in-popular-culture-the-curse-of-being-an-eternal-rebel
 Lang: en
 Translation: false
+opengraph_image: 28_hackers_in_popular_culture/doctorow_anonymous.jpg
 
 This is the second blogpost from my "technological narratives" series. The first was [How Elon Musk takes Wikipedia's place](/how-elon-musk-takes-wikipedias-place.html).
 

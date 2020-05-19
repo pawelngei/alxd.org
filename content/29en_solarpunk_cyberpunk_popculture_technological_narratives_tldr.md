@@ -3,6 +3,8 @@ Date: 2019-07-08
 Slug: solarpunk-cyberpunk-popculture
 Lang: en
 Translation: false
+opengraph_image: 29_technological_narratives/hackerspace.jpg
+
 
 This blogpost is a written version of a talk I originally was to give at [re:publica 2019](https://19.re-publica.com/en/session/solarpunk-cyberpunk-popculture-technological-narratives-tldr) in Berlin. Sadly, I couldn't attend the conference due to some health problems.
 

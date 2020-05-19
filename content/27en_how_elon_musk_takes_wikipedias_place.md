@@ -3,6 +3,7 @@ Date: 2019-01-07
 Slug: how-elon-musk-takes-wikipedias-place
 Lang: en
 Translation: false
+opengraph_image: 27_how_elon_musk_takes_wikipedias_place/elon_musk_starman.jpg
 
 For the last several months I've been attempting to write a comprehensive blogpost-manifesto summarizing my research into technological narratives in popular culture - and hackers' place in it. Since all the drafts I produced were overly long and hard to get through, I decided to cut the subchapters into shorter and easier to understand blogposts.
 

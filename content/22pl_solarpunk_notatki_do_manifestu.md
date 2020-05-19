@@ -3,6 +3,7 @@ Date: 2018-07-11
 Slug: solarpunk-notatki-do-manifestu
 Lang: pl
 Translation: false
+opengraph_image: 22_solarpunk/Solarpunk-punk1_sm.png
 
 *Poniższy tekst jest moim tłumaczeniem [tekstu](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/) Adama Flynna, który w 2014 roku został zamieszczony na wiki [Projektu Hieroglyph](https://hieroglyph.asu.edu/). Jest to pierwsza kompleksowa próba opisu nowopowstającego ruchu literackiego i nowej wizji przyszłości zwanej "Solarpunkiem".*
 
