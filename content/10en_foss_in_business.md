@@ -4,6 +4,8 @@ Slug: foss-in-business
 Lang: en
 Translation: true
 
+**EDIT**: I was suggested that [this article](https://www.websiteplanet.com/blog/what-is-open-source-software/) may be a good followup. I don't agree with all the points there (security through obscurity is never a thing), but it's really really comprehensive. Try it!
+
 This article is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed) which allows commercial use. I will be grateful for notifying me if it's published or printed anywhere outside my blog :)
 
 <a href="https://www.flickr.com/photos/duhhquagliato/4478349112/">

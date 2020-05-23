@@ -4,6 +4,8 @@ Slug: foss-in-business
 Lang: pl
 Translation: false
 
+**EDIT**: Dla ciekawych zagadnienia [ten artykuł](https://www.websiteplanet.com/blog/what-is-open-source-software/) może być dobrą kontynuacją. Nie zgadzam się ze wszystkimi jego tezami (security through obscurity nie istnieje), jest natomiast naprawdę wyczerpujący.
+
 Artykuł ten został napisany na prośbę działu Technologii Finansowych Wprost.pl i objęty jest licencją [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pl) pozwalającą również na użycie komercyjne. Byłbym wdzięczny za poinformowanie mnie, jeżeli zostałby wykorzystany poza tym blogiem i wprost.pl.
 
 <a href="https://www.flickr.com/photos/duhhquagliato/4478349112/">
