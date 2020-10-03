@@ -9,5 +9,6 @@ pelicanconf.pyc
 publishconf.pyc
 *.pid
 *.backup
+__pycache__/
 
 content/slides/19_mitch_altman/*

@@ -2,7 +2,7 @@ Title: Where to find me now?
 Date: 2018-11-04
 Slug: where-to-find-me-now
 Lang: en
-Translation: true
+Translation: false
 opengraph_image: 24_where_to_find_me/mastodon.png
 
 ![Copyright by joinmastodon.org](/images/24_where_to_find_me/mastodon.png)

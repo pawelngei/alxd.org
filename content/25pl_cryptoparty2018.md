@@ -2,7 +2,7 @@ Title: Cryptoparty: wykłady z cyberbezpieczeństwa w 2018
 Date: 2019-01-03
 Slug: cryptoparty-2018
 Lang: pl
-Translation: true
+Translation: false
 opengraph_image: 25_cryptoparty2018/milanowek.jpg
 
 Od pięciu lat prowadzę w Polsce darmowe wykłady z podstaw cyberbezpieczeństwa dla gimnazjów, liceów i grup zainteresowanych. Jest to temat niezwykle istotny we współczesnym świecie, a którego bardzo ciężko się nauczyć bez odpowiednich źródeł.  Wielu dorosłych opuściło szkołę bez możliwości zrozumienia jak dbać o swoje bezpieczeństwo w Sieci, a młodzież nie zawsze ma dostęp do wiedzy znajdującej się poza podstawą programową.
