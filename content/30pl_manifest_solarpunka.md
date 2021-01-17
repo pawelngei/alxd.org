@@ -14,6 +14,8 @@ Solarpunk jest gatunkiem usiłującym zredefiniować nasze opowieści, wyjść p
 
 Po dłuższym zastanowieniu proponujemy więc nowe tłumaczenie: **trwalny**.
 
+**Aktualizacja 08.11.20**: Po kilku miesiącach dalszych dyskusji zdaliśmy sobie sprawę, że określenie _trwalny_ jest nieco zbyt statyczne dla dynamicznej równowagi ekologicznej. Znacznie lepsza może być **odżywalność**, za chorwackim terminem [održivost](https://sh.wiktionary.org/wiki/odr%C5%BEivost) i rosyjskim [ustoychivost'](https://en.wiktionary.org/wiki/%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C).
+
 ### Solarpunk
 
 W ciągu ostatniej dekady wiele osób pisało o Solarpunku – głównie po roku 2014.
@@ -24,7 +26,7 @@ Poniższy Manifest Solarpunka jest kreatywną re-adaptacją pomysłów i postula
 
 ### Manifest Solarpunka
 
-Solarpunk to ruch fikcji spekulatywnej, sztuki, mody i aktywizmu, próbujący odpowiedzieć na pytanie „jak może wyglądać trwalna cywilizacja i jak możemy do niej dotrzeć?”
+Solarpunk to ruch fikcji spekulatywnej, sztuki, mody i aktywizmu, próbujący odpowiedzieć na pytanie „jak może wyglądać odżywalna cywilizacja i jak możemy do niej dotrzeć?”
 
 Estetyka Solarpunka to połączenie pięknego z praktycznym, dobrze zaprojektowanego z bujnie zielonym, jasnego i kolorowego z mocnym i ziemistym.
 
@@ -44,7 +46,7 @@ Solarpunk jest jednocześnie wizją przyszłości, wnikliwą prowokacją, stylem
 
 5. Solarpunk jest ruchem i gatunkiem jednocześnie: nie chodzi tylko o fikcję, ale też o to, jak dotrzeć do lepszego świata.
 
-6. Solarpunk zakłada wielość metod: nie ma jednego „słusznego” sposobu na udział w Solarpunku. Zamiast tego zróżnicowane społeczności z całego świata mogą używać jego nazwy i wartości, aby stworzyć własne zalążki trwalnej rewolucji.
+6. Solarpunk zakłada wielość metod: nie ma jednego „słusznego” sposobu na udział w Solarpunku. Zamiast tego zróżnicowane społeczności z całego świata mogą używać jego nazwy i wartości, aby stworzyć własne zalążki odżywalnej rewolucji.
 
 7. Solarpunk dostarcza nowej perspektywy, wzorców i języka do opisu naszej możliwej przyszłości. Zamiast skupiać się na retrofuturyźmie, Solarpunk patrzy tylko w dzisiejszą przyszłość – nie alternatywną, lecz całkiem możliwą.
 
@@ -84,7 +86,7 @@ Solarpunk jest jednocześnie wizją przyszłości, wnikliwą prowokacją, stylem
 
     - Zaawansowane technologie z prostymi, eleganckimi interfejsami
 
-19. Solarpunk chce trwalnych miast budowanych i rewitalizowanych według zasad Nowej Urbanistyki, w zgodzie z naturą, z pieszymi stawianymi na pierwszym miejscu
+19. Solarpunk chce odżywalnych miast budowanych i rewitalizowanych według zasad Nowej Urbanistyki, w zgodzie z naturą, z pieszymi stawianymi na pierwszym miejscu
 
 20. Solarpunk zakłada infrastrukturę zaadaptowaną do pozyskiwania energii słonecznej z użyciem różnych technologii. W jego sercu jest promocja samowystarczalności i życia w obrębie naturalnych ograniczeń.
 
