@@ -5,7 +5,7 @@ from datetime import datetime
 
 AUTHOR = 'Pawel Ngei'
 SITENAME = 'alxd'
-SITETITLE = 'alxd'
+SITETITLE = 'alxd - solarpunk hacker'
 SITESUBTITLE = u'solarpunk | hacker'
 
 SITEURL = 'https://alxd.org'
@@ -39,7 +39,6 @@ CC_LICENSE = {
 }
 
 COPYRIGHT_YEAR = datetime.now().year
-DEFAULT_PAGINATION = 5
 
 TIMEZONE = 'Europe/Warsaw'
 
@@ -62,7 +61,7 @@ PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['post_stats']
 
 DISPLAY_PAGES_ON_MENU = True
-DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 5
 SUMMARY_MAX_LENGTH = 175
 
 # Uncomment following line if you want document-relative URLs when developing
