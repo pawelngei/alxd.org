@@ -4,8 +4,8 @@ from __future__ import unicode_literals
 from datetime import datetime
 
 AUTHOR = 'Pawel Ngei'
-SITENAME = 'alxd'
-SITETITLE = 'alxd - solarpunk hacker'
+SITENAME = 'alxd - solarpunk hacker'
+SITETITLE = 'alxd'
 SITESUBTITLE = u'solarpunk | hacker'
 
 SITEURL = 'https://alxd.org'
