@@ -2,7 +2,7 @@ Title: 22 Solarpunk Communities and Story Hooks
 Date: 2021-10-23
 Slug: 22-solarpunk-communities-and-story-hooks
 Lang: en
-Translation: true
+Translation: false
 opengraph_image: 36_solarpunk_communities/earthship.jpg
 
 ![Building an Earthship](/images/36_solarpunk_communities/earthship.jpg)
