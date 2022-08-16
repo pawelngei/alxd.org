@@ -10,7 +10,7 @@ SITESUBTITLE = u'solarpunk | hacker'
 
 SITEURL = 'https://alxd.org'
 SITELOGO = '/images/logo-circ.png'
-# FAVICON = '/images/favicon.ico'
+FAVICON = '/images/favicon.ico'
 
 BROWSER_COLOR = '#333333'
 PYGMENTS_STYLE = 'monokai'

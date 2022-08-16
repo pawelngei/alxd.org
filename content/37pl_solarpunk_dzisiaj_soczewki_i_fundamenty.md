@@ -16,21 +16,19 @@ Kilkakrotnie próbowałem zostawić pod wideo rozległy komentarz, jednak tajemn
 
 ---
 
-Zgadzam się z ogromną częścią tego, co mówi w swoim wideoeseju Mistycyzm Popkulturowy. Jest kilka punktów, z którymi chętnie bym jednak polemizował:
+Zgadzam się z ogromną częścią tego, co mówi w swoim wideoeseju Mistycyzm Popkulturowy. Jest jednak kilka punktów, z którymi chętnie bym polemizował lub rozszerzył:
 
 ## Solarpunk nie jest naturalnie powstałym ruchem artystycznym
 
 Całkowicie zgadzam się z tym, że Solarpunk nie jest czymś, co powstało naturalnie wobec jednej czy kilku wybitnych prac, które później wyznaczyły kierunek całego nurtu, organicznie obudowywanego przez kolejnych artystów. Jest on bardzo celowym projektem, który ma dopiero stworzyć podwaliny pod taki ruch, dać mu narzędzia i słownik, którym będzie mógł się posługiwać.
 
-W tej chwili takich symboli, [hieroglifów](https://en.wikipedia.org/wiki/Project_Hieroglyph) nie mamy w kulturze, mimo, że moglibyśmy po nie sięgnąć gdzieś daleko na przestrzeni idei. Wynika to po części z dominacji pewnego nurtu neoliberalizmu wśród popularnych w ostatnich dekadach pisarzy i twórców kultury, co bardzo dobrze opisuje esej [Notes on Squeecore](https://simonmcneil.com/2022/01/15/notes-on-squeecore/):
+W tej chwili takich symboli, [hieroglifów](https://en.wikipedia.org/wiki/Project_Hieroglyph) nie mamy w kulturze, mimo, że moglibyśmy po nie sięgnąć gdzieś daleko na przestrzeni idei. Wynika to po części z dominacji pewnego nurtu neoliberalizmu wśród popularnych w ostatnich dekadach pisarzy i twórców kultury, co bardzo dobrze opisuje esej [Notes on Squeecore](https://simonmcneil.com/2022/01/15/notes-on-squeecore/). Analizuje pewne motywy, estetyki i narracje we współczesnym fantasy i science fiction, które poważnie "spłaszczają" to, co wydaje nam się opisywalne i wydawalne. Głównymi winnymi mają być:
 
-> However there are a few aesthetic and ideological markers I think we need to look at:
-
-> - A screen-aesthetic
-> - An undue influence from the YA genre even outside of those works identified as YA
->  - A specifically self-aware form of deconstructive discourse
->  - An ideology derived from progressive bourgeois liberalism
->  - A triumphalism within that ideological frame
+- Estetyka skryptu filmowego (nacisk na "pokazywalną" akcję zamiast uczuć, myśli i życia wewnętrznego bohatera)
+- Duży wpływ gatunku [Young Adult](https://pl.wikipedia.org/wiki/Young_adult) - fikcji dla nastolatków - nawet w utworach dla innych grup odbiorców
+- Pewien rodzaj samoświadomości, samokomentarza lub dekonstrukcyjności pracy
+- Mocne zakorzenienie w ideologii postępowego, burżuazyjnego liberalizmu
+- Triumfalizm w ramach tej ideologii, która _naturalnie_ i sama z siebie okazuje się zwycięska
 
 Popularność tego sposobu tworzenia narracji sprawia, że zamykamy się w pewnych ramach wyobrażeniowych i ciężko nam wyjść poza nie, wyobrazić sobie świat poza liberalizmem, indywidualizmem, postmodernizmem, gdzie grupy ludzi (nie pojedynczy bohaterowie) budowałyby rzeczy wielkie, które mogą zmieniać świat.
 
@@ -42,7 +40,7 @@ To ten esej otworzył antologię [Projekt Hieroglif](https://en.wikipedia.org/wi
 
 > A good SF universe has a coherence and internal logic that makes sense to scientists and engineers. Examples include Isaac Asimov's robots, Robert Heinlein's rocket ships, and William Gibson's cyberspace. As Jim Karkanias of Microsoft Research puts it, such icons serve as hieroglyphs-simple, recognizable symbols on whose significance everyone agrees.
 
-Solarpunk nie jest więc tylko _estetyką_ czy _ruchem artystycznym_, ale świadomą próbą stworzenia tych Hieroglifów, narzędzi, którymi będą mogli operować artyści:. Powstał w pewnej pustce znaczeniowej, do której doprowadził dominujący wśród wydanych artystów (i wydawnictw) neoliberalizm, ograniczający naszą przestrzeń pojęciową. **Solarpunk jest fundamentem**.
+Solarpunk nie jest więc tylko _estetyką_ czy _ruchem artystycznym_, ale świadomą próbą stworzenia tych Hieroglifów, narzędzi, którymi będą mogli operować artyści. Powstał w pewnej pustce znaczeniowej, do której doprowadził dominujący wśród wydanych artystów (i wydawnictw) neoliberalizm, ograniczający naszą przestrzeń pojęciową. **Solarpunk jest fundamentem**.
 
 ## Większość wydanego Solarpunka jest artystycznie kiepska
 
@@ -54,13 +52,13 @@ Wielu artystów usiłuje świadomie wyrwać się z opisanych wyżej sideł Squee
 
 Jest wielu pisarzy znacznie odważniejszych niż ci wydani w antologiach, którzy mówią dość Podróży Bohatera i próbują zastąpić ją [Podróżą Społeczności](https://blog.collectivejourney.com/why-is-this-happening-d1287d5ee4ee?gi=a86aaa0b236a), przełamać podział na akty, nawet zachodnie założenia o [sprawczości protagonisty](https://www.fantasy-magazine.com/fm/non-fiction/we-are-the-mountain-a-look-at-the-inactive-protagonist/). Im jednak znacznie ciężej jest być wydanym, gdyż często ciekawe, ale eksperymentalne opowiadania stanowczo nie współgrają z intuicjami redaktorów antologii.
 
-Sam jako haker / ekspert / technolog pomagam od czasu do czasu pisarzom i scenopisarzom "urealnić" ich opowiadania. Widzę, ile pracy wkładamy w to, aby dobrze przedstawić dynamikę społeczności, wymienić popkulturowe założenia o magiczności / artefaktyczności technologii (o czym [pisałem](/narracje-technologiczne-na-filozofikonie-pl)) na prawdziwe problemy z infrastrukturą. Widzę też, że często dostają od czasopism i wydawnictw odpowiedzi odmowne nie ze względu na styl czy jakość, ale dlatego, że "to nie jest science-fiction, tylko jakaś współczesna eko-fikcja", "proszę spróbować w czasopiśmie obyczajowym", "w tym opowiadaniu jest za mało technologii, botanika to nie technologia".
+Sam jako haker / technolog pomagam od czasu do czasu pisarzom i scenopisarzom "urealnić" ich opowiadania. Widzę, ile pracy wkładamy w to, aby dobrze przedstawić dynamikę społeczności, wymienić popkulturowe założenia o magiczności / artefaktyczności technologii (o czym [pisałem](/narracje-technologiczne-na-filozofikonie-pl)) na prawdziwe problemy z infrastrukturą. Widzę też, że często dostają od czasopism i wydawnictw odpowiedzi odmowne nie ze względu na warsztat czy jakość, ale dlatego, że "to nie jest science-fiction, tylko jakaś współczesna eko-fikcja", "proszę spróbować w czasopiśmie obyczajowym", "w tym opowiadaniu jest za mało technologii, botanika to nie technologia".
 
-Mamy więc pisarzy z nazwiskami wystarczająco znaczącymi, aby napisać bardzo kocykowy "[Psalm...](https://www.goodreads.com/book/show/40864002-a-psalm-for-the-wild-built)" zamówiony przez TORa, którzy muszą tworzyć wizje _bezpieczne_, _wydawalne_, ale też dziesiątki innych, którzy próbują czegoś odważniejszego, co jednak nie zawsze jest dobrze przyjęte - przynajmniej po angielsku.
+Mamy więc pisarzy z nazwiskami wystarczająco znaczącymi, aby napisać "[Psalm...](https://www.goodreads.com/book/show/40864002-a-psalm-for-the-wild-built)" zamówiony przez TORa, którzy muszą tworzyć wizje _bezpieczne_, _wydawalne_, ale też dziesiątki innych, którzy próbują czegoś odważniejszego, co jednak nie zawsze jest dobrze przyjęte - przynajmniej po angielsku.
 
-Mocniejsze, dziwniejsze są często antologie spoza anglosaskiego kręgu kulturowego, z regionów, którym udało się bardziej wyrwać domyślnemu amerykańskiemu neoliberalizmowi, na przykład brazylijskie [Solarpunk: Histórias ecológicas e fantásticas em um mundo sustentável](https://www.goodreads.com/book/show/40011887-solarpunk) wydane po portugalsku w 2012, jeszcze przed "Notatkami do Manifestu" (2014) czy "Sunvaultem" (2017), które doczekało się tłumaczenia na angielski w 2013. Włoskie wydawnictwo [Future Fiction](https://www.futurefiction.org/?lang=en) wydało już w rodzimym języku [sześć](https://www.futurefiction.org/category/solarpunk-series/?lang=en) książek, antologii i tłumaczeń o Solarpunku.
+Mocniejsze, dziwniejsze są często antologie spoza anglosaskiego kręgu kulturowego, z regionów, którym udało się bardziej wyrwać domyślnemu amerykańskiemu neoliberalizmowi, na przykład brazylijskie [Solarpunk: Histórias ecológicas e fantásticas em um mundo sustentável](https://www.goodreads.com/book/show/40011887-solarpunk) wydane po portugalsku w 2012, przetłumaczone na angielski w 2013, jeszcze na długo przed "Notatkami do Manifestu" (2014) czy "Sunvaultem" (2017). Włoskie wydawnictwo [Future Fiction](https://www.futurefiction.org/?lang=en) wydało już w rodzimym języku [sześć](https://www.futurefiction.org/category/solarpunk-series/?lang=en) książek, antologii i tłumaczeń o Solarpunku.
 
-Jeżeli sam miałbym polecić dwie książki, które są dość dobrze napisanym Solarpunkiem po angielsku (bądź balansują między Solarpunkiem i post-cyberpunkiem), zaproponowałbym [Gamechangera](https://www.goodreads.com/en/book/show/43263243-gamechanger) LX Beckett i [Walkawaya](https://www.goodreads.com/book/show/40604388-walkaway) Corego Doctorowa. Obie nie są idealne, bywają dość brutalne w pornograficznym wręcz przedstawianiu pewnej filozofii, jednak są wartymi przeczytania podróżami eksplorującymi obraz nowego świata. Dobrym krokiem w stronę Solarpunka.
+Jeżeli sam miałbym polecić dwie książki, które są dość dobrze napisanym Solarpunkiem po angielsku (bądź balansują między Solarpunkiem i post-cyberpunkiem), zaproponowałbym [Gamechanger](https://www.goodreads.com/en/book/show/43263243-gamechanger) LX Beckett i [Walkaway](https://www.goodreads.com/book/show/40604388-walkaway) Corego Doctorowa. Obie nie są idealne, bywają dość brutalne w przedstawianiu swojej filozofii, jednak są wartymi przeczytania podróżami eksplorującymi obraz nowego świata. Dobrym krokiem w stronę Solarpunka.
 
 ## Solarpunk prezentuje tylko "nudną utopię", gdzie dobro wygrało i nic już się nie dzieje
 
@@ -72,7 +70,7 @@ Więc: obozy dla uchodźców klimatycznych. Panika, gdy skończy się mięso. Co
 
 Solarpunk nie wypiera się tego, że będzie ciężko. Mówi tylko, że możemy sobie poradzić, jeżeli weźmiemy się w garść.
 
-Sam napisałem [22 pomysły na Solarpunkowe społeczności](22-solarpunk-communities-and-story-hooks-pl), gotowe pomysły na pełne napięcia i konfliktów opowiadania o tym, jak w mozole idziemy w stronę lepszego świata. Tak, nie jestem wydanym pisarzem, nie są to gotowe opowiadania, ale jest to przykład, że możemy iść w tą stronę.
+Sam napisałem [22 pomysły na solarpunkowe społeczności](22-solarpunk-communities-and-story-hooks-pl), gotowe pomysły na pełne napięcia i konfliktów opowiadania o tym, jak w mozole idziemy w stronę lepszego świata. Tak, nie jestem wydanym pisarzem, nie są to gotowe opowiadania, ale jest to przykład, że możemy iść w tę stronę.
 
 Zauważmy: Solarpunk to opowieść o społecznościach bez hierarchii, społecznościach anarchistycznych. Czy ktoś z nas zna przykład jakiejkolwiek społeczności anarchistycznej bez dram i bez kłótni, w którą stronę iść? Jest to nieodzowna część budowania przez nie konsensusu, więc dlaczego miałoby tego zabraknąć w fikcji?
 
@@ -82,7 +80,7 @@ Co więcej: bardzo ciężko napisać coś realistycznego i optymistycznego o kon
 
 ## Solarpunk to estetyka?
 
-Do tego mogę odnieść się na wiele sposobów: mam świadomość, że wiele osób, szczególnie na Globalnyj Północy / Zachodzie traktuje "miasto z drzewkami" i "zwiewne sukienki" jako estetykę Solarpunkową. Zaprasza to wręcz do [greenwashingu](https://pl.wikipedia.org/wiki/Greenwashing).
+Do tego mogę odnieść się na wiele sposobów: mam świadomość, że wiele osób, szczególnie na Globalnej Północy / Zachodzie traktuje "miasto z drzewkami" i "zwiewne sukienki" jako estetykę Solarpunkową. Zaprasza to wręcz do [greenwashingu](https://pl.wikipedia.org/wiki/Greenwashing).
 
 Animacja [Dear Alice](https://www.youtube.com/watch?v=UqJJktxCY9U) balansuje na granicy tego greenwashingu, prezentując wizję pięknego świata i będąc jednocześnie reklamą jogurtu. Wiele osób spotkało się z Solarpunkiem właśnie przez nią - bo nie mamy innych wielkich projektów wizualnych, które mogłyby wciągnąć w ruch.
 
@@ -92,11 +90,11 @@ Najważniejsze dla mnie byłoby jednak inne spojrzenie:
 
 **Solarpunk jest perspektywą**. Nie tylko estetyką, ruchem artystycznym czy aktywistycznym, ale sposobem patrzenia na świat, który dając nam te brakujące hieroglify pozwala dostrzec już istniejące wydarzenia i historie, które dają nadzieje na lepsze jutro. Które nie mogły zostać opisane przez Squeecore, neoliberalizm czy kapitalizm.
 
-Krótki przykład: Rok 2014, epidemia Eboli w Sierra Leone. Najbogatsi mieszkańcy uciekli z kraju, zostawiając mieszkańców z niedziałającą infrastrukturą bankową i elektroniczną, przez którą padają szpitale, nie ma jak kupować leków. Ludzie głodują, szerzy się panika. Kilku lokalnych hakerów-aktywistów [przychodzi do prezydenta](https://www.youtube.com/watch?v=JPxCUzGGDKc) i obiecuje, że w dwa tygodnie są w stanie postawić infrastrukturę na nogi w sposób transparentny i używając otwartej technologii, na laptopach z odzysku. Robią to, ratując życie setkom tysięcy - do milionów osób.
+Krótki przykład: Rok 2014, epidemia Eboli w Sierra Leone. Najbogatsi mieszkańcy uciekli z kraju, zostawiając mieszkańców z niedziałającą infrastrukturą bankową i elektroniczną, przez którą padają szpitale, nie ma jak kupować leków. Ludzie głodują, szerzy się panika. Kilku lokalnych hakerów-aktywistów [przychodzi do prezydenta](https://www.youtube.com/watch?v=JPxCUzGGDKc) i obiecuje, że w dwa tygodnie są w stanie postawić infrastrukturę na nogi w sposób transparentny i używając otwartej technologii, na laptopach z odzysku. Robią to, ratując życie setkom tysięcy - a może milionom osób.
 
 Materiał na film, nie?
 
-Na Zachodzie jest o nich kilka [krótkich wzmianek](https://www.theguardian.com/world/2015/dec/30/software-developers-helped-end-ebola-epidemic-sierra-leone), a Królowa Angielska daje im medal za bycie "Odpowiedzialnym Społecznie Biznesem".
+Na Zachodzie jest o nich kilka [krótkich wzmianek](https://www.theguardian.com/world/2015/dec/30/software-developers-helped-end-ebola-epidemic-sierra-leone), a Królowa Angielska odznaczyła ich medalem za bycie "Odpowiedzialnym Społecznie Biznesem".
 
 Bo w neoliberaliźmie, postmoderniźmie nie możemy opowiedzieć o nich jako o bohaterach. Musieli mieć w tym jakiś zysk, nie? Są obrotni, więc są przedsiębiorcami.
 
@@ -106,13 +104,13 @@ To właśnie Solarpunk może zmienić: sprawić, że pewne terminy będą dla na
 
 To nie uwaga do Mistycyzmu, ale dobrze wiedzieć, że Solarpunk w Polsce wydarzył się już w kilku miejscach. Sam pomagałem prowadzić [Konkurs Optymistycznej Fikcji Klimatycznej](konkurs-optymistycznej-fikcji-klimatycznej-pl) (na którego drugą edycję mam nadzieję w tym roku!), mamy też [Szkołę Ekopoetyki](https://swiatoze.pl/szkola-ekopoetyki-nowy-kurs-w-instytucie-reportazu/) i kilka innych inicjatyw.
 
-Nie jest łatwo, ale oddolnie, równolegle pracujemy nad tym, aby opowiedzieć też o Polsce w obliczu zmian klimatu. Z nadzieją - i dając nam możliwość wyobrażenia sobie lepszego jutra, konkretnie, tutaj. Śląska bez węgla, Krakowa bez smogu, Warszawy bez dominacji samochodów.
+Nie jest łatwo, ale oddolnie, równolegle pracujemy nad tym, aby opowiedzieć też o Polsce w obliczu zmian klimatu. Z nadzieją - i dając nam możliwość wyobrażenia sobie lepszego jutra, konkretnie, tutaj: Śląska bez węgla, Krakowa bez smogu, Warszawy bez dominacji samochodów.
 
 ## SolariseCon
 
 Aby pomóc wyrwać się pisarzom i artystom z ich lokalnych baniek i spróbować kilku nowych Solarpunkowych soczewek, w tym roku współorganizuję konferencję [SolariseCon 2022](https://solarisecon.org/). Zapraszamy pisarzy, reżyserów, artystów wizualnych, ale też aktywistów, akademików, technologów i wynalazców z Globalnego Południa, aby pokazali nam, czego dotąd nie zauważaliśmy, a o czym możemy zacząć opowiadać.
 
-Jest to trochę _"ściąga na przyszłość"_, aby móc wyobrazić sobie więcej, niż wyobrażaliśmy do tej pory. Użyć umiejętności literackich, aby podzielić się wizjami innego jutra z czytelnikami, promując te hieroglify, które dzisiaj wydają się obce i niewyobrażalne.
+Jest to trochę _"ściąga na przyszłość"_, aby móc wyobrazić sobie więcej niż do tej pory. Użyć umiejętności literackich, aby podzielić się wizjami innego jutra z czytelnikami, promując te hieroglify, które dzisiaj wydają się obce i niewyobrażalne.
 
 ## Podsumowanie
 
@@ -131,8 +129,6 @@ Znam ten projekt i uwielbiam go od dawna, jednak w tej chwili nie porównywałby
 SCP [powstał](https://archive.ph/20181009043254/https://pste.eu/p/YXqG.html) na bardzo kontrowersyjnym forum [4Chan](https://en.wikipedia.org/wiki/4chan). Nie jest to zarzut, jak wiele osób myśli, wobec tego, że "zrobili go degeneraci", a bardziej pewna perspektywa na to, jakiego rodzaju to projekt:
 
 Sam 4Chan jest niesamowicie żywym laboratorium literackim i memetycznym, jakim nie może poszczycić się wiele polskich i światowych uniwersytetów. To tam powstał niesławny ruch [QAnon](https://medium.com/curiouserinstitute/a-game-designers-analysis-of-qanon-580972548be5) razem ze swoim rodzeństwem: FBIAnonem, CIAnonem i innymi. Ich celem nie było stworzenie nowych hieroglifów, a jedynie permutacyjne tworzenie kolejnych mempleksów, kolejnych narracji, dopóki któraś nie "kliknie" i nie będzie się dało jej używać do ogólnoświatowego trollowania.
-
-Jak widać po statystykach szczepień i śmiertelności na Covida w Stanach Zjednoczonych, 4Chanowi udało się to znakomicie. QAnon przyjął się, nawet, gdy FBIAnon i CIAnon poległy.
 
 Jest to jednak tylko i wyłącznie zlepek dotychczasowych memów, motywów, wartości, podanych tylko w innym opakowaniu. Podobnie jest z SCP: wiki można było rozbudować tak szeroko właśnie dlatego, że każdy miał już hieroglify, znane motywy kulturowe na temat tego, jak sekretna fundacja / laboratorium mogłaby chwytać i walczyć z potworami i zagrożeniami paranormalnymi. Przygotowały nas do tego Archiwum X, Millenium, wiele innych seriali i książek.
 
