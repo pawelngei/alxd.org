@@ -14,7 +14,7 @@ Zamieszanie bierze się z tego, że w języku polskim “zrównoważony rozwój�
 
 ## Sustainability
 
-Kilka lat temu wraz ze znajomą tłumaczką - Martyną Łysiakiewicz - podjęliśmy się przekładu manifestu nowego ruchu artystyczno-aktywistycznego, [Solarpunka](/manifest-solarpunka-pl). Usiłuje on wyobrazić sobie przyszłość, w której ludzkość nie niszczy naszej planety, ale żyje z nią w zgodzie. Stawia pytanie, co musielibyśmy zmienić w naszej kulturze, aby móc taką wizję zrealizować?
+Kilka lat temu wraz ze znajomą tłumaczką - Martyną Łysakiewicz - podjęliśmy się przekładu manifestu nowego ruchu artystyczno-aktywistycznego, [Solarpunka](/manifest-solarpunka-pl). Usiłuje on wyobrazić sobie przyszłość, w której ludzkość nie niszczy naszej planety, ale żyje z nią w zgodzie. Stawia pytanie, co musielibyśmy zmienić w naszej kulturze, aby móc taką wizję zrealizować?
 
 Szybko zdaliśmy sobie sprawę, że używając obecnego polskiego słownictwa _Manifest..._ jest nieprzetłumaczalny. Cały Solarpunk bazuje na kilku wartościach - jedną z których jest _sustainability_ właśnie - które, choć trudno w to uwierzyć, nie mają właściwego przełożenia na polski!
 
@@ -93,4 +93,4 @@ Przez pierwsze miesiące i lata _odżywalna_ stal czy _odżywalność_ rozwiąza
 
 ---
 
-Chciałbym ogromnie podziękować kilku osobom, bez których ten blogpost by nie powstał: Martynie Łysiakiewicz, która przetłumaczyła ze mną _Manifest Solarpunka_ i podzieliła się swoją ekspertyzą w przekładzie; [Szymonowi Szymczykowi](https://twitter.com/SzymonSz) który od dwóch lat uparcie przypominał mi o tym, że warto napisać coś o _odżywalności_ i _zrównoważonym rozwoju_ i pomógł w redakcji; [Alessandro](https://www.re-des.org/manifest-solarpunka-polski/) który skompilował Manifest Solarpunka z wielu notatek rozsianych w Internecie i pomógł mi w znalezieniu terminów na _sustainability_ w innych językach słowiańskich; Michałowi Klacie.
+Chciałbym ogromnie podziękować kilku osobom, bez których ten blogpost by nie powstał: Martynie Łysakiewicz, która przetłumaczyła ze mną _Manifest Solarpunka_ i podzieliła się swoją ekspertyzą w przekładzie; [Szymonowi Szymczykowi](https://twitter.com/SzymonSz) który od dwóch lat uparcie przypominał mi o tym, że warto napisać coś o _odżywalności_ i _zrównoważonym rozwoju_ i pomógł w redakcji; [Alessandro](https://www.re-des.org/manifest-solarpunka-polski/) który skompilował Manifest Solarpunka z wielu notatek rozsianych w Internecie i pomógł mi w znalezieniu terminów na _sustainability_ w innych językach słowiańskich; Michałowi Klacie.
