@@ -8,9 +8,10 @@ SITENAME = 'alxd - solarpunk hacker'
 SITETITLE = 'alxd'
 SITESUBTITLE = u'solarpunk | hacker'
 
-SITEURL = 'https://alxd.org'
-SITELOGO = '/images/logo-circ.png'
-FAVICON = '/images/favicon.ico'
+# SITEURL = 'https://alxd.org'
+SITEURL = 'localhost:8000'
+SITELOGO = 'images/logo-circ.png'
+FAVICON = 'images/favicon.ico'
 
 BROWSER_COLOR = '#333333'
 PYGMENTS_STYLE = 'monokai'
