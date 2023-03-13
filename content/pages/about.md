@@ -4,7 +4,7 @@ Slug: about
 
 My name is Pawel Ngei (previously Pawel Chojnacki). I'm a full-stack web developer, cybersecurity educator, open science and free software activist and a former [Warsaw Hackerspace] facilitator.
 
-I work as a senior fullstack developer for [EarthShift Global](https://earthshiftglobal.com/), an [LCA](https://en.wikipedia.org/wiki/Life-cycle_assessment) company and freelance as ALXD ([registry index](https://prod.ceidg.gov.pl/CEIDG/CEIDG.Public.UI/SearchDetails.aspx?Id=d9303664-0fe2-4dc0-aecb-797877c2d1ba)). You can also check my [LinkedIn](https://www.linkedin.com/in/paul-ngei-19227983/) profile.
+I freelance as ALXD ([registry index](https://prod.ceidg.gov.pl/CEIDG/CEIDG.Public.UI/SearchDetails.aspx?Id=d9303664-0fe2-4dc0-aecb-797877c2d1ba)). You can also check my [LinkedIn](https://www.linkedin.com/in/paul-ngei-19227983/) profile.
 
 I used to be fascinated by [transhumanism](https://en.wikipedia.org/wiki/Transhumanism), but I became disillusioned as I learned that its proponents are interested in growth for the sake of growth, without any critical thoughts on its direction. Right now I'm more closely aligned with [Solarpunk](https://en.wikipedia.org/wiki/Solarpunk) and [hacker](https://en.wikipedia.org/wiki/Hacker_ethic) sensibilities.
 
