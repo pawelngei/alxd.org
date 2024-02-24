@@ -28,10 +28,9 @@ MENUITEMS = (
 )
 
 SOCIAL = (
-    ("envelope", "mailto:alxd (AT) alxd.org"),
+    ("envelope", "mailto:alxd@alxd_PLEASE_DELETE_THIS_CAPTION_.org"),
     ("mastodon", "https://writing.exchange/@alxd"),
     ("github", "https://github.com/pawelngei"),
-    ("twitter", "https://twitter.com/pawelngei"),
     ("linkedin", "https://www.linkedin.com/in/paul-ngei-19227983"),
     ("rss", "feeds/all.atom.xml"),
 )
