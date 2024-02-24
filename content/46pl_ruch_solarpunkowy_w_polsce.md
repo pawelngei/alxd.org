@@ -1,5 +1,5 @@
 Title: Badanie naukowe "Słoneczna synergia słowa i działania. Ruch solarpunkowy w Polsce"
-Date: 2024-02-24
+Date: 2024-02-24 13:00
 Slug: ruch-solarpunkowy-w-polsce
 Lang: pl
 Translation: false

@@ -1,5 +1,5 @@
 Title: Solarpunk w GilotynaTV
-Date: 2024-02-24
+Date: 2024-02-24 12:00
 Slug: solarpunk-w-gilotynatv
 Lang: pl
 Translation: false
