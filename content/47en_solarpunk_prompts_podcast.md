@@ -3,12 +3,13 @@ Date: 2024-02-25 14:00
 Slug: solarpunk-prompts-podcast
 Lang: en
 Translation: false
+Status: Draft
 opengraph_image: 47_solarpunk_prompts_podcast/cover.jpg
 
 ![Solarpunk Prompts logo by Natalia Vish](/images/47_solarpunk_prompts_podcast/cover.jpg)
 <figcaption>Solarpunk Prompts logo CC-BY-SA 4.0 by [Natalia Vish](https://nataliavish.com/)</figcaption>
 
-A well overdue introduction to one of the bigget Solarpunk writing podcasts on the English-speaking internet! I've been postponing writing a comprehensive post about this project for well over a year - and suddenly, we are in the middle of the second season!
+A well overdue introduction to one of the biggest Solarpunk writing podcasts on the English-speaking internet! I've been postponing writing a comprehensive post about this project for well over a year - and suddenly, we are in the middle of the second season!
 
 You can listen to the podcast [here](https://podcast.tomasino.org/@SolarpunkPrompts) or on most platforms, like [Spotify](https://open.spotify.com/show/5igXOJCAouTWaEFUQAFRsK), [Apple](https://podcasts.apple.com/us/podcast/solarpunk-prompts/id1652252771), [Audible](https://music.amazon.com/podcasts/28f52062-5961-42bd-a44f-da870c722ae4/solarpunk-prompts), [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0LnRvbWFzaW5vLm9yZy9AU29sYXJwdW5rUHJvbXB0cy9mZWVkLnhtbA) or others! The writeups can be found [on Tomasino's wiki](https://wiki.tomasino.org/writing/Solarpunk-Prompts).
 
@@ -21,7 +22,7 @@ Inside, you can find episodes such as The Tower:
 ![Solarpunk Prompts previous banner by Natalia Vish](/images/47_solarpunk_prompts_podcast/old_banner.jpg)
 <figcaption>Solarpunk Prompts previous banner CC-BY-SA 4.0 by [Natalia Vish](https://nataliavish.com/)</figcaption>
 
-You might remember the [22 Solarpunk Communities and Story Hooks](/22-solarpunk-communities-and-story-hooks) I compiled back in the 2021, based on the [Polish Optimistic Climate Fiction Contest](https://solarpunk.edu.pl/). Working together with several high school teachers, we quickly realized that young writers are struggling with imagining a future containing tension, conflict - and optimism, hope that we could work through it. We started writing down possible topics, settings, scenes and situations, which I then dramatized into concise prompts.
+You might remember the [22 Solarpunk Communities and Story Hooks](/22-solarpunk-communities-and-story-hooks) I compiled back in the 2021, based on the [Polish Optimistic Climate Fiction Contest](https://solarpunk.edu.pl/). Working together with several high school teachers, we quickly realized that young writers are struggling with imagining a future containing tension, conflict and optimism, hope that we could work through it. We started writing down possible topics, settings, scenes and situations, which I then dramatized into concise prompts.
 
 After a few editions the contests fizzled out and paused, as fewer and fewer people were able to dedicate their time to its organization. The teachers became overwhelmed by the effects of Covid and remote schooling - and when they started regaining their footing - the war in Ukraine shocked everyone, including the educators and activists.
 
@@ -63,7 +64,9 @@ Starting from there, each of our episodes follows a 7-15 minutes long formula of
 
 The goal of each short episode is to provide a writer with an idea and some interesting leads, without overwhelming them with a complex byzantine story or paralyzing them with dozens of books on physics, climate and economics they would need to go through before they can start writing.
 
-This usally entails me researching a given topic, finding a good setting for it, crafting a dramatic enough prompt (or a few) and leaving Tomasino with a bigger or smaller wall of texts and links. He then reads through my "raw prompt", chooses the best narrative and resources for context - and adds some of his own. Sometimes I'm astonished with a really beautiful perspective he can bring to my over-explored topic, like in [The Tower](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tower) - where I wouldn't have thought about the Tarot card meaning and how it plays into the narrative!
+Since many episodes specifically approach a situation we might know from existing media, like [The Great Infrastructural Project](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-great-infrastructure-project) or [The Henchmen](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-henchmen), the pitfalls are a very important part of those episodes. Many people might see a standard post-apocalyptic or cyberpunk setup and automatically reach for the tropes they know - instead of the Solarpunk perspective the Prompts are pushing towards. We insist on not focusing on the conflicts and antagonisms, but on the hard dialogue and connection-building between communities.
+
+Creating a new episode usally entails me researching a given topic, finding a good setting for it, crafting a dramatic enough prompt (or a few) and leaving Tomasino with a bigger or smaller wall of texts and links. He then reads through my "raw prompt", chooses the best narrative and resources for context - and adds some of his own. Sometimes I'm astonished with a really beautiful perspective he can bring to my over-explored topic, like in [The Tower](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tower) - where I wouldn't have thought about the Tarot card meaning and how it plays into the narrative!
 
 The initial Story Hooks had only 22 entries, designed to cover a lot of possible topics and perspectives a contestant could choose to explore in their fiction. With the podcast, we decided to extend that with 8 more deeper, advanced, or more experimental Prompts, dividing them into 15 episodes long Seasons.
 

@@ -23,6 +23,7 @@ USE_GOOGLE_FONTS = False
 
 MENUITEMS = (
     ("Archives", "/archives.html"),
+    ("Solarpunk Prompts", "https://podcast.tomasino.org/@SolarpunkPrompts"),
     ("Glider Ink", "https://glider.ink/"),
     ("solarpunk.pl", "https://solarpunk.pl/"),
 )
