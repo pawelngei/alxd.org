@@ -3,7 +3,6 @@ Date: 2024-02-25 14:00
 Slug: solarpunk-prompts-podcast
 Lang: en
 Translation: false
-Status: Draft
 opengraph_image: 47_solarpunk_prompts_podcast/cover.jpg
 
 ![Solarpunk Prompts logo by Natalia Vish](/images/47_solarpunk_prompts_podcast/cover.jpg)
@@ -13,7 +12,7 @@ A well overdue introduction to one of the biggest Solarpunk writing podcasts on 
 
 You can listen to the podcast [here](https://podcast.tomasino.org/@SolarpunkPrompts) or on most platforms, like [Spotify](https://open.spotify.com/show/5igXOJCAouTWaEFUQAFRsK), [Apple](https://podcasts.apple.com/us/podcast/solarpunk-prompts/id1652252771), [Audible](https://music.amazon.com/podcasts/28f52062-5961-42bd-a44f-da870c722ae4/solarpunk-prompts), [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0LnRvbWFzaW5vLm9yZy9AU29sYXJwdW5rUHJvbXB0cy9mZWVkLnhtbA) or others! The writeups can be found [on Tomasino's wiki](https://wiki.tomasino.org/writing/Solarpunk-Prompts).
 
-Inside, you can find episodes such as The Tower:
+Inside, you can find episodes such as [The Tower](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tower):
 
 > A community is freshly moved into a new, wooden, sustainable, climate-controlled tower designed to help them be close to each other and live communally. For some it is a dream come true, for others it is a culture shock, but everyone is struggling with the trauma of losing their old homes to floods, fires and relocation programs. While the adults deal with their emotions, children are quick to run around and explore the wonders of their new home.
 
@@ -26,11 +25,11 @@ You might remember the [22 Solarpunk Communities and Story Hooks](/22-solarpunk-
 
 After a few editions the contests fizzled out and paused, as fewer and fewer people were able to dedicate their time to its organization. The teachers became overwhelmed by the effects of Covid and remote schooling - and when they started regaining their footing - the war in Ukraine shocked everyone, including the educators and activists.
 
-Seeing how hard it is to imagine any kind of a positive future when in the present we are faced with wars, pandemics and the climate catastrophe, I doubled down on my belief that we really need examples of (hard-won) hope in fiction. I kept speaking with writers, journalists and filmmakers, who all faced very similar problems to the high school students we worked with. They struggled to imagine a tomorrow with a dramatic tension, even climate traumas - but hope and optimism at the same time. They needed examples - and our Story Hooks were just that, but the form wasn't approachable enough. A lot of people saw them as too general, or didn't understand the context of their communities, setups. They needed a different format, but I didn't quite understand what exactly - an anthology of example stories? More comprehensive writeups?
+Seeing how hard it is to imagine any kind of a positive future when in the present we are faced with wars, pandemics and the climate catastrophe, I doubled down on my belief that we really need examples of (hard-won) hope in fiction. I kept speaking with writers, journalists and filmmakers, who all faced very similar problems to the high school students we worked with. They struggled to imagine a tomorrow acknowledging dramatic tensions, even climate traumas - but  at the same time featuring hope and optimism. They needed examples - and our Story Hooks were just that, but the form wasn't approachable enough. A lot of people saw them as too general, or didn't understand the context of their communities, setups. They needed a different format, but I didn't quite understand what exactly - an anthology of example stories? More comprehensive writeups?
 
-In 2022 I visited Iceland and stayed in Reykjavik for some time, during which I had an opportunity to give a talk about Solarpunk to the local RPG community and the [Hakkavelin](https://hakkavelin.is/) hackerspace. There, I met [James Tomasino](https://tomasino.org/), a fellow hacker - and fiction writer with a lot of experience in role-playing and literary games, who ran projects such as [Cosmic Voyage](https://cosmic.voyage/) - a shared, semi-collaborative science fiction universe. When I told him about the Story Hooks idea, he quickly realized their potential, being able to see them as "building blocks" for future stories - not just a list of "potential topics" of an anthology.
+In 2022 I visited Iceland and stayed in Reykjavik for some time, during which I had an opportunity to give a talk about Solarpunk to the local RPG community and the [Hakkavelin](https://hakkavelin.is/) hackerspace. There, I met [James Tomasino](https://tomasino.org/), a fellow hacker and fiction writer with a lot of experience in role-playing and literary games. He ran projects such as [Cosmic Voyage](https://cosmic.voyage/) - a shared, semi-collaborative science fiction universe. When I told him about the Story Hooks idea, he quickly realized their potential, being able to see them as "building blocks" for future stories - not just a list of "potential topics" of an anthology.
 
-Tomasino loved the Story Hooks so much he quickly suggested creating a podcast about them. With his audio and technical experience this wasn't as much of a workload as I initially thought, so we quickly started working. I shared all my notes, ideas and resources regarding each and every Prompt - and he reforged them into something not only accessible, but incredibly _appealing_. To this day I am absolutely impressed by the smoothess of his voice and the quality of each of the episodes, especially more emotional ones like [The Archivists](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-archivists).
+Tomasino loved the Story Hooks so much he quickly suggested creating a podcast about them. With his audio and technical experience this wasn't as much of a workload as I initially thought, so we started working pretty quickly. I shared all my notes, ideas and resources regarding each and every Prompt - and he reforged them into something not only accessible, but incredibly _appealing_. To this day I am absolutely impressed by the smoothness of his voice and the quality of each of the episodes, especially more emotional ones like [The Archivists](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-archivists).
 
 We were soon joined by another member of Hakkavelin, [Natalia Vish](https://nataliavish.com/) - an incredibly talented designer and illustrator, who created the set of logos and cover images for Solarpunk Prompts and generously licensed them under CC-BY-SA 4.0, so that they could be re-used as the podcast is translated or re-posted.
 
@@ -39,9 +38,9 @@ We were soon joined by another member of Hakkavelin, [Natalia Vish](https://nata
 ![Solarpunk Prompts banner by Natalia Vish](/images/47_solarpunk_prompts_podcast/banner.jpg)
 <figcaption>Solarpunk Prompts banner CC-BY-SA 4.0 by [Natalia Vish](https://nataliavish.com/)</figcaption>
 
-As Solarpunk is still quite a young genre with no Masterpieces setting the tone, various authors and creatives put emphasis on different aspects of the movement: for some, it's the aesthetic, the themes symbiosis with the environment, idyllic futuristic landscapes, harsh realities of fighting the oppressive systems, or reflective rebuilding from an apocalypse. 
+As Solarpunk is still quite a young genre with no Masterpieces setting the tone, various authors and creatives put emphasis on different aspects of the movement: for some, it's the aesthetic, the themes of symbiosis with the environment, idyllic futuristic landscapes, harsh realities of fighting the oppressive systems, or reflective rebuilding from an apocalypse. 
 
-The inital 22 Story Hooks I compiled had several very strong themes keeping them grounded and community focused, but I realized I never spelled them out to any audience. Tomasino quickly fixed that, creating an Introduction episode to the podcast with the following guidelines:
+The initial 22 Story Hooks I compiled had several very strong themes keeping them grounded and community focused, but I realized I never spelled them out to any audience. Tomasino  fixed that, creating an Introduction episode to the podcast with the following guidelines:
 
 > **Community as Protagonist (No “Chosen One”)**
 
@@ -55,18 +54,18 @@ The inital 22 Story Hooks I compiled had several very strong themes keeping them
 
 > Just because we’re creating stories of an optimistic future that doesn’t mean we’re without conflict. There’s probably plenty of interpersonal conflict both within and without the community. What’s in harmony, at least for the protagonist community, is the relationship between the humans and their environment.
 
-Starting from there, each of our episodes follows a 7-15 minutes long formula of:
+Starting from there, each of our episodes follows a 7-15 minutes long formula:
 
- - presenting of the prompt
+ - presenting the prompt
  - providing some context for it
  - sharing some starting resources for people who would like to start their research into the topic
  - discussing possible pitfalls and opportunities when exploring the story
 
-The goal of each short episode is to provide a writer with an idea and some interesting leads, without overwhelming them with a complex byzantine story or paralyzing them with dozens of books on physics, climate and economics they would need to go through before they can start writing.
+The goal of each short episode is to provide a writer with an idea and some interesting leads, without overwhelming them with a complex story or paralyzing them with dozens of books on physics, climate and economics they would need to go through before they can start writing.
 
-Since many episodes specifically approach a situation we might know from existing media, like [The Great Infrastructural Project](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-great-infrastructure-project) or [The Henchmen](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-henchmen), the pitfalls are a very important part of those episodes. Many people might see a standard post-apocalyptic or cyberpunk setup and automatically reach for the tropes they know - instead of the Solarpunk perspective the Prompts are pushing towards. We insist on not focusing on the conflicts and antagonisms, but on the hard dialogue and connection-building between communities.
+Since many episodes specifically approach a situation we might know from existing media, like [The Great Infrastructural Project](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-great-infrastructure-project) or [The Henchmen](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-henchmen), the pitfalls are a very important part of those episodes. Many people might see a standard post-apocalyptic or cyberpunk setup and automatically reach for the tropes they know - instead of the Solarpunk perspective the Prompts are pushing towards. We insist on not focusing on the conflicts and antagonisms, but on the complicated dialogue and connection-building between communities.
 
-Creating a new episode usally entails me researching a given topic, finding a good setting for it, crafting a dramatic enough prompt (or a few) and leaving Tomasino with a bigger or smaller wall of texts and links. He then reads through my "raw prompt", chooses the best narrative and resources for context - and adds some of his own. Sometimes I'm astonished with a really beautiful perspective he can bring to my over-explored topic, like in [The Tower](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tower) - where I wouldn't have thought about the Tarot card meaning and how it plays into the narrative!
+Creating a new episode usually entails me researching a given topic, finding a good setting for it, crafting a dramatic enough prompt (or a few) and leaving Tomasino with a wall of texts and links. He then reads through my "raw prompt", chooses the best narrative and resources for context - and adds some of his own. Sometimes I'm astonished with a really beautiful perspective he can bring to my over-explored topic, like in [The Tower](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tower) - where I wouldn't have thought about the Tarot card meaning and how it plays into the narrative!
 
 The initial Story Hooks had only 22 entries, designed to cover a lot of possible topics and perspectives a contestant could choose to explore in their fiction. With the podcast, we decided to extend that with 8 more deeper, advanced, or more experimental Prompts, dividing them into 15 episodes long Seasons.
 
@@ -76,7 +75,7 @@ The podcast is hosted on Tomasino's instance of [Castopod](https://castopod.org/
 
 From the beginning of our project, we agreed that we will not be featuring ads or any kind of sponsored content, but if you're interested in supporting us, you can do it through [Tomasino's LiberaPay](https://liberapay.com/jamestomasino/) - since most of the server costs are on his side!
 
-What I personally find quite interesting, is that the format of the Podcast - proposing a Writing Prompt, a setting, a loosely-characterized community - seems to be more popular among RPG and literary fiction game players, than among professional writers. It might stem from both mine and Tomasino's experience in those areas - and treating the Prompts more like "building blocks" for a narrative, than a part of a regular writing process. This approach allows us to be more conscious and intentional when invoking - or avoiding - specific tropes, which sometimes might be more "tangible" to an RPG storyteller.
+What I personally find quite interesting, is that the format of our podcast - proposing a Writing Prompt, a setting, a loosely-characterized community - seems to be more popular among RPG and LitRPG players than among professional writers. It might stem from both mine and Tomasino's experience in those areas - and treating the Prompts more like "building blocks" for a narrative, rather than a part of a regular writing process. This approach allows us to be more conscious and intentional when invoking - or avoiding - specific tropes, which sometimes might be more "tangible" to an RPG storyteller.
 
 ## Reception and what's next
 
