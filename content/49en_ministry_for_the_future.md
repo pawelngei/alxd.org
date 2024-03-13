@@ -13,7 +13,7 @@ I have to admit that after getting about 30% in, I really struggled to continue.
 
 The review below might contain spoilers for both books, so be warned!
 
-## A good film should start with an earthquake
+## A good book should start with an earthquake
 
 As far as I'm aware, both books start of with the same traumatic chapters describing a heatwave descending on India, killing millions with its [wet-bulb temperatures](https://en.wikipedia.org/wiki/Wet-bulb_temperature). The descriptions are gory and distressing, allowing us to see the consequences of the Climate Catastrophe we're facing. The localized nature of the disaster, leaving almost no one alive in a whole province, spanning several cities and millions of people is a very intentional thought experiment by KSR. It lays ground for a huge political and cultural polarization of India, allowing it to completely change its government (and governance), economy and infrastructure, spearheading the sustainability revolution worldwide.
 
@@ -55,11 +55,11 @@ Even contrasting the very last moments and their emotional reading is masterful.
 
 ## What's happening on the ground
 
-
-
 - Stagnation and blindness for activism - only high-level counts
 - Passive refugees
 - Activism in the North
+- Getting freebies from the World Bank, always in the passive
+- A list of organizations
 
 ## Flash-poetry
 
@@ -73,15 +73,41 @@ Again, tMftTiZ mirrors them almost one-to-one, but in addition to a few worthwhi
 
 How is this not a _masterful_ parody of technosolutionism?
 
-## Racist hurricanes and earthquakes
+## Racist hurricanes and forest fires
 
-- Global South? Everybody dies. Global North? Everybody survives!
+You cannot write a climate fiction without some disasters. Not just those drawn out in months and years, but a sudden flood, forest fire or something equally dramatic.
+
+KSR decided to include those events in his books even if they happen outside of where the camera normally stays. We get quite a few smaller chapters describing a community facing a disaster completely destroying their homes and livelyhoods. It keeps us on our toes, reminding us the stakes, but it never gets to the point of the very first chapter and the Indian heatwave.
+
+Despite its satirical outlook, tMftTiZ doesn't negate those events and presents them as destructive. KSR's pen is a little more subtle, playing with our Western biases: every time a disaster strikes in the Global North, only few people die. Individualistic capitalists not caring about their communities somehow start _working together_, the crumbling infrastructure of (*checks notes*) Los Angeles proves... superior...? The civilization triumphs.
+
+Meanwhile, chapters set in the Global South? Oh boy, those poor fellows, all dead. Or fled to the North as refugees. If anyone survived, it's thanks to UN, or whichever Western government that liberated the slaves, sent aid, etc, etc. We don't see anyone in the South forming support networks, creating makeshift infrastructure, or even having any kinds of agency.
+
+The narratives we can stomach don't have place for the Southern agency in them.
 
 ## Clean, white hands
 
-- White and priviliged characters (brown terrorists)
+Kim Stanley Robinson does not shy away from exploring really hard topics like the role of violence and eco-terrorism within the societal transformation. The openness of his approach caused quite a big controversy, to the point of a [mysteriously malfunctioning microphone](https://www.youtube.com/watch?v=WF7j7J84Tdk&t=2280s) during one of his lectures at the University of Zurich.
 
+The tMftF welcomes us to a multi-faceted exploration of different forms of violence, its targets, perpetrators and consequences both for the individuals and communities. It gives us a quick overview of the history of civil right movements worldwide and illustrates the mechanisms of backlash from the states, now armed with both physical and online surveiliance tools. I think that writing the characters' and communities' decisions as ambigious and leaving the reader with some open questions was a really thoughtful choice.
 
+Having said this, the inclusion of outright violence, terrorism and assassinations (one even described in-depth) in tMftTiZ was quite surprising to me, as I fully expected it to go with a neoliberal status quo all the way. The satirical book replaces the deep character studies and hard questions with a straw-man-y terrorist organization killing the world's oligarchs and shooting down planes - with absolutely no backlash from any world's government or InterPol.
+
+It took me a longer moment to process KSR's narrative on violence. Why does a _satirical_ book assume that the violence is necessary, and yet presents it so... cartoonishly? How does that criticize the current status quo...?
+
+Then I realized: (almost?) none of the characters commiting violence is white. Most of them come from India (see, they are doing something in this book!). Every time any kind of civil disobedience is described in the North, it's non-violent, fleeting, just as a symbol of protest. When the police asks insistently enough, we finally go home.
+
+The civilized, Western kind of violence becomes even more cartoonish to stay within the PG-12 rating of the neoliberal discourse. One of the chapters of tMftTiZ describes a mysterious coordinated attack on The World Economic Forum in Davos, which becomes completely cut off from the outside world, with all the billionaires, bankers, governmental officials and lobbyists kidnapped and on the mercy of the assailiants.
+
+Is this a site of a massacre? No! The distressed 0.01% are treated humanely, asked to watch some movies about the planet dying and starving children suffering, then let go with a warning. No poisons, no tracking chips, just... a stern talking-to.
+
+The police and military laying siege seemed to get the same note about PG-12 rating of this chapter, as no one of the mysterious terrorists was really pursued.
+
+I have to admit that this was one of the most thinly veiled pieces of satire within the book, which made me wonder if anyone could read tMftTiZ with a straight face.
+
+The subtlety came back in the following chapters, where it takes us a good while to realize that all of the main characters are white, priviliged Northerners - with the exception of one of the Ministry's employees, an Indian, who luckilky turns out to be the mastermind behind the terror plots.
+
+No white hands were bloodied.
 
 ## In Economy we trust
 
@@ -89,20 +115,35 @@ How is this not a _masterful_ parody of technosolutionism?
 
 ## Zurich life and cafe coupons!
 
-- The pornography of Zurich - with cafe coupons!
+Finally, the place which gave "The Ministry..." it's title! Having ignored India and other countries spearheading the green revolution, KSR spends what feels like 30-40% of his parody in the biggest city of Switzerland.
+
+And what a city it is! Every time we go back to the character of Mary, we get a recommendation of some cafe or restaurant, complete with its special dish or drink and a detailed description how to get there by tram (sadly, no Google Maps links in the eBook). The Ministry often visits them, discussing their favorite spots in-between reading reports on the impending doom and millions of dead.
+
+At one point Frank visits Zurich as a fugitive, hiding from the police, but even he cannot resist coming to a cafe and listening to a meeting of a local sustainability club:
+
+> The Swiss were extremely regular in their appearance, but then on consideration Frank realized that this was basically true everywhere. The meeting began on time, of course, and it had a schedule that was gotten through briskly. Frank’s German was not up to the task, and this was Schwyzerdüütsch to boot, so he was completely lost and could only pretend to be comprehending, but no one seemed to notice. Their guttural looping sentences were calm, and they laughed pretty often. When they saw he was there, and that there were some other Ausländer there also, they summarized their proceedings in quick rough English. He liked the feel of the meeting, nothing dogmatic or virtuous about it, just people pursuing a project; something between a committee meeting and a party planning exercise. Like the local Swiss Alpine Club, no doubt, and in fact when he asked about that, he found that many there were in both clubs. Party planning— political parties— he wondered if the same word for both was the case in German also. Partei, yes. But birthday party? Maybe so. He wished he had brought along a translation earbud.
+
+Did I mention the splendid, wonderful swimming clubs with access to the lake, for just a small monthly fee? Have you ever marvelled at how _clean_ Zurich is? How masterfully planned? What an aesthetic dream it is, tastefully mixing the old with the new, all under the beautiful watch of the Alps.
+
+I don't know if the book got any official sponsorship from either Switzerland or the city of Zurich, or if KSR decided to just treat to with some absurd levels of "click here and subscribe!", but the satire does its job very well. When one of the characters is faced with tragic personal news, her internal monologue reads:
 
 > Switzerland. Think about how this little city-state of a country had gotten by in the world. In part it had been by accepting each other despite their differences. Some clever rules and a few mountain passes, both now irrelevant to power in the world; really it was just a system, a method. An old hoard and a way of getting along. The faces watching her now, their strange fairness, their insistence on some kind of justice for all. Some kind of enlightened self-interest, the notion that Switzerland was safest when the whole world was safe. Really very odd, this culture; and right now she wished with all her heart that it could conquer the world.
 
+Just stop for a moment an think about the genius of this approach: the employees of the Ministry are well aware that there are countries actively saving the world by example and _choose not to think about them_, instead wishing for one of the most _stereotypically greedy_ countries to take over the world. The solution is _right there_, in a report on your desk, but you choose to give your life to the banks and vaults in the Alps.
 
-## Progress just happens
+If this paragraph doesn't make us question everything about our civilization, what could?
+
+## Progress is inevitable, the plot doesn't need an engine
 
 - It kinda just happens? We're not doing anything
+- the plot measured in blockchains
 
 ## Magical technologies: social edition
 
 - Climate-fixing nanorobots? No! Human greed-fixing Blockchain! Social magic technologies
+- Blockchain social media!
 
-## Lobbying is not termodynamics
+## Lobbying is not thermodynamics
 
 - No counter-lobbyists
 
@@ -110,9 +151,9 @@ How is this not a _masterful_ parody of technosolutionism?
 
 If you haven't spotted it yet, the review above is a painful parody.
 
-"The Ministry For The Tourism In Zurich" doesn't exist. Kim Stanley Robinson penned only "The Ministry For The Future" with no (known to me) intent for it to be satirical.
+"The Ministry For The Tourism In Zurich" doesn't exist. What I'm describing is  "The Ministry For The Future", which Kim Stanley Robinson penned with no (known to me) intent for it to be satirical.
 
-I've been working on voicing my concerns with the book for years and chose to go with such a sarcastic comparison not because of my hatred towards KSR, but because I wanted to show how his book limits us in our imaginations of the future.
+I've been working on voicing my concerns about the book for years and chose to go with such a sarcastic comparison not because of my hatred towards KSR, but because I wanted to show how his book limits us in our imaginations of the future.
 
 Many climate fiction enthusiasts I have spoken with over the years rightfully praise KSR for tackling such a daunting topic in a world where we cannot imagine _any_ climate future. I fully agree with them: a bold approach by a well-known author opened a lot of new readers to the movement.
 
