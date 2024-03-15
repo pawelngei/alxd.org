@@ -163,11 +163,21 @@ If this paragraph doesn't make us question everything about our civilization, wh
 
 ## Progress is inevitable, the plot doesn't need an engine
 
-- It kinda just happens? We're not doing anything
-- the plot measured in blockchains
+What really shines through both of the books is Kim Stanley Robinson's mastery over weaving the worldbuilding and pacing - and his awareness of how absurdly it can be subverted.
 
+The Ministry For The Future centers the plot in India, weaving in Frank visiting seemingly unrelated communities and peppering in some vingettes. Only when Frank starts seriously dealing with his trauma and becomes a networker between different groups and organizations we can start seeing the sub-plots weave into a coherent braid, with their successes and struggles serving as a dramatic heartbeat of the whole book. The dramatic - and partially unexpected - culmination at the 58th COP made me shed a tear, as Frank visited and recognized so many of the old friends he thought lost - and we thought not important to the story. While it's not exactly what Jeff Gomez calls [a collective journey](https://blog.collectivejourney.com/), I could really feel that the main character of the Ministry is not only a community, but a _global collective of communities_ building a better world.
+
+Having constructed such a dramatic masteriece, KSR easily deconstructs it in the -Tourism by removing the plot engine. Despite each of the satirical chapters being written equally well as the original, there are no story beats, no overarching structure, things just _happen_. I don't think a lesser writer would be able to transform such a pointless structure into something you can still semi-pleasantly read, but KSR nails just that.
+
+In all of the -Tourism sublots, things just _happen_ without any kind of... drive, sense of progress or goal. Frank stumbles from one place (because it's not a community) to another, Mary pushes the Ministry to beg bankers to change their ways, some city gets flooded, some terrorists attack something, the Ministry gets attacked, Mary needs to escape, then come back, someone dies, some consequences of something happen. Then the world is saved! Mary and the Ministry can retire in the Eternal Switzerland, their neoliberal duty to the Status Quo fulfilled.
+
+I haven't read any other book so openly parodying our convictions about the Unstoppable March Of Progress with it's _very structure_. If we didn't need The Ministry for the Future so badly as a signpost of _where to go_, I would be tempted to call the -Tourism a more masterful book just for this self-aware mockery.
+
+Actually, I might be lying about the complete lack of story beats. There is one moment in the -Tourism which clearly reads as a breaking point, where the world changes: it's the introduction of the Blockchain by the Swiss banks. It clearly divides the book in the "no can do" epoch and "everything is being fixed" epoch.
 
 ## Magical technologies: social edition
+
+
 
 - Climate-fixing nanorobots? No! Human greed-fixing Blockchain! Social magic technologies
 - Blockchain social media!
@@ -177,11 +187,13 @@ If this paragraph doesn't make us question everything about our civilization, wh
 - No counter-lobbyists
 - Fukuyama's critique
 
+It's worth noting that the satire of the -Tourism got praised by no one else than [Francis Fukuyama](https://en.wikipedia.org/wiki/Francis_Fukuyama), who in his review in [American Purpose](https://www.americanpurpose.com/blog/fukuyama/were-cooked/) stated that the novel is "ludicrously unrealistic" and "Robinson posits the most optimistic possible political developments at every turn."
+
 ## Wrapping up
 
 If you haven't spotted it yet, the review above is a painful parody.
 
-"The Ministry For The Tourism In Zurich" doesn't exist. What I'm describing is  "The Ministry For The Future", which Kim Stanley Robinson penned with no (known to me) intent for it to be satirical.
+"The Ministry For The Tourism In Zurich" doesn't exist. What I'm describing is  "The Ministry For The Future", which Kim Stanley Robinson penned with no (known to me) intent for it to be satirical. The book I keep comparing it to with the same title was never written.
 
 I've been working on voicing my concerns about the book for years and chose to go with such a sarcastic comparison not because of my hatred towards KSR, but because I wanted to show how his book limits us in our imaginations of the future.
 
