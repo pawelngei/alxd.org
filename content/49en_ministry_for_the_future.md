@@ -127,10 +127,19 @@ No white hands were bloodied.
 
 ## In Economy we trust
 
-- Economy is God
-- MMT
-- Amazon failed quietly
-- https://globalcarbonreward.org/ , but what's the real implementation
+I feel that the Economy themes in both books are very uneven. With its finite number of pages the -Future does its best to present the social and infrastructural consequences of a lot of projects, such as [Global Carbon Reward](https://globalcarbonreward.org/) (and how it can be gamed), [Modern Monetary Theory](https://en.wikipedia.org/wiki/Modern_monetary_theory), the profileration of the [Mondragon cooperatives](https://en.wikipedia.org/wiki/Mondragon_Corporation) or the evolution of the Global South traditions and institutions, like the East African [Chamas](https://en.wikipedia.org/wiki/Chama_(investment)) and Saccos. You can feel that it just scratches the surface, showing us a few trends as studies of a live communities - yet it's honest in not pretending to have any of the Big Answers - or maybe not even claiming that any of them exist.
+
+The occassional chapter showing the perspective of the Ministry, with its economists trying to make sense of any of the data they see is just a beautiful example of bias and bad modelling in economy, which later leads to a beautfiul culmination of creating more open and citizen-oriented tools to analyze the myriad of factors, independent from any single organization.
+
+Possibly the most grim chapters since the opening one, the corporate warfare and assassinations of the labour leaders might be shocking to some readers, but I really appreciate how KSR doesn't put blame on a single exec. Again, he shows us how the hierarchical structures of the magacorporations naturally promote psycho- and sociopaths optimizing for profit and profit only.
+
+Yet again, the -Tourism flips the whole narrative on its head. With a strong focus on the Ministry and the way it sees the world, most of the plot revolves around pushing this- or that- proposal to this- and that- banking, national, international body. We essentially don't see the effects of the regulations, austerities and bailouts.
+
+KSR rightfully satirizes the _obviousness_ of our current approach, where we _must_ make sure that the international oil giants will find more work, government subsidies and grants, instead of being - say - nationalized and liquidated. That's how Shell, BP and the militaries of the world start working together pumping water from under the sliding glaciers on top of them to re-freeze. The reader never gets a moment to ask themselves: what will happen when they... solve the problem? Won't they be incentivized to sabotage the sustainability effort to keep their business?
+
+The Mondragon cooperatives are still mentioned in the -Tourism, but they're too _communal_ to pay them any attention. Instead, we dedicate all our focus towards MMT and Global Carbon Rewards - or rather, Blockchain in general - which are Mathematically Correct and work Flawlessly™, with no drawbacks, no social implications.
+
+By the end of the -Tourism the satire becomes a little more vulgar, with the giants like Amazon failing in the span of paragraphs, with no death throes or social unrest. They just stop being... a thing...? For the corporations that continue existing, the mathematical magic of Blockchain and the Carbon Coin makes them Good™, removing all economic incentives for lobbying for manipulation. I had a feeling that Kim Stanley Robinson either got tired of parodying our blind belief in economy, or just wanted to slap the few people who did not get the already thinly veiled joke.
 
 ## Zurich life and cafe coupons!
 
