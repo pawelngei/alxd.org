@@ -175,12 +175,27 @@ I haven't read any other book so openly parodying our convictions about the Unst
 
 Actually, I might be lying about the complete lack of story beats. There is one moment in the -Tourism which clearly reads as a breaking point, where the world changes: it's the introduction of the Blockchain by the Swiss banks. It clearly divides the book in the "no can do" epoch and "everything is being fixed" epoch.
 
-## Magical technologies: social edition
+## robo-quantum-nano-technologies: social edition
 
+After putting all the heavy research into unintended consequences and social contexts of the technical- and structural solution in the original book, Kim Stanley Robinson decided to have a little more subtle fun in the satire.
 
+Most of the climate fiction readers have enough scientific background to know that there is no deus ex machina waiting for us in our fight against the Climate Catastrophe. Even the most postmodern and neoliberal discourses begrudgingly accept that magical quantum nanorobots will not terraform the Earth into a capitalism-friendly planet.
 
-- Climate-fixing nanorobots? No! Human greed-fixing Blockchain! Social magic technologies
-- Blockchain social media!
+Where a lesser writer would struggle, KSR decided to take his parody even further. Even if we can spot an obviously unrealistic _engineering_ technologies, can we do the same with social and economic ones?
+
+The Ministry for the Tourism in Zurich copies the original's cautious and science-based proposals for mega-projects and engineering feats, lulling us into thinking about it as a hard-science fiction, a straight path from today into a sustainable future.
+
+Instead, it proposes magical solutions for our social and economic problems, making late capitalism, advanced financial instruments and national politics fully compatible with a sustainable planet! The book, which already made social change unimaginable and invisible, replaces it with a simple, frictionless tool to Make Capitalism Good: Blockchain.
+
+KSR takes the idea of [Global Carbon Reward](https://globalcarbonreward.org/), which unintended consequences he discussed in the first book (and which inspired other titles, like [L. X. Beckett's Gamechanger](https://www.goodreads.com/en/book/show/43263243-gamechanger)) and makes it into a [robo-quantum-nano](https://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum) holy grail. Once the Carbon Coin Blockchain is implemented, the whole capitalism starts working towards the good of the planet. No one is trying to game the system and all the banks and governments accept it wholeheartedly, no matter their geopolitical, religious or cultural differences.
+
+The -Tourism presents no real debate about translating existing capital or control over resources into Carbon Coins, it just works™. Blockchain - criticized and challenged dozens of times in our real world - makes everything in the world of the book transparent, accessible and equal without the climate-breaking power scaling of the real thing. No one protests the end of the cash, no one finds a way to bypass the ledgers or launder money. There are no splits in the chain.
+
+And since the Blockchain™® works so well, other global technologies in the book's world are built on top of it, like the Ministry's own social network! It doesn't mention debates over privacy; the right to delete content from an immutable chain; the complexities of moderation in different cultures and legal system. The robo-quantum-nano magic just works.
+
+As with other themes, Kim Stanley Robinson's parody of [the technosolutionism](https://www.publicbooks.org/the-folly-of-technological-solutionism-an-interview-with-evgeny-morozov/) gets so heavy-handed that even the most Blockchain-loving reader must take it as obvious satire. The man got to the point of including a poem about the Chain within his book - that is some real dedication.
+
+I'm deeply grateful for this aspect of the Ministry, so often omitted in other climate fiction books. Given how our current neoliberal narratives make us blind to other social orders or economic structures, showcasing how gullible we can be if the snake oil is just _a little subtler_ is truly a gift.
 
 ## Lobbying is not thermodynamics
 
