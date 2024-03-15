@@ -53,19 +53,35 @@ I honestly wouldn't know how to read Frank, his struggles, and especially the pa
 
 Even contrasting the very last moments and their emotional reading is masterful. tMftF ends the refugee plot with a vibrant sense of solidarity across the regions and social groups, with new traditions of welcoming and supporting the new arrivals, while still acknowledging how we could do more. tMftTiZ on the other hand pretends to "solve" the problem by making it an economic decision - and then ignores all the consequences on the human scale, telling the refugees to _get a job_.
 
-## What's happening on the ground
+## Social change on all and every level
 
-- Stagnation and blindness for activism - only high-level counts
-- Passive refugees
-- Activism in the North
-- Getting freebies from the World Bank, always in the passive
-- A list of organizations
+What is possibly the most meaty and groundbreaking aspect of The Ministry for The Future is its focus on communities, activism and social change. Considering the plot spanning decades, and the space of only one book - not a whole series - we can see the beauty of old social systems changing or collapsing, replaced by the sustainable structures we need to push forward. Every economic decision of the distant UN / IMF / World Bank giants ripples and influences the lives of every single person and _we can see that_, appreciating their drive for agency and more horizontal power structures.
+
+I'm still not able to say which chapters I love the most: the total upturning of the old order in India, Frank's painful-but-inspiring encounters with activists around the world, or the small vingettes of social action from all around the world. Kim Stanley Robinson did a splendid job incorporating existing organizations and projects into the plot, allowing us to apprieciate the multitude of initiatives and struggles we need to get to a better future.
+
+Frank's naive western perspective is used as a wonderful plot device, contrasting with what he finds on the ground, especially in the refugee camp chapters. When he visits the camp for the first time, he expects to be some kind of a powerless but noble white savior among stagnant, traumatised and burned out people. I think many readers were as shocked as Frank himself realizing that the camps are full of social programs, therapy sessions, technological innovation organized by the refugees themselves, with only a little coordination from outside. I really appreciate mentioning organizations such as the [r0g_agency](https://openculture.agency/) doing actual work on the ground and treating the camp inhabitants as equals, not just clients.
+
+I can also fully understand how the chapters set in the West could be uncomfortable to a lot of readers, going far past non-violent protests or even clashing with the police, openly criticizing institutions we take for granted and building parallel infrastructures, like the ones based on German [Freifunk](https://en.wikipedia.org/wiki/Freifunk).
+
+tMftF does a brilliant job showcasing those small, grassroots, independent movements as the real engine for the change - and their trajectory from being invisible, ignored by the Big Players over their heads - through conflicts, hostile takeovers, greenwashing - all the way to their acceptance and re-drafting the social contracts and even constitutions of their societies.
+
+tMftTiZ takes the exact same themes and story beats and again - inverts them as a really creative social commentary to what is impossible to even imagine in our western, neoliberal societies.
+
+With most of the Indian chapters cut out or just summarized, we're mostly left with the voyages of Frank - this time not as a networker showcasing different communities, but a solitary white savior burning out in one context after another. His expectations of the passivity of the refugees are played straight (which might be surprising and very boring if you don't have the context of the original book).
+
+The same goes for every unrelated vingette - we can only see people, especially in the Global South - passively responding to changes ordained by the Powers That Be, World Bank, IMF, UN or others. A dull farmer surprised that they can get money from the fancy city people for "farming dirt" (one of the carbon drawdown initiatives) really rubs this in - the englightened West is the only moral actor capable of saving the savages from the Climate Crisis.
+
+The only criticism I would have for this aspect of Kim Stanley Robinson's satire is the lack of focus on the Northern grassroots. After chapter 55 featuring a failed "revolution" in France we don't see much action in the West until the implementation of the government-ordained rewilding programs in the US. I understand that KSR wants to emphasize how unimaginable social change would be for a Westerner, but he did a much better job with India: having even the titular Ministry acknowledge it, but totally ignore its significance.
+
+The -Tourism presents all indicators of social change as dry reports read by the members of the Ministry, but never dwells deeper. Creating a huge social network, overturning old currencies and business models, limiting and then effectively banning air travel are just _things that happen_, with no real feedback, protests, or far-reaching ripples in our cultures and societies. The eternal Switzerland stays the same.
+
+What might be possibly the biggest stroke of satirical genius (or just an unwillingness to delete so much content from the original book) Kim Stanley Robinson dedicates a whole chapter (#85) of the -Tourism to a comprehensive list of organizations who helped create a better world. What we saw in action in the -Future is just a dry list, _hey those Kenyans and Colombians did something too I guess_, which is just such a masterful caricature of many Western conferences and "inclusivity programs".
 
 ## Flash-poetry
 
 Both of the books are equally peppered with tiny "chapters" of flash-poetry, often in a form of a riddle, or near spiritual question posed to us by a photon, a molecule, or an unseen societal force.
 
-I love how tMftF chooses to showcase a lot of values normally unknown to an average Western reader, such as the [Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy), introduce us to communal economic traditions such as the East African [Chamas](https://en.wikipedia.org/wiki/Chama_(investment)) and surprise us with an insightful take on a community forming, such as the [Tyranny of the Structurelessness](https://en.wikipedia.org/wiki/The_Tyranny_of_Structurelessness).
+I love how tMftF chooses to showcase a lot of values normally unknown to an average Western reader, such as the [Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy), introduce us to communal economic traditions such as the East African [Chamas](https://en.wikipedia.org/wiki/Chama_(investment)) and surprise us with an insightful take on community forming, such as the [Tyranny of the Structurelessness](https://en.wikipedia.org/wiki/The_Tyranny_of_Structurelessness).
 
 Again, tMftTiZ mirrors them almost one-to-one, but in addition to a few worthwhile concepts we get flooded with riddles about markets, the value of money and more. It brilliantly lulls us into expecting that the markets have all the answers we need, sans one:
 
@@ -112,6 +128,9 @@ No white hands were bloodied.
 ## In Economy we trust
 
 - Economy is God
+- MMT
+- Amazon failed quietly
+- https://globalcarbonreward.org/ , but what's the real implementation
 
 ## Zurich life and cafe coupons!
 
@@ -138,6 +157,7 @@ If this paragraph doesn't make us question everything about our civilization, wh
 - It kinda just happens? We're not doing anything
 - the plot measured in blockchains
 
+
 ## Magical technologies: social edition
 
 - Climate-fixing nanorobots? No! Human greed-fixing Blockchain! Social magic technologies
@@ -146,6 +166,7 @@ If this paragraph doesn't make us question everything about our civilization, wh
 ## Lobbying is not thermodynamics
 
 - No counter-lobbyists
+- Fukuyama's critique
 
 ## Wrapping up
 
