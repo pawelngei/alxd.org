@@ -195,12 +195,23 @@ And since the Blockchain™® works so well, other global technologies in the bo
 
 As with other themes, Kim Stanley Robinson's parody of [the technosolutionism](https://www.publicbooks.org/the-folly-of-technological-solutionism-an-interview-with-evgeny-morozov/) gets so heavy-handed that even the most Blockchain-loving reader must take it as obvious satire. The man got to the point of including a poem about the Chain within his book - that is some real dedication.
 
-I'm deeply grateful for this aspect of the Ministry, so often omitted in other climate fiction books. Given how our current neoliberal narratives make us blind to other social orders or economic structures, showcasing how gullible we can be if the snake oil is just _a little subtler_ is truly a gift.
+I'm deeply grateful for this aspect of the Ministry, so often omitted in other climate fiction books. Given how our current neoliberal narratives make us blind to other social orders or economic structures, showcasing how gullible we can be if the snake oil is just _a little subtler_ is exactly what we need.
 
-## Lobbying is not thermodynamics
+## Thermodynamics of lobbying
 
-- No counter-lobbyists
-- Fukuyama's critique
+Circling back to the core structure of the books, Kim Stanley Robinson seems to have another subtle and contextual lesson for us:
+
+What made the story beats of the original book *click* together so pleasantly was the back-and-forth between the communities fighting for a change - and a backlash they were met with at different levels. The elegant dance, escaping forward or taking a few steps back, but never giving up is what gave the -Future that signature drive many readers fell in love with.
+
+The parody's structure doesnt't involve... any backlash or pushback. While the Climate Catastrophe looms in the distance and causes some chaos every few chapters, humans seemingly never oppose the good-willing Ministry. Sure, the bankers are unwilling to accept the salvation of robo-quantum-nano Carbon Coin, the governments keep squabbling, but the Ministry never ever meets a single oil lobbyist, a bad-faith state actor. All the violence and terror perpetuated by the Global South black-ops of the Ministry is never met with any response from either the police, military, or even counter-attacks.
+
+Even without knowing the original, it would take a very stubborn reader not to see such a writing structure as very intentional. We are to feel _wrong_, since the counter-balance of the plot is _missing_, broken as much as a law of thermodynamics, where a force (of change) doesn't meet an equal and opposing force.
+
+The final lesson and the most important message of the -Tourism sounds strong independently from the original's hope: 
+
+_The path towards a sustainable future painted with central banks and global technologies - but without social change, without remembering the Global South - is a lie._
+
+Kim Stanley Robinson never spells it out for us, he respects the intellectual capacity of his readers. After writing a brilliant first book pointing us forward, he spent years creating a masterpiece warning us about all the subtle ways the neoliberal narratives might try to lead us astray for just a few years of quarterly growth.
 
 It's worth noting that the satire of the -Tourism got praised by no one else than [Francis Fukuyama](https://en.wikipedia.org/wiki/Francis_Fukuyama), who in his review in [American Purpose](https://www.americanpurpose.com/blog/fukuyama/were-cooked/) stated that the novel is "ludicrously unrealistic" and "Robinson posits the most optimistic possible political developments at every turn."
 
