@@ -1,6 +1,6 @@
-Title: A Solarpunk’s review of Kim Stanley Robinson’s "Ministry For The Future"
-Date: 2024-03-12 13:00
-Slug: solarpunks-review-of-the-ministry
+Title: The Messiah & The God-Emperor of Zurich: a review of Kim Stanley Robinson's "The Ministry for the Future"
+Date: 2024-03-20 16:00
+Slug: ministry-for-the-future-review
 Lang: en
 Translation: false
 opengraph_image: 49_ministry/cover.jpg
@@ -14,10 +14,10 @@ I started reading it deeply intrigued and hopeful, impressed by the scale and sc
 
 I struggled to continue, clenching my teeth, running into really problematic and painful descriptions of issues I had first-hand experience in, seeing them completely misrepresented or handwaved. I started having cognitive dissonance; it cannot be the same "Ministry…" as my friends read, can it?
 
-In order to power through the book, I decided to create a little thought experiment I now welcome you to try with me. Let’s imagine that there are two books written by KSR:
+In order to power through the book, I decided to create a little thought experiment which I now welcome you to try with me. Let’s imagine that there are two books written by KSR:
 
 <sustainability>
-"The Ministry for Sustainability" would be the _imagined_ climate fiction epic, unanimously recommended to me by my friends. It would be exactly the masterpiece it was described to be, tackling the biggest questions of our future, responsibly discussing what we should expect and painting a better world we can strive towards. Since it differs so much from what I read, I want to treat it as some kind of _platonic ideal_ of a climate fiction masterpiece, further referring to it as the "...Sustainability" or just the "masterpiece".
+"The Ministry for Sustainability" would be the _imagined_ climate fiction epic, unanimously recommended to me by my friends. It would be exactly the masterpiece it was described to be, tackling the biggest questions of our future, responsibly discussing what we should expect and painting a better world that we can strive towards. Since it differs so much from what I read, I want to treat it as some kind of _platonic ideal_ of a climate fiction masterpiece, further referring to it as the "...Sustainability" or just the "masterpiece".
 </sustainability>
 
 <future>
@@ -71,7 +71,7 @@ The theme of Frank being some kind of "connection" between different worlds is p
 </future>
 
 <future>
-The "...Future" turns this upside down by having Frank be a "voice of conscience" of Mary, the head of the Ministry, kidnapping her and begging her to do something, a northern-savior stand-in for the voices of unseen billions suffering from the Climate Catastrophe. It's only at this point where we realize that the characters of the "...Future" have no meaningful relationships to the characters from the Global South, or even outside of the UN elites. Frank - an American scarred by climate trauma - is then the only way to truly empathize with the non-Westerners whose agency remains invisible to the neoliberal discourse. Another subtle, and yet audacious stroke by KSR, gently nodding towards [The White Man’s Burden](https://en.wikipedia.org/wiki/The_White_Man%27s_Burden).
+The "...Future" turns this upside down by having Frank be a "voice of conscience" of Mary, the head of the Ministry by kidnapping her and begging her to do something. A northern-savior stand-in for the voices of unseen billions suffering from the Climate Catastrophe. It's only at this point that we realize that the characters of the "...Future" have no meaningful relationships to the characters from the Global South, or even outside of the UN elites. Frank - an American scarred by climate trauma - is then the only way to truly empathize with the non-Westerners whose agency remains invisible to the neoliberal discourse. Another subtle, and yet audacious stroke by KSR, gently nodding towards [The White Man’s Burden](https://en.wikipedia.org/wiki/The_White_Man%27s_Burden).
 </future>
 
 <future>
@@ -83,7 +83,7 @@ In the final chapters of the book, Frank finds a community in a local co-op hous
 </future>
 
 <future>
-Only in the very last pages of the book we learn that _nothing is really solved_, because in the 2040s the refugees are struggling to find footing in the countries that accepted them, devoid of any contacts or social networks, still discriminated against by officials and far-right movements alike.
+Only in the very last pages of the book do we learn that _nothing is really solved_, because in the 2040s the refugees are still struggling to find footing in the countries that accepted them, devoid of any contacts or social networks, still discriminated against by officials and far-right movements alike.
 </future>
 
 <future>
@@ -99,7 +99,7 @@ What is possibly the most meaty and groundbreaking aspect of "The Ministry for S
 </sustainability>
 
 <sustainability>
-I'm still not able to say which chapters of the masterpiece I love the most: the total upturning of the old order in India, Frank's painful-but-inspiring encounters with activists around the world, or the small vignettes of social action from all around the world. KSR did a splendid job incorporating existing organizations and projects into the plot, allowing us to appreciate the multitude of initiatives and struggles we need to get to a better future.
+I'm still not able to say which chapters of the masterpiece I love the most: the total upturning of the old order in India, Frank's painful-but-inspiring encounters with activists around the world, or the small vignettes of social action from all across the globe. KSR did a splendid job incorporating existing organizations and projects into the plot, allowing us to appreciate the multitude of initiatives and struggles we need to get to a better future.
 </sustainability>
 
 <sustainability>
@@ -127,7 +127,7 @@ The same goes for every unrelated vignette: we can only see people, especially i
 </future>
 
 <future>
-The only criticism I would have for this aspect of the KSR's satire is the lack of focus on the Northern grassroots. After chapter 55, which features a failed "revolution" in France, we don't see much action in the West until the implementation of the government-ordained rewilding programs in the US. I understand that the author wants to emphasize how unimaginable social change would be for a Westerner, but he did a much better job with India: having even the titular Ministry acknowledge it, but totally ignore its significance.
+The only criticism I would have for this aspect of the KSR's satire is the lack of focus on the Northern grassroots. After chapter 55, which features a failed "revolution" in France, we don't see much action in the West until the implementation of the government-ordained rewilding programs in the US. I understand that the author wants to emphasize how unimaginable social change would be for a Westerner, but he did a much better job with India: having even the titular Ministry acknowledge it, then totally ignore its significance.
 </future>
 
 <future>
@@ -275,7 +275,7 @@ Did I mention the splendid, wonderful swimming clubs with access to the lake, fo
 </future>
 
 <future>
-I don't know if the book got any official sponsorship from either Switzerland or the city of Zurich, or if KSR decided to just treat it with some absurd levels of "click here and subscribe!", but the satire does its job very well. When one of the characters is faced with tragic personal news, her internal monologue reads:
+I don't know if the book got any official sponsorship from either Switzerland or the city of Zurich, or if KSR decided to just treat it with some absurd levels of "click here and subscribe!", but the satire does its job very well. I was honestly surprised that the book didn’t come with a set of coupons to some of the cafes and tourist attractions!  When one of the characters is faced with tragic personal news, her internal monologue reads:
 </future>
 
 > Switzerland. Think about how this little city-state of a country had gotten by in the world. In part it had been by accepting each other despite their differences. Some clever rules and a few mountain passes, both now irrelevant to power in the world; really it was just a system, a method. An old hoard and a way of getting along. The faces watching her now, their strange fairness, their insistence on some kind of justice for all. Some kind of enlightened self-interest, the notion that Switzerland was safest when the whole world was safe. Really very odd, this culture; and right now she wished with all her heart that it could conquer the world.
@@ -359,7 +359,7 @@ I have to admit that I wasn’t able to spot all the subtleties and symbols with
 > Dune, as the whole cycle, may have been written as conservative-ecological criticism of reign of JFK. "Ministry" may have, at least in declarations, completely opposite objective. Yet both books mirror each other in ecology-religion-politics triangle. Politics is not for the polity, masses get the religion and if they are lucky, they may have a benevolent "Éminence grise" on their side. In the case of "Dune" it was a white saviour, prince-poet and wizard. In the case of "Ministry" it is Mary, institution of the Ministry. Mary and ministry also have semi-conscious supercomputer that is Machine-God in any function but for the name.
 
 <future>
-It looks like at some point of reading the book, overwhelmed by the blatant disregard for communities and democratic mandate of the change-makers my brain just switched off. I did _not consciously_ _register_ that the Ministry manufactured its own religion, cynically controlling the population, denying the masses not only the agency over their own future and economy, but their very spirituality! Quoting the book:
+It looks like at some point of reading the book, overwhelmed by the blatant disregard for communities and democratic mandate of the change-makers, my brain just switched off. I did _not consciously_ _register_ that the Ministry manufactured its own religion, cynically controlling the population, denying the masses not only the agency over their own future and economy, but also their very spirituality! Quoting the book:
 </future>
 
 > Janus Athena: (...) ministry should form a sort of shadow government (...) Already a new internet; now its users may be turning into a new kind of citizen of the world. Gaia citizenship, or what have you. Earth citizen, commons member, world citizen. One Planet. Mother Earth. All these terms used by people who are coming to think of themselves as part of a planetary civilization. Main sense of patriotism now directed to the planet itself. (...) A new structure of feeling, underlying politics as such. Global civilization transcending local differences. A different hegemony for sure. Shadow government plans are just one part of that larger movement. Like a software for a feeling.
