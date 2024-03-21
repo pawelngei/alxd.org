@@ -66,9 +66,9 @@ In-between the "main" chapters propelling the plot forwards (India in -Sustainab
 "...Future", on the other hand, shows its brilliance in translating Frank's chapters almost one-to-one with a completely different perspective. The activist is locked in his trauma and individualism, unable to connect to anyone despite multiple attempts at psychotherapy. Each of his attempts to join some initiative or a community is fruitless. He even starts a family (in a white-savior mode, to save someone from a refugee camp), but quickly abandons it, aimlessly drifting around. He is never really challenged for being a survivor - all his guilt comes from inside - but he struggles with a lot of anger. He tries to join a terrorist organization (which turns him down for being white, more on that later) and eventually kills a random person.
 </future>
 
-<future>
+<sustainability>
 The theme of Frank being some kind of "connection" between different worlds is present in both books. The "...Sustainability" portrays him as someone matured and scarred, ready to listen to different perspectives and mediate between very different groups.
-</future>
+</sustainability>
 
 <future>
 The "...Future" turns this upside down by having Frank be a "voice of conscience" of Mary, the head of the Ministry by kidnapping her and begging her to do something. A northern-savior stand-in for the voices of unseen billions suffering from the Climate Catastrophe. It's only at this point that we realize that the characters of the "...Future" have no meaningful relationships to the characters from the Global South, or even outside of the UN elites. Frank - an American scarred by climate trauma - is then the only way to truly empathize with the non-Westerners whose agency remains invisible to the neoliberal discourse. Another subtle, and yet audacious stroke by KSR, gently nodding towards [The White Man’s Burden](https://en.wikipedia.org/wiki/The_White_Man%27s_Burden).
@@ -143,7 +143,7 @@ What might be possibly the biggest stroke of satirical genius (or just an unwill
 Both of the books are equally peppered with tiny "chapters" of flash-poetry, often in a form of a riddle, or nearly spiritual question posed to us by a photon, a molecule, or an unseen societal force.
 
 <sustainability>
-I love how "...Sustainability" chooses to showcase a lot of values normally unknown to an average Western reader, such as the [Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy), introduce us to communal economic traditions such as the East African [Chamas](https://en.wikipedia.org/wiki/Chama_%28investment%29) and surprise us with an insightful take on community forming, such as the [Tyranny of the Structurelessness](https://en.wikipedia.org/wiki/The_Tyranny_of_Structurelessness).
+I love how "...Sustainability" chooses to showcase a lot of values normally unknown to an average Western reader, such as the [Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy), introduce us to communal economic traditions such as the East African [Chamas](https://en.wikipedia.org/wiki/Chama_%28investment%29) and surprise us with an insightful take on community forming, such as the [Tyranny of  Structurelessness](https://en.wikipedia.org/wiki/The_Tyranny_of_Structurelessness).
 </sustainability>
 
 <future>
@@ -177,7 +177,7 @@ The neoliberal narratives we can stomach don't have any place for the Southern a
 Kim Stanley Robinson does not shy away from exploring really hard topics like the role of violence and eco-terrorism within societal transformation. The openness of his approach caused quite a big controversy, to the point of a [mysteriously malfunctioning microphone](https://www.youtube.com/watch?v=WF7j7J84Tdk&t=2280s) during one of his panels at the University of Zurich.
 
 <sustainability>
-The "...Sustainability" welcomes us to a multi-faceted exploration of different forms of violence, its targets, perpetrators and consequences both for the individuals and communities. It gives us a quick overview of the history of civil right movements worldwide and illustrates the mechanisms of backlash from the states, now armed with both physical and online surveillance tools. I think that writing the characters' and communities' decisions as ambiguous and leaving the reader with some open questions was a really thoughtful and grounded choice.
+The "...Sustainability" welcomes us to a multi-faceted exploration of different forms of violence, its targets, perpetrators and consequences both for the individuals and communities. It gives us a quick overview of the history of civil rights movements worldwide and illustrates the mechanisms of backlash from the states, now armed with both physical and online surveillance tools. I think that writing the characters' and communities' decisions as ambiguous and leaving the reader with some open questions was a really thoughtful and grounded choice.
 </sustainability>
 
 <future>
@@ -236,7 +236,7 @@ The occasional chapter showing the perspective of the Ministry (with its economi
 
 <sustainability>
 The grimmest chapters of the "...Sustainability" since the opening trauma describe the corporate warfare and assassinations of the labor leaders around the world. Knowing how easy it would be to write it in such a way, I really appreciate how KSR doesn't put blame on a single exec or politician. Instead, he shows us how the hierarchical structures of the megacorporations naturally promote psycho- and sociopaths optimizing for profit and profit only.
-<sustainability>
+</sustainability>
 
 <future>
 Yet again, the "...Future" flips the whole narrative on its head. With a strong focus on the Ministry and the way it sees the world, most of the plot revolves around pushing this or that proposal to the pertaining banking, national, international body. We essentially never see the actual effects of the regulations, austerities and bailouts.
@@ -251,7 +251,7 @@ The Mondragon cooperatives are still mentioned in the "...Future", but they're t
 </future>
 
 <future>
-By the end of the "...Future" the satire becomes a little more vulgar, as the giants like Amazon fail in the span of paragraphs, with no death throes or social unrest. They just stop existing. For the corporations that persist, the mathematical magic of Blockchain and the Carbon Coin makes them Good™, removing all economic incentives for lobbying for manipulation. I had a feeling that Kim Stanley Robinson either got tired of parodying our blind belief in the economy, or just wanted to slap the few people who did not get the already thinly veiled joke.
+By the end of the "...Future" the satire becomes a little more vulgar, as the giants like Amazon fail in the span of paragraphs, with no death throes or social unrest. They just stop existing. For the corporations that persist, the mathematical magic of Blockchain and the Carbon Coin makes them Good™, removing all economic incentives for lobbying or manipulation. I had a feeling that Kim Stanley Robinson either got tired of parodying our blind belief in the economy, or just wanted to slap the few people who did not get the already thinly veiled joke.
 </future>
 
 ## The best climate tourist destination: Zurich
@@ -290,7 +290,7 @@ If this paragraph doesn't make us question everything about our civilization, wh
 
 ## Progress is inevitable, the plot doesn't need an engine
 
-What really shines through both of the books is Kim Stanley Robinson's mastery over weaving the worldbuilding and pacing and his awareness of how absurdly it can be subverted.
+What really shines through in both of the books is Kim Stanley Robinson's mastery over weaving the worldbuilding and pacing and his awareness of how absurdly it can be subverted.
 
 <sustainability>
 "...Sustainability" centers the plot in India, weaving in Frank visiting seemingly unrelated communities and peppering in some vignettes. Only when Frank starts seriously dealing with his trauma and becomes a networker between different groups and organizations, we start seeing the sub-plots weave into a coherent braid, with their successes and struggles serving as a dramatic heartbeat of the whole book.
@@ -410,7 +410,7 @@ It's worth noting that the satire of the "...Future" got praised by no one else 
 
 Just to clarify one final time, the review above is just painful sarcasm.
 
-"The Ministry for Sustainability" doesn’t exist - it’s an idea of a _perfect, optimistic climate fiction_ masterpiece that a lot of people take "The Ministry for the Future" for. The latter book was penned by Kim Stanley Robinson with no (known to me) intent for it to be satirical, with all its biases invisible to either the author and a big part of the audience.
+"The Ministry for Sustainability" doesn’t exist - it’s an idea of a _perfect, optimistic climate fiction_ masterpiece that a lot of people take "The Ministry for the Future" for. The latter book was penned by Kim Stanley Robinson with no (known to me) intent for it to be satirical, with all its biases invisible to both the author and a big part of the audience.
 
 To me, "The Ministry…" reads like a not sufficiently self-conscious parody of itself, complete with an overly self-important title and tone-deaf execution. I think that it would read much better as satire, under a title of "The Ministry for the Tourism in Zurich" - all it needs is some witty footnotes and a new cover, like the one below:
 
@@ -426,7 +426,7 @@ At the same time, I think we _NEED_ to be aware of the book's limitations, often
 
 If we allow ourselves to read "The Ministry For The Future'' as "let's continue with neoliberal capitalism; blockchain will save us; let the brown people bloody their hands", then we might delude ourselves into thinking that there's nothing more to do. We might refuse to answer any uncomfortable questions about our position in the world, hoping that after a lengthy career in banking or UN we rightfully deserve our peaceful retirement in the beautiful Alps. The world will sort itself out.
 
-I'm a proponent of much more communal, involved and uncomfortable fiction, which forces us to look at the traumas and admit that we need to face them - only then seeing the hope beyond them. These stories are much harder to tell - and even harder to publish, but I believe that they’re exactly what we need. If you would like to hear more about this approach, please check out the [Solarpunk Prompts podcast](http://localhost:8000/solarpunk-prompts-podcast) or my [master essay on Solarpunk](https://alxd.org/solarpunk-lenses-and-foundations.html).
+I'm a proponent of much more communal, involved and uncomfortable fiction, which forces us to look at the traumas and admit that we need to face them - only then seeing the hope beyond them. These stories are much harder to tell - and even harder to publish, but I believe that they’re exactly what we need. If you would like to hear more about this approach, please check out the [Solarpunk Prompts podcast](https://alxd.org/solarpunk-prompts-podcast.html#solarpunk-prompts-podcast) or my [master essay on Solarpunk](https://alxd.org/solarpunk-lenses-and-foundations.html).
 
 We need to take many steps to imagine a sustainable future beyond the Climate Crisis. Kim Stanley Robinson's "Ministry..." is one of them, but let's not make it our last one.
 
