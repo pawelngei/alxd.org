@@ -10,7 +10,7 @@ opengraph_image: 49_ministry/cover.jpg
 
 As someone deeply interested in Solarpunk and climate fiction in general, I encountered a lot of recommendations of "[The Ministry For The Future](https://www.goodreads.com/en/book/show/50998056)" by the esteemed science fiction author [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson) (later: KSR). The endorsements came from activists, academics, writers and game designers, programmers and climate entrepreneurs: everyone around me seemed to be impressed with the book. It is said to draw a comprehensive, grim, realistic, and yet still optimistic trajectory of our civilization towards a better, sustainable future past the Climate Catastrophe. The author consulted it with over 40 scientists, activists, and conservationists who made sure that "The Ministry…" presented us with a grounded vision.
 
-I started reading it deeply intrigued and hopeful, impressed by the scale and scope of the book, impressed by the rawness of the first chapters. However, as I turned the pages, I quickly stopped in my tracks: I realized that "The Ministry…" is very different to what I assumed it is, to what my friends described when recommending it to me.
+I started reading it deeply intrigued and hopeful, impressed by the scale and scope of the book, stunned by the rawness of the first chapters. However, as I turned the pages, I quickly stopped in my tracks: I realized that "The Ministry…" is very different to what I assumed it is, to what my friends described when recommending it to me.
 
 I struggled to continue, clenching my teeth, running into really problematic and painful descriptions of issues I had first-hand experience in, seeing them completely misrepresented or handwaved. I started having cognitive dissonance; it cannot be the same "Ministry…" as my friends read, can it?
 
@@ -161,7 +161,7 @@ You could argue that one cannot write climate fiction without some disasters. No
 KSR decided to include those events in his books even if they happen outside of where the camera normally stays. We get quite a few smaller chapters describing a community facing a disaster completely destroying their homes and livelihoods. It keeps us on our toes, reminding us of the stakes, but it never gets to the point of the very first chapter and the Indian heatwave.
 
 <future>
-Despite its satirical outlook, "...Future" doesn't negate those events and presents them as destructive. KSR's pen is a little more subtle, playing with our Western biases: every time a disaster strikes in the Global North, only few people die. Individualistic capitalists not caring about their communities somehow start _working together_, the crumbling infrastructure of (_checks notes_) Los Angeles proves... superior...? The civilization triumphs.
+Despite its satirical outlook, "...Future" doesn't negate those events and presents them as destructive. KSR's pen is a little more subtle, playing with our Western biases: every time a disaster strikes in the Global North, only a few people die. Individualistic capitalists not caring about their communities somehow start _working together_, the crumbling infrastructure of (_checks notes_) Los Angeles proves... superior...? The civilization triumphs.
 </future>
 
 <future>
@@ -169,7 +169,7 @@ Meanwhile, the chapters set in the Global South? Oh boy, those poor fellows, all
 </future>
 
 <future>
-The neoliberal narratives we can stomach don't have any place for the Southern agency in them.
+The neoliberal narratives we can stomach don't have any place for Southern agency in them.
 </future>
 
 ## Clean, white hands
@@ -189,7 +189,7 @@ It took me a longer moment to process KSR's narrative on violence. Why does a _s
 </future>
 
 <future>
-Then I realized: (almost?) none of the characters committing violence is white - or a Westerner. Most of them come from India (see, they are doing something in this book after all!). Every time any kind of civil disobedience is described in the North, it's non-violent and fleeting, just as a symbol of protest. When the police ask insistently enough, they eventually go home.
+Then I realized: (almost?) none of the characters committing violence is white - or a Westerner. Most of them come from India (see, they are doing something in this book after all!). Every time any kind of civil disobedience is described in the North, it's non-violent and fleeting, just a symbol of protest. When the police ask insistently enough, they eventually go home.
 </future>
 
 <future>
@@ -251,7 +251,7 @@ The Mondragon cooperatives are still mentioned in the "...Future", but they're t
 </future>
 
 <future>
-By the end of the "...Future" the satire becomes a little more vulgar, as the giants like Amazon fail in the span of paragraphs, with no death throes or social unrest. They just stop existing. For the corporations that persist, the mathematical magic of Blockchain and the Carbon Coin makes them Good™, removing all economic incentives for lobbying or manipulation. I had a feeling that Kim Stanley Robinson either got tired of parodying our blind belief in the economy, or just wanted to slap the few people who did not get the already thinly veiled joke.
+By the end of the "...Future" the satire becomes a little more vulgar, as giants like Amazon fail in the span of paragraphs, with no death throes or social unrest. They just stop existing. For the corporations that persist, the mathematical magic of Blockchain and the Carbon Coin makes them Good™, removing all economic incentives for lobbying or manipulation. I had a feeling that Kim Stanley Robinson either got tired of parodying our blind belief in the economy, or just wanted to slap the few people who did not get the already thinly veiled joke.
 </future>
 
 ## The best climate tourist destination: Zurich
@@ -437,6 +437,7 @@ Reading "The Ministry…" took me three years and I needed a lot of space to ref
 - Andrea "Clockwork" Barresi
 - a friend
 - Joanna Kaniewska
+- Lemon
 - Marcin Zaród[^zarod]
 - Martyna Łysakiewicz
 - Rysiek
