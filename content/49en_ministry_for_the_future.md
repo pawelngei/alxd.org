@@ -34,7 +34,7 @@ Both books start off with the same traumatic chapters describing a heatwave desc
 
 The concept itself - while I do not wish it upon anyone - is fascinating. Seeing how historically many cultures were able to shake off their stagnation only as a result of war or a tremendous disaster, maybe a highly localized, traumatic event could change our outlook on the Climate Catastrophe as well.
 
-In those first chapters, however, we don't follow any Indian character but Frank May, an American aid worker stealing (or rather: intentionally not sharing) water with those in need, which (together with a healthy dose of luck) allows him to survive the heatwave. It also leaves him with tremendous survivor's guilt.
+In those first chapters, however, we don't follow any Indian character but Frank May, an American aid worker withholding water with those in need[^frank-water], which (together with a healthy dose of luck) allows him to survive the heatwave. It also leaves him with tremendous survivor's guilt.
 
 Choosing a privileged white American main character in both books is a very interesting choice by KSR. In the masterpiece, it allows the reader to start within their known territory, to experience the world naively and mature together with Frank, who gradually sheds misconceptions about the Global South and international cooperation. Writing such a character is not easy, which the parody plays right into with a lot of self-awareness, falling into each and every trope and pitfall we could expect.
 
@@ -442,6 +442,11 @@ Reading "The Ministry…" took me three years and I needed a lot of space to ref
 - Martyna Łysakiewicz
 - Rysiek
 - The Think That Through team
+
+[^frank-water]: **UPDATE 23.03.24**: In the original blogpost, this passage read: "American aid worker stealing (or rather: intentionally not sharing) water with those in need", with my usage of the word _stealing_ expressing very strong moral judgement. I see how that could be problematic to a lot of readers, so I welcome you to form an opinion yourself, based on the passages from "The Ministry...":
+> Sometimes people began crying and little crowds surrounded them; elders in distress, little children in distress. (...) An old man died; Frank helped some younger men carry the body up to the rooftop patio, where they wrapped the old one in a thin sheet, maybe a sari. Much worse came later that night, when they did the same thing for an infant. Everyone in every room cried as they carried the little body up to the roof. Frank saw the generator was running out of gas and went down to the closet and got the fuel can and refilled it.
+> His water jug was empty. The taps had stopped running. There were two big water cans in the refrigerator, but he didn’t talk about those. He refilled his jug from one of them, in the dark; the water was still a bit cool. He went back to work.
+> Four more people died that night.
 
 [^zarod]: "Imaginaries of Care and Science in Anthropocene Utopian Futurology. The Sociology of Science in K. S. Robinson’s The Ministry for the Future", [Studia Socjologiczne](https://www.studiasocjologiczne.pl/) 2/2024, cited as pre-print.
 
