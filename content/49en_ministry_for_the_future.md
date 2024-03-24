@@ -34,7 +34,7 @@ Both books start off with the same traumatic chapters describing a heatwave desc
 
 The concept itself - while I do not wish it upon anyone - is fascinating. Seeing how historically many cultures were able to shake off their stagnation only as a result of war or a tremendous disaster, maybe a highly localized, traumatic event could change our outlook on the Climate Catastrophe as well.
 
-In those first chapters, however, we don't follow any Indian character but Frank May, an American aid worker withholding water with those in need[^frank-water], which (together with a healthy dose of luck) allows him to survive the heatwave. It also leaves him with tremendous survivor's guilt.
+In those first chapters, however, we don't follow any Indian character but Frank May, an American aid worker withholding water from those in need[^frank-water], which (together with a healthy dose of luck) allows him to survive the heatwave. It also leaves him with tremendous survivor's guilt.
 
 Choosing a privileged white American main character in both books is a very interesting choice by KSR. In the masterpiece, it allows the reader to start within their known territory, to experience the world naively and mature together with Frank, who gradually sheds misconceptions about the Global South and international cooperation. Writing such a character is not easy, which the parody plays right into with a lot of self-awareness, falling into each and every trope and pitfall we could expect.
 
