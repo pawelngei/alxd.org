@@ -14,7 +14,7 @@ It's best to contact me via [email]. You can be also interested in my [github] a
 
 I freelance as ALXD ([registry index](https://prod.ceidg.gov.pl/CEIDG/CEIDG.Public.UI/SearchDetails.aspx?Id=d9303664-0fe2-4dc0-aecb-797877c2d1ba)). You can also check my [LinkedIn](https://www.linkedin.com/in/paul-ngei/) profile.
 
-Avatar by [Marty Tina G.](http://martygart.weebly.com/).
+Avatar by [The Lemonaut](https://www.tumblr.com/the-lemonaut).
 
 [Warsaw Hackerspace]: https://hackerspace.pl/
 [transhumanist]: http://rationalwiki.org/wiki/Transhumanism
