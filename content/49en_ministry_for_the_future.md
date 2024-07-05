@@ -152,7 +152,7 @@ Again, the "...Future" mirrors them almost one-to-one, but in addition to a few 
 
 > (...) I am the key that locks the back doors by which wrongdoers try to escape the scene of the crime. I am the nothing that makes everything happen. You don’t know me, you don’t understand me; and yet still, if you want justice, I will help you to find it. I am blockchain. I am encryption. I am code. Now put me to use.
 
-How is this not a _masterful_ parody of techno-solutionism?
+How is this not a _masterful_ parody of techno-solutionism[^blockchain]?
 
 ## Racist hurricanes and forest fires
 
@@ -251,7 +251,7 @@ The Mondragon cooperatives are still mentioned in the "...Future", but they're t
 </future>
 
 <future>
-By the end of the "...Future" the satire becomes a little more vulgar, as giants like Amazon fail in the span of paragraphs, with no death throes or social unrest. They just stop existing. For the corporations that persist, the mathematical magic of Blockchain and the Carbon Coin makes them Good™, removing all economic incentives for lobbying or manipulation. I had a feeling that Kim Stanley Robinson either got tired of parodying our blind belief in the economy, or just wanted to slap the few people who did not get the already thinly veiled joke.
+By the end of the "...Future" the satire becomes a little more vulgar, as giants like Amazon fail in the span of paragraphs, with no death throes or social unrest. They just stop existing. For the corporations that persist, the mathematical magic of Blockchain and the Carbon Coin makes them Good™[^blockchain], removing all economic incentives for lobbying or manipulation. I had a feeling that Kim Stanley Robinson either got tired of parodying our blind belief in the economy, or just wanted to slap the few people who did not get the already thinly veiled joke.
 </future>
 
 ## The best climate tourist destination: Zurich
@@ -448,7 +448,11 @@ Reading "The Ministry…" took me three years and I needed a lot of space to ref
 > His water jug was empty. The taps had stopped running. There were two big water cans in the refrigerator, but he didn’t talk about those. He refilled his jug from one of them, in the dark; the water was still a bit cool. He went back to work.
 > Four more people died that night.
 
-[^zarod]: "Imaginaries of Care and Science in Anthropocene Utopian Futurology. The Sociology of Science in K. S. Robinson’s The Ministry for the Future", [Studia Socjologiczne](https://www.studiasocjologiczne.pl/) 2/2024, cited as pre-print.
+[^blockchain]: **UPDATE 07.06.24**: Some readers rightfully point out that Kim Stanley Robinson apologized for his usage of Blockchain in the book - but very few people have the context of his [exact wording](https://crookedtimber.org/2021/05/14/response-7/#more-48765) (thanks to Alberto Cottica for helping me find this quote!). The way I understand his words, the author doesn't apologize for using technosolutionism, just for using one of its brand names:
+> In the list of mistakes I’ve become aware of making in Ministry, using the **word** blockchain is prominent. I should have said “encrypted digital money,” or even just “digital encryption.” The computing experts I’ve spoken to, a pretty big group at this point, have often assured me that blockchain as such doesn’t require the huge “proof of work” action demanded by the designers of bitcoin. Nor, they told me, is it a particularly great form of encryption; they judge it as code to be (perhaps deliberately) awkward, and very likely to be superseded in years to come.
+
+
+[^zarod]: "Imaginaries of Care and Science in Anthropocene Utopian Futurology. The Sociology of Science in K. S. Robinson’s The Ministry for the Future", [Studia Socjologiczne](https://www.studiasocjologiczne.pl/s,129,studia-socjologiczne-nr-2-2024-253.html) 2/2024, (DOI: 10.24425/sts.2024.151016) ([PDF](https://www.studiasocjologiczne.pl/img_upl/09_zarod_marcin_archiv.pdf)).
 
 <style>
   sustainability {
@@ -456,11 +460,6 @@ Reading "The Ministry…" took me three years and I needed a lot of space to ref
     border-left: 3px dotted rgba(0,128,0);
     margin: -0.5em -1em;
     padding: 0.5em 1em;
-    /* margin-left: -1em;
-    margin-right: -1em;
-    padding-left: 1em;
-    padding-right: 1em; */
-    /* border-radius: 0.5em; */
     background: rgba(0, 128, 0, 0.05);
   }
   future {
@@ -468,11 +467,6 @@ Reading "The Ministry…" took me three years and I needed a lot of space to ref
     border-left: 3px solid rgb(255, 165, 0);
     margin: -0.5em -1em;
     padding: 0.5em 1em;
-    /* margin-left: -1em;
-    margin-right: -1em;
-    padding-left: 1em;
-    padding-right: 1em; */
-    /* border-radius: 0.5em; */
     background: rgba(255, 165, 0, 0.05);
   }
 </style>
