@@ -6,7 +6,7 @@ Translation: false
 opengraph_image: 47_solarpunk_prompts_podcast/cover.jpg
 
 ![Solarpunk Prompts logo by Natalia Vish](/images/47_solarpunk_prompts_podcast/cover.jpg)
-<figcaption>Solarpunk Prompts logo CC-BY-SA 4.0 by [Natalia Vish](https://nataliavish.com/)</figcaption>
+<figcaption markdown="1">Solarpunk Prompts logo CC-BY-SA 4.0 by [Natalia Vish](https://nataliavish.com/)</figcaption>
 
 A well overdue introduction to one of the biggest Solarpunk writing podcasts on the English-speaking internet! I've been postponing writing a comprehensive post about this project for well over a year - and suddenly, we are in the middle of the second season!
 
@@ -19,7 +19,7 @@ Inside, you can find episodes such as [The Tower](https://podcast.tomasino.org/@
 ## From contests to podcasts
 
 ![Solarpunk Prompts previous banner by Natalia Vish](/images/47_solarpunk_prompts_podcast/old_banner.jpg)
-<figcaption>Solarpunk Prompts previous banner CC-BY-SA 4.0 by [Natalia Vish](https://nataliavish.com/)</figcaption>
+<figcaption markdown="1">Solarpunk Prompts previous banner CC-BY-SA 4.0 by [Natalia Vish](https://nataliavish.com/)</figcaption>
 
 You might remember the [22 Solarpunk Communities and Story Hooks](/22-solarpunk-communities-and-story-hooks) I compiled back in the 2021, based on the [Polish Optimistic Climate Fiction Contest](https://solarpunk.edu.pl/). Working together with several high school teachers, we quickly realized that young writers are struggling with imagining a future containing tension, conflict and optimism, hope that we could work through it. We started writing down possible topics, settings, scenes and situations, which I then dramatized into concise prompts.
 
@@ -36,7 +36,7 @@ We were soon joined by another member of Hakkavelin, [Natalia Vish](https://nata
 ## What's inside
 
 ![Solarpunk Prompts banner by Natalia Vish](/images/47_solarpunk_prompts_podcast/banner.jpg)
-<figcaption>Solarpunk Prompts banner CC-BY-SA 4.0 by [Natalia Vish](https://nataliavish.com/)</figcaption>
+<figcaption markdown="1">Solarpunk Prompts banner CC-BY-SA 4.0 by [Natalia Vish](https://nataliavish.com/)</figcaption>
 
 As Solarpunk is still quite a young genre with no Masterpieces setting the tone, various authors and creatives put emphasis on different aspects of the movement: for some, it's the aesthetic, the themes of symbiosis with the environment, idyllic futuristic landscapes, harsh realities of fighting the oppressive systems, or reflective rebuilding from an apocalypse. 
 

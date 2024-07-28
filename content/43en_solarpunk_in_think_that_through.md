@@ -49,12 +49,12 @@ So we have an epidemic (many of which we will have to face because of the climat
 It’s not a well-crafted story, it could use a lot more work before it would land in some anthology. The author has some potential, though.
 
 ![EU Civili Protection and Humanitarian Aid](/images/41_myslec_glebiej/06.jpg)
-<figcaption>[CC-NC-ND 2.0 EU Civil Protection and Humanitarian Aid](https://www.flickr.com/photos/eu_echo/14700504487)</figcaption>
+<figcaption markdown="1">[CC-NC-ND 2.0 EU Civil Protection and Humanitarian Aid](https://www.flickr.com/photos/eu_echo/14700504487)</figcaption>
 
 The problem is: this story has no author. It’s not a piece of feel-good fiction, but a very real story from Sierra Leone and the whole West Africa besieged by the Ebola epidemic in 2014.
 
 ![Salton Massally](/images/41_myslec_glebiej/07.jpg)
-<figcaption>iDT Labs Salton Massally</figcaption>
+<figcaption markdown="1">iDT Labs Salton Massally</figcaption>
 
 The local guys from [IDT Labs](https://medium.com/idtlabs/how-open-source-software-helped-in-the-fight-against-ebola-788bb3ca2bf0)’ names are Salton Arthur Massally, Harold Valentine Mac-Saidu and Francis Banguara. They exist, you can find their social media handles or send them an email. They really saved hundreds of thousands, if not millions of lives.
 
@@ -63,7 +63,7 @@ Why haven’t you heard about them, you could ask? Their story did get covered �
 Years later, the heroes from the iDT Labs got some recognition in the United Kingdom: they got a [Responsible Business Award](https://idtlabs.xyz/idt-labs-scoops-responsible-business-award-2016-in-the-international-disaster-relief-category/). I think the problem with describing their work is very visible in the [telling words](https://www.youtube.com/watch?v=T22mB8KM1M4) of one of the judges from the contest:
 
 ![Responsible Business Gala](/images/41_myslec_glebiej/08.jpg)
-<figcaption>[iDT Labs Salton Massally at Responsible Business Gala](https://idtlabs.xyz/idt-labs-scoops-responsible-business-award-2016-in-the-international-disaster-relief-category/)</figcaption>
+<figcaption markdown="1">[iDT Labs Salton Massally at Responsible Business Gala](https://idtlabs.xyz/idt-labs-scoops-responsible-business-award-2016-in-the-international-disaster-relief-category/)</figcaption>
 
 > Think about it: this company actually stopped their core business, even though they were a software developing company, solutions developing company. They stopped their main business and they dedicated all their resources to come up with this because they actually believed and they saw that they needed to do this for their country. You know their country was about to collapse and they needed to do this.
 
@@ -116,7 +116,7 @@ That’s why I am not worried about the artists being culturally replaced by the
 I worked with many visual artists trying to convey Solarpunk in their art. Recently I joined forces with an architectural student who wanted to imagine a greener, sustainable and socially just future for Poland. He didn’t want to just copy-paste some Art Nouveau, but really thought about it: created an illustration of a train being loaded with small containers from independent farming coops, among bike paths and pedestrian architecture.
 
 ![Scan101](/images/41_myslec_glebiej/15.jpg)
-<figcaption>[CC-BY-SA 3.0 Scan101](https://twitter.com/scan_101)</figcaption>
+<figcaption markdown="1">[CC-BY-SA 3.0 Scan101](https://twitter.com/scan_101)</figcaption>
 
 It would be a perfect illustration for a story explaining everything there, but seen without such context – not hidden under a hieroglyph already – most people see just “a colorful train”. We’re not trained to see or expect some things, so we just gloss over them.
 
@@ -223,7 +223,7 @@ Move quietly and plant things. A quiet work of thousands, millions of people wor
 And with that, suddenly, we can see all the real stories we haven’t noticed before, all of them more Solarpunk than many volumes of anthologies -
 
 ![SafeCast by PBS NewsHour](/images/41_myslec_glebiej/34.jpg)
-<figcaption>[Safecast by PBS NewsHour](https://www.youtube.com/watch?v=pLdOkKAeROg)</figcaption>
+<figcaption markdown="1">[Safecast by PBS NewsHour](https://www.youtube.com/watch?v=pLdOkKAeROg)</figcaption>
 
 _When the nuclear reactor in Fukushima, Japan, suffered a meltdown following an earthquake in 2011, the governmental infrastructure and response systems weren’t ready. In the whole region there were only a few radiation monitoring stations with data available to the responders – they couldn’t say which areas were contaminated and which were not. In panic, the government moved people from practically untouched zone to a much more dangerous region._
 

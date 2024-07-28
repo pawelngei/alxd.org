@@ -6,8 +6,8 @@ Translation: false
 opengraph_image: 53_crystallized_community/cover.jpg
 
 ![Ice Crystals CC-BY spurekar](images/53_crystallized_community/cover.jpg)
-<figcaption>
-  "Ice Crystals" photo CC-BY spurekar
+<figcaption markdown="1">
+  ["Ice Crystals" photo CC-BY spurekar](https://www.flickr.com/photos/spurekar/25102323861)
 </figcaption>
 
 
