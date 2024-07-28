@@ -5,8 +5,8 @@ Lang: en
 Translation: false
 opengraph_image: 43_think_that_through/lens.jpg
 
-![Myśleć Głębiej na YouTube](/images/43_think_that_through/lens.jpg)
-<figcaption>Lens [CC-BY-NC 2.0 Henry Riley](https://www.flickr.com/photos/dodopod/18538420449/)</figcaption>
+![Round Mirror by Ethan Sees](/images/43_think_that_through/lens.jpg)
+<figcaption markdown="1">[Round Mirror by Ethan Sees](https://www.pexels.com/photo/round-mirror-2853432/)</figcaption>
 
 Last year I published a lengthy videoessay on Solarpunk as a part of collaboration with a philosophical YouTube channel "Myśleć Głębiej" ([Think That Through](https://www.youtube.com/@t3essays) in English).
 
