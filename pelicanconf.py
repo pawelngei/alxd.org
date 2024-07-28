@@ -16,6 +16,8 @@ FAVICON = "images/favicon.ico"
 BROWSER_COLOR = "#333333"
 PYGMENTS_STYLE = "monokai"
 
+LOCALE = ("en_AU.utf8", "pl_PL.utf8")
+
 USE_FOLDER_AS_CATEGORY = False
 MAIN_MENU = True
 HOME_HIDE_TAGS = True
@@ -59,6 +61,8 @@ TRANSLATION_FEED_ATOM = None
 
 PATH = "content"
 STATIC_PATHS = ["images", "slides", "content/slides", "scripts"]
+
+ARTICLE_EXCLUDES = ["slides"]
 
 THEME = "themes/Flex"
 
