@@ -1,4 +1,4 @@
-Title: Solarpunk: lenses and foundations with Think That Through
+Title: Solarpunk: lenses and foundations
 Date: 2023-02-28
 Slug: solarpunk-lenses-and-foundations
 Lang: en
