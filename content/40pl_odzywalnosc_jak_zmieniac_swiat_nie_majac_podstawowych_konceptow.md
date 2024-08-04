@@ -5,8 +5,10 @@ Lang: pl
 Translation: false
 opengraph_image: 40_sustainability/midjourney.jpg
 
-![Midjourney Sustainability Concept Art](/images/40_sustainability/midjourney.jpg)
-[Concept Art for "Sustainability" CC-BY-NC 4.0 Midjourney](https://midjourney.gitbook.io/docs/billing#commercial-terms)
+![Cracking Up, In Green by Ian Abbott](/images/40_sustainability/asphalt.jpg)
+<figcaption markdown>
+[Cracking Up, In Green CC BY-NC-SA 2.0 Ian Abbott](https://www.flickr.com/photos/ian_e_abbott/49368753748)
+</figcaption>
 
 W ostatnim czasie coraz częściej możemy spotkać się z terminem “zrównoważony rozwój”, promowanym jako lekarstwo na większość naszych ekologicznych problemów przez międzynarodowe raporty, rządy czy korporacje. Im bardziej się w niego wczytujemy, tym bardziej może się jednak wydawać niekonkretny czy wręcz sprzeczny, gdy z jednej strony wydaje się szeregiem postulatów ekonomicznych, z drugiej używają go organizacje ekologiczne chcące ograniczać konsumpcję.
 
