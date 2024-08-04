@@ -49,4 +49,8 @@ I hope that looking at communities and technology through this lens allows more 
 
 ---
 
+If you're interested in an example of a short Solarpunk fiction which uses the narrative device presented above, feel free to check out [The Year Without Sunshine by Naomi Kritzer](https://www.uncannymagazine.com/article/the-year-without-sunshine/), a winner of the [Nebula Award](https://www.uncannymagazine.com/article/the-year-without-sunshine/) for the best novelette. Without spoiling much, I really appreciate how the bicycles in the story become a defining feature of the community and help them go through the hardest of times.
+
+---
+
 Huge thanks to [Clockwork](https://sociale.network/@clockwooork) for a sanity check and editing help!
