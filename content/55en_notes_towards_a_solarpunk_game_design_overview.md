@@ -59,7 +59,7 @@ Those games do not need to be set on Earth, in our reality, they do not need to 
 
 We can list some chill, pastoral games such as the widely known [Stardew Valley](https://www.stardewvalley.net/)<sup>V</sup>, [My Time At Portia](https://store.steampowered.com/app/666140/My_Time_at_Portia/)<sup>V</sup>, [Outbound](https://store.steampowered.com/app/2681030/Outbound/)<sup>V</sup> and similar.
 
-Another game in this "chill survival" category is [Solarpunk](https://store.steampowered.com/app/1805110/Solarpunk/)<sup>V</sup> (which title makes searching for any _other_ Solarpunk game extremely annoying). For a position proudly claiming the name of the movement, it seems not to be too ambitious in its game designs, effectively proposing a floating-island version of Minecraft with solar panels on top.
+Another game in this "chill survival" category is [Solarpunk](https://store.steampowered.com/app/1805110/Solarpunk/)<sup>V</sup> (the title of which makes searching for any _other_ Solarpunk game extremely annoying). For a position proudly claiming the name of the movement, it seems not to be too ambitious in its game designs, effectively proposing a floating-island version of Minecraft with solar panels on top.
 
 [Loftia](https://loftia.gg/)<sup>V</sup> MMO seems to also build on the theme of the floating islands, wind turbines and greenery, but I like that it focuses on community much more than other titles on this list. It's not released yet, but if done right, I could consider it a nice vision of a "realized Solarpunk utopia", even if not very realistic.
 
@@ -131,7 +131,7 @@ If I were to choose a game to use as an educator, I'd probably go with a slightl
 
 Some games put emphasis on other aspects of Solarpunk, putting communities and their sustainability (both literal and emotional) above resource management or involved ecosystem mechanics.
 
-One of my favorite examples is a visual novel called [I Was A Teenage Exocolonist](https://exocolonist.com/)<sup>V</sup>. It tells a story of a child raised in an "utopian" commune on humanity's first colony outside of our Solar System. It's a wonderful exploration of communal joy, grief, friendship and love set against big questions about humanity being _the aliens_ to local ecosystems. It's made to be replayed, and while not perfect - I really love how it uses implicit rewards and emergent narratives to encourage players to hang out with other characters instead of just maxing their skills.
+One of my favorite examples is a visual novel called [I Was A Teenage Exocolonist](https://exocolonist.com/)<sup>V</sup>. It tells a story of a child raised in a "utopian" commune on humanity's first colony outside of our Solar System. It's a wonderful exploration of communal joy, grief, friendship and love set against big questions about humanity being _the aliens_ to local ecosystems. It's made to be replayed, and while not perfect - I really love how it uses implicit rewards and emergent narratives to encourage players to hang out with other characters instead of just maxing their skills.
 
 Looking at the pen-and-paper RPGs, we have quite a few interesting positions!
 
@@ -169,6 +169,7 @@ There are a lot of other games I would like to analyze deeper, but for now let m
 - [From Pixels to Politics: How Video Games Can Inspire a Green New World](https://atmos.earth/from-pixels-to-politics-how-video-games-can-inspire-a-green-new-world/)
 - [Utopia on the Tabletop](https://ping-press.com/2024/02/23/utopia-on-the-tabletop/) - a publication on _solarpunk settings inspiring empathy, cooperation, and visions of ecological harmony_
 - [Applied Hope: The Solarpunk & Utopias Game Jam](https://itch.io/jam/applied-hope) on itch.io
+- [Games for the future 2](https://www.gamesforfuture.de/wiki/doku.php?id=student_projects) - a summary of a German university game design project that [I took part in](/games-for-future-2)
 
 ## Next Episode
 
