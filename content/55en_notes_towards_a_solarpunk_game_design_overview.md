@@ -155,13 +155,18 @@ There are a lot of other games I would like to analyze deeper, but for now let m
 - [Solarpunk Futures](https://thefuture.wtf/)<sup>R</sup> - a storytelling card game of future generations remembering their modern ancestors
 - [Why We Fight](https://www.sdrgames.studio/pages/why-we-fight)<sup>R</sup> - a violent game of eco-punks fighting fascism to build a brighter, greener future
 - [Hack The Planet](https://www.drivethrurpg.com/en/product/268457/hack-the-planet-cyberpunk-forged-in-the-dark)<sup>R</sup> - a more cyberpunk game of fighting the corporate overlords among climate disasters
+- [Lunar Echos](https://davidblandy.itch.io/lunar-echos)<sup>R</sup> - a GM-less RPG based on the [Monk and Robot](https://us.macmillan.com/series/monkrobot) series by Becky Chambers
+- [After the War](https://genesisoflegend.com/products/after-the-war/)<sup>R</sup> - a science fiction game with horror themes and extremely strong focus on communities, rebuilding and convictions
 - [Mikiwam: Solarpunk Herbalism](https://studioekosi.itch.io/mikiwam)<sup>V</sup> - a tea-making visual novel
+- [HomeFree](https://www.kickstarter.com/projects/acorn-land-labs/homefree-your-off-grid-adventure-video-game)<sup>V</sup> - a Stardew Valley-type game openly calling itself Solarpunk
 - [Alba: a wildlife adventure](https://store.steampowered.com/app/1337010/Alba_A_Wildlife_Adventure/)<sup>V</sup> - recommended by [narF](https://mstdn.ca/@narF)
 - [Anarcute](https://store.steampowered.com/app/390720/Anarcute/)<sup>V</sup> - a protest game recommended by [narF](https://mstdn.ca/@narF)
 - [Eco](https://store.steampowered.com/app/382310/Eco/)<sup>V</sup>
 - [Green New Deal Simulator](https://molleindustria.itch.io/green-new-deal-simulator)<sup>V</sup> - another card game similar to Half Earth or Beecarbonize, but this time focusing strongly on the United States and fighting unemployment
 - [Sky - children of the light](https://www.thatskygame.com/)<sup>V</sup> - a spiritual successor of Journey
+- [Cloud Gardens](https://en.wikipedia.org/wiki/Cloud_Gardens_(video_game))<sup>V</sup> - a very aesthetic, meditative diorama game where you plant seeds over ruins
 - [Generation Exile](https://store.steampowered.com/app/2963240/Generation_Exile/)<sup>V</sup> - looking for a sustainability on a generation ship (because we destroyed the planet)
+- [Solar City](https://boardgamegeek.com/boardgame/248182/solar-city)<sup>B</sup> - a Polish board game where players design a very futuristic city. It calls itself Solarpunk, but mechanics are closer to post-cyberpunk.
 
 ### Other Resources
 
@@ -169,7 +174,8 @@ There are a lot of other games I would like to analyze deeper, but for now let m
 - [From Pixels to Politics: How Video Games Can Inspire a Green New World](https://atmos.earth/from-pixels-to-politics-how-video-games-can-inspire-a-green-new-world/)
 - [Utopia on the Tabletop](https://ping-press.com/2024/02/23/utopia-on-the-tabletop/) - a publication on _solarpunk settings inspiring empathy, cooperation, and visions of ecological harmony_
 - [Applied Hope: The Solarpunk & Utopias Game Jam](https://itch.io/jam/applied-hope) on itch.io
-- [Games for the future 2](https://www.gamesforfuture.de/wiki/doku.php?id=student_projects) - a summary of a German university game design project that [I took part in](/games-for-future-2)
+- [Games for future 2](https://www.gamesforfuture.de/wiki/doku.php?id=student_projects) - a summary of a German university game design project that [I took part in](/games-for-future-2.html)
+- [Let's play the future: Sociotechnical imaginaries, and energy transitions in serious digital games](https://www.sciencedirect.com/science/article/abs/pii/S2214629620302498) - a scientific paper from 2020 discussing 51 games
 
 ## Next Episode
 
