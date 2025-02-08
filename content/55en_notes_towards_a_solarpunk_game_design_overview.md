@@ -157,6 +157,11 @@ There are a lot of other games I would like to analyze deeper, but for now let m
 - [Hack The Planet](https://www.drivethrurpg.com/en/product/268457/hack-the-planet-cyberpunk-forged-in-the-dark)<sup>R</sup> - a more cyberpunk game of fighting the corporate overlords among climate disasters
 - [Lunar Echos](https://davidblandy.itch.io/lunar-echos)<sup>R</sup> - a GM-less RPG based on the [Monk and Robot](https://us.macmillan.com/series/monkrobot) series by Becky Chambers
 - [After the War](https://genesisoflegend.com/products/after-the-war/)<sup>R</sup> - a science fiction game with horror themes and extremely strong focus on communities, rebuilding and convictions
+- [Dream Askew / Dream Apart](https://buriedwithoutceremony.com/dream-askew)<sup>R</sup> - _Queer strife amid the collapse._ / _Jewish fantasy of the shtetl._ - two wonderful games about communities which introduced the [Belonging Outside Belonging](https://buriedwithoutceremony.com/belonging) system, inspiring others, like Wanderhome
+- [Songs for the Dusk](https://yrgirlkv.itch.io/songsforthedusk)<sup>R</sup> - a semi-Solarpunk / Hopepunk game based on Forged in the Dark system.
+- [Lost Eons](https://davidblandy.itch.io/lost-eons)<sup>R</sup> - ((review)[https://thebirchandwolf.blogspot.com/2024/03/lost-eons-overview-and-review.html]) - rediscovering a surface world, with post-human themes
+- [Cloud Empress](https://cloudempress.com/)<sup>R</sup> - _An expansive Nausicaa-inspired campaign setting compatible with the Mothership RPG._ - dialing in the weird horror themes of the story
+- [Our Vale of Discontent](https://frankystein.itch.io/our-vale-of-discontent)<sup>R</sup> - _Community-based RPG setting featuring sentient oozes, solarpunk vistas, rioting union workers, and a story telling fungi with no name._
 - [Mikiwam: Solarpunk Herbalism](https://studioekosi.itch.io/mikiwam)<sup>V</sup> - a tea-making visual novel
 - [HomeFree](https://www.kickstarter.com/projects/acorn-land-labs/homefree-your-off-grid-adventure-video-game)<sup>V</sup> - a Stardew Valley-type game openly calling itself Solarpunk
 - [Alba: a wildlife adventure](https://store.steampowered.com/app/1337010/Alba_A_Wildlife_Adventure/)<sup>V</sup> - recommended by [narF](https://mstdn.ca/@narF)
@@ -176,6 +181,7 @@ There are a lot of other games I would like to analyze deeper, but for now let m
 - [Applied Hope: The Solarpunk & Utopias Game Jam](https://itch.io/jam/applied-hope) on itch.io
 - [Games for future 2](https://www.gamesforfuture.de/wiki/doku.php?id=student_projects) - a summary of a German university game design project that [I took part in](/games-for-future-2.html)
 - [Let's play the future: Sociotechnical imaginaries, and energy transitions in serious digital games](https://www.sciencedirect.com/science/article/abs/pii/S2214629620302498) - a scientific paper from 2020 discussing 51 games
+- [Solarpunk and it’s role in TTRPG’s](https://thebirchandwolf.blogspot.com/2025/02/solarpunk-and-its-role-in-ttrpgs.html) - a NuSR / OSR TTRPG enthusiast's analysis
 
 ## Next Episode
 
