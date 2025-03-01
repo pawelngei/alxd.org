@@ -159,7 +159,7 @@ There are a lot of other games I would like to analyze deeper, but for now let m
 - [After the War](https://genesisoflegend.com/products/after-the-war/)<sup>R</sup> - a science fiction game with horror themes and extremely strong focus on communities, rebuilding and convictions
 - [Dream Askew / Dream Apart](https://buriedwithoutceremony.com/dream-askew)<sup>R</sup> - _Queer strife amid the collapse._ / _Jewish fantasy of the shtetl._ - two wonderful games about communities which introduced the [Belonging Outside Belonging](https://buriedwithoutceremony.com/belonging) system, inspiring others, like Wanderhome
 - [Songs for the Dusk](https://yrgirlkv.itch.io/songsforthedusk)<sup>R</sup> - a semi-Solarpunk / Hopepunk game based on Forged in the Dark system.
-- [Lost Eons](https://davidblandy.itch.io/lost-eons)<sup>R</sup> - ((review)[https://thebirchandwolf.blogspot.com/2024/03/lost-eons-overview-and-review.html]) - rediscovering a surface world, with post-human themes
+- [Lost Eons](https://davidblandy.itch.io/lost-eons)<sup>R</sup> - ([review](https://thebirchandwolf.blogspot.com/2024/03/lost-eons-overview-and-review.html)) - rediscovering a surface world, with post-human themes
 - [Cloud Empress](https://cloudempress.com/)<sup>R</sup> - _An expansive Nausicaa-inspired campaign setting compatible with the Mothership RPG._ - dialing in the weird horror themes of the story
 - [Our Vale of Discontent](https://frankystein.itch.io/our-vale-of-discontent)<sup>R</sup> - _Community-based RPG setting featuring sentient oozes, solarpunk vistas, rioting union workers, and a story telling fungi with no name._
 - [Mikiwam: Solarpunk Herbalism](https://studioekosi.itch.io/mikiwam)<sup>V</sup> - a tea-making visual novel
