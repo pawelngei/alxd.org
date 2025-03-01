@@ -71,14 +71,6 @@ Mimo kilku prób nie udało mi się jednak zdobyć zainteresowania ani mediów, 
 Wszystko zmieniła jednak [ta dyskusja] na Facebooku. Dla nie korzystających z serwisu lub w razie jej usunięcia, link do grafiki:
 
 <div class="article-img-crop">
-  <a href="images/01_neuroon/first_discussion.jpg">
-    <img src="images/01_neuroon/first_discussion.jpg">
-  </a>
-</div>
-
-**Dziękuję za zwrócenie uwagi na błąd: na pierwszym obrazku nie było widać odpowiedzi Kamila, który dodał mnie do użytkowników ignorowanych.**
-
-<div class="article-img-crop">
   <a href="images/01_neuroon/first_discussion-2.jpg">
     <img src="images/01_neuroon/first_discussion-2.jpg">
   </a>
