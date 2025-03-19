@@ -60,7 +60,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 PATH = "content"
-STATIC_PATHS = ["images", "slides", "content/slides", "scripts"]
+STATIC_PATHS = ["images", "slides", "content/slides", "scripts", "resources"]
 
 ARTICLE_EXCLUDES = ["slides"]
 

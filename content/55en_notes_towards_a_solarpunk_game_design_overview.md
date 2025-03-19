@@ -175,6 +175,7 @@ There are a lot of other games I would like to analyze deeper, but for now let m
 
 ### Other Resources
 
+- [Solarpunk RPG Factions Draft](/solarpunk-rpg-factions.html) - my own blogpost on how to create faction-based dramatic tension in a non-violent Solarpunk world
 - [Playing Nature - Ecology in Video Games](https://www.upress.umn.edu/9781517906320/playing-nature/) - a book by the University of Minnesota
 - [From Pixels to Politics: How Video Games Can Inspire a Green New World](https://atmos.earth/from-pixels-to-politics-how-video-games-can-inspire-a-green-new-world/)
 - [Utopia on the Tabletop](https://ping-press.com/2024/02/23/utopia-on-the-tabletop/) - a publication on _solarpunk settings inspiring empathy, cooperation, and visions of ecological harmony_
@@ -182,6 +183,9 @@ There are a lot of other games I would like to analyze deeper, but for now let m
 - [Games for future 2](https://www.gamesforfuture.de/wiki/doku.php?id=student_projects) - a summary of a German university game design project that [I took part in](/games-for-future-2.html)
 - [Let's play the future: Sociotechnical imaginaries, and energy transitions in serious digital games](https://www.sciencedirect.com/science/article/abs/pii/S2214629620302498) - a scientific paper from 2020 discussing 51 games
 - [Solarpunk and it’s role in TTRPG’s](https://thebirchandwolf.blogspot.com/2025/02/solarpunk-and-its-role-in-ttrpgs.html) - a NuSR / OSR TTRPG enthusiast's analysis
+- [Non-violent game
+design patterns by Patrick Littell](https://pwlittell.com/share/nonviolent_game_patterns.pdf) [PDF]
+- [Less Violent Game Design by Troy Dunniway](https://www.cgspectrum.com/hubfs/lessviolentgamedesign.pdf) [PDF]
 
 ## Next Episode
 
