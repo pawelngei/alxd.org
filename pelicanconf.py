@@ -45,6 +45,8 @@ CC_LICENSE = {
     "local_icons": True,
 }
 
+FEDIVERSE_ACCOUNT = "@alxd@writing.exchange"
+
 COPYRIGHT_YEAR = datetime.now().year
 
 TIMEZONE = "Europe/Warsaw"
