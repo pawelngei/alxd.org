@@ -149,29 +149,40 @@ I haven't played [The Roots of Pacha](https://store.steampowered.com/app/1245560
 
 There are a lot of other games I would like to analyze deeper, but for now let me just mention them:
 
-- [Fully Automated RPG](https://fullyautomatedrpg.com/)<sup>R</sup> - a big and rich Solarpunk RPG game with violent mechanics and an upcoming campaign
-- [Solarpunk 2050](https://www.drivethrurpg.com/en/product/443881/solarpunk-2050)<sup>R</sup> - a Solarpunk setting for FATE RPG
-- [Coyote & Crow](https://coyoteandcrow.net/)<sup>R</sup> - an RPG game set in the futuristic Americas if they were never colonized by the Europeans
-- [Solarpunk Futures](https://thefuture.wtf/)<sup>R</sup> - a storytelling card game of future generations remembering their modern ancestors
-- [Why We Fight](https://www.sdrgames.studio/pages/why-we-fight)<sup>R</sup> - a violent game of eco-punks fighting fascism to build a brighter, greener future
-- [Hack The Planet](https://www.drivethrurpg.com/en/product/268457/hack-the-planet-cyberpunk-forged-in-the-dark)<sup>R</sup> - a more cyberpunk game of fighting the corporate overlords among climate disasters
-- [Lunar Echos](https://davidblandy.itch.io/lunar-echos)<sup>R</sup> - a GM-less RPG based on the [Monk and Robot](https://us.macmillan.com/series/monkrobot) series by Becky Chambers
-- [After the War](https://genesisoflegend.com/products/after-the-war/)<sup>R</sup> - a science fiction game with horror themes and extremely strong focus on communities, rebuilding and convictions
-- [Dream Askew / Dream Apart](https://buriedwithoutceremony.com/dream-askew)<sup>R</sup> - _Queer strife amid the collapse._ / _Jewish fantasy of the shtetl._ - two wonderful games about communities which introduced the [Belonging Outside Belonging](https://buriedwithoutceremony.com/belonging) system, inspiring others, like Wanderhome
-- [Songs for the Dusk](https://yrgirlkv.itch.io/songsforthedusk)<sup>R</sup> - a semi-Solarpunk / Hopepunk game based on Forged in the Dark system.
-- [Lost Eons](https://davidblandy.itch.io/lost-eons)<sup>R</sup> - ([review](https://thebirchandwolf.blogspot.com/2024/03/lost-eons-overview-and-review.html)) - rediscovering a surface world, with post-human themes
-- [Cloud Empress](https://cloudempress.com/)<sup>R</sup> - _An expansive Nausicaa-inspired campaign setting compatible with the Mothership RPG._ - dialing in the weird horror themes of the story
-- [Our Vale of Discontent](https://frankystein.itch.io/our-vale-of-discontent)<sup>R</sup> - _Community-based RPG setting featuring sentient oozes, solarpunk vistas, rioting union workers, and a story telling fungi with no name._
-- [Mikiwam: Solarpunk Herbalism](https://studioekosi.itch.io/mikiwam)<sup>V</sup> - a tea-making visual novel
-- [HomeFree](https://www.kickstarter.com/projects/acorn-land-labs/homefree-your-off-grid-adventure-video-game)<sup>V</sup> - a Stardew Valley-type game openly calling itself Solarpunk
-- [Alba: a wildlife adventure](https://store.steampowered.com/app/1337010/Alba_A_Wildlife_Adventure/)<sup>V</sup> - recommended by [narF](https://mstdn.ca/@narF)
-- [Anarcute](https://store.steampowered.com/app/390720/Anarcute/)<sup>V</sup> - a protest game recommended by [narF](https://mstdn.ca/@narF)
-- [Eco](https://store.steampowered.com/app/382310/Eco/)<sup>V</sup>
-- [Green New Deal Simulator](https://molleindustria.itch.io/green-new-deal-simulator)<sup>V</sup> - another card game similar to Half Earth or Beecarbonize, but this time focusing strongly on the United States and fighting unemployment
-- [Sky - children of the light](https://www.thatskygame.com/)<sup>V</sup> - a spiritual successor of Journey
-- [Cloud Gardens](https://en.wikipedia.org/wiki/Cloud_Gardens_(video_game))<sup>V</sup> - a very aesthetic, meditative diorama game where you plant seeds over ruins
-- [Generation Exile](https://store.steampowered.com/app/2963240/Generation_Exile/)<sup>V</sup> - looking for a sustainability on a generation ship (because we destroyed the planet)
-- [Solar City](https://boardgamegeek.com/boardgame/248182/solar-city)<sup>B</sup> - a Polish board game where players design a very futuristic city. It calls itself Solarpunk, but mechanics are closer to post-cyberpunk.
+### TTRPG
+
+- [Fully Automated RPG](https://fullyautomatedrpg.com/) - a big and rich Solarpunk RPG game with violent mechanics and an upcoming campaign
+- [Solarpunk 2050](https://www.drivethrurpg.com/en/product/443881/solarpunk-2050) - a Solarpunk setting for FATE RPG
+- [Blue Planet](https://en.wikipedia.org/wiki/Blue_Planet_(role-playing_game)) - a science fiction game series focusing on humanity's first extra-solar colony on an ocean planet Poseidon, started in 1997, with the latest edition ([Recontact](https://www.biohazardgamespublishing.com/blueplanet)) in 2024. The setting and mechanic support different campaign themes and playstyles, including frontier "western" and cyberpunk, but the game carries heavy themes of sustainability, indigenous identity and more. Also you can play as an intelligent dolphin / orca.
+- [Scraps](https://capacle.itch.io/scraps) by [Cezar Capacle](https://capacle.itch.io/), the winner of the Best Solarpunk DIY Game of the [Applied Hope: The Solarpunk & Utopias Game Jam](https://itch.io/jam/applied-hope). It's a non-violent game about scavenging a dreamy, abstract and dangerous world looking for resources to help one's community. It uses Tetris-like mechanics.
+- [Coyote & Crow](https://coyoteandcrow.net/) - an RPG game set in the futuristic Americas if they were never colonized by the Europeans
+- [Solarpunk Futures](https://thefuture.wtf/) - a storytelling card game of future generations remembering their modern ancestors
+- [Why We Fight](https://www.sdrgames.studio/pages/why-we-fight) - a violent game of eco-punks fighting fascism to build a brighter, greener future
+- [Hack The Planet](https://www.drivethrurpg.com/en/product/268457/hack-the-planet-cyberpunk-forged-in-the-dark) - a more cyberpunk game of fighting the corporate overlords among climate disasters
+- [Lunar Echos](https://davidblandy.itch.io/lunar-echos) - a GM-less RPG based on the [Monk and Robot](https://us.macmillan.com/series/monkrobot) series by Becky Chambers
+- [After the War](https://genesisoflegend.com/products/after-the-war/) - a science fiction game with horror themes and extremely strong focus on communities, rebuilding and convictions
+- [Dream Askew / Dream Apart](https://buriedwithoutceremony.com/dream-askew) - _Queer strife amid the collapse._ / _Jewish fantasy of the shtetl._ - two wonderful games about communities which introduced the [Belonging Outside Belonging](https://buriedwithoutceremony.com/belonging) system, inspiring others, like Wanderhome
+- [Songs for the Dusk](https://yrgirlkv.itch.io/songsforthedusk) - a semi-Solarpunk / Hopepunk game based on Forged in the Dark system.
+- [Lost Eons](https://davidblandy.itch.io/lost-eons) - ([review](https://thebirchandwolf.blogspot.com/2024/03/lost-eons-overview-and-review.html)) - rediscovering a surface world, with post-human themes
+- [Cloud Empress](https://cloudempress.com/) - _An expansive Nausicaa-inspired campaign setting compatible with the Mothership RPG._ - dialing in the weird horror themes of the story
+- [Our Vale of Discontent](https://frankystein.itch.io/our-vale-of-discontent) - _Community-based RPG setting featuring sentient oozes, solarpunk vistas, rioting union workers, and a story telling fungi with no name._
+
+### Video
+
+- [Mikiwam: Solarpunk Herbalism](https://studioekosi.itch.io/mikiwam) - a tea-making visual novel
+- [HomeFree](https://www.kickstarter.com/projects/acorn-land-labs/homefree-your-off-grid-adventure-video-game) - a Stardew Valley-type game openly calling itself Solarpunk
+- [Spilled!](https://www.kickstarter.com/projects/lentegamedev/spilled) - "a relaxing clean-up video game, made from a [boat](https://www.polygon.com/features/553839/push-to-talk-newsletter-spilled-game-dutch-game-dev)"
+- [Alba: a wildlife adventure](https://store.steampowered.com/app/1337010/Alba_A_Wildlife_Adventure/) - recommended by [narF](https://mstdn.ca/@narF)
+- [Anarcute](https://store.steampowered.com/app/390720/Anarcute/) - a protest game recommended by [narF](https://mstdn.ca/@narF)
+- [Eco](https://store.steampowered.com/app/382310/Eco/)
+- [Green New Deal Simulator](https://molleindustria.itch.io/green-new-deal-simulator) - another card game similar to Half Earth or Beecarbonize, but this time focusing strongly on the United States and fighting unemployment
+- [Sky - children of the light](https://www.thatskygame.com/) - a spiritual successor of Journey
+- [Cloud Gardens](https://en.wikipedia.org/wiki/Cloud_Gardens_(video_game)) - a very aesthetic, meditative diorama game where you plant seeds over ruins
+- [Generation Exile](https://store.steampowered.com/app/2963240/Generation_Exile/) - looking for a sustainability on a generation ship (because we destroyed the planet)
+
+### Board
+
+- [Solar City](https://boardgamegeek.com/boardgame/248182/solar-city) - a Polish board game where players design a very futuristic city. It calls itself Solarpunk, but mechanics are closer to post-cyberpunk.
 
 ### Other Resources
 
@@ -197,6 +208,9 @@ I have a lot more to share with you on the topics of Solarpunk and game design, 
 - Can we make games about communities without limiting player agency?
 
 <style>
+  h3 {
+    font-size: 1.3em;
+  }
   sup, sub {
     vertical-align: baseline;
     position: relative;
