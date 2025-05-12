@@ -6,7 +6,9 @@ Translation: false
 opengraph_image: 57_build_a_better_world/banner.jpg
 
 ![Game jam banner art by Roque Romero](/images/57_build_a_better_world/banner.jpg)
-<figcaption>Game jam banner art by [Roque Romero](https://roque-romero.itch.io/)</figcaption>
+<figcaption>
+  Game jam banner art by <a href="https://roque-romero.itch.io/" target="_blank">Roque Romero</a>
+</figcaption>
 
 Continuing research into the topic of game design from my [previous overview post](/notes-towards-a-solarpunk-game-design-overview) I was a positively surprised to find a [Build a Better World TTRPG Jam](https://itch.io/jam/build-a-better-world-ttrpg-jam):
 
