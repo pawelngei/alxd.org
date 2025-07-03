@@ -197,6 +197,7 @@ There are a lot of other games I would like to analyze deeper, but for now let m
 - [Non-violent game
 design patterns by Patrick Littell](https://pwlittell.com/share/nonviolent_game_patterns.pdf) [PDF]
 - [Less Violent Game Design by Troy Dunniway](https://www.cgspectrum.com/hubfs/lessviolentgamedesign.pdf) [PDF]
+- [So You Want to Make a Solarpunk City](https://daeres.itch.io/so-you-want-to-make-a-solarpunk-city) - a guide for making content for solarpunk games or games that want to include some kind of solarpunk community.
 
 ## Next Episode
 
