@@ -31,7 +31,7 @@ MENUITEMS = (
 )
 
 SOCIAL = (
-    ("envelope", "mailto:alxd@alxd_PLEASE_DELETE_THIS_CAPTION_.org"),
+    ("envelope", "mailto:alxd@alxd.org"),  # handled by the script in base.html
     ("mastodon", "https://writing.exchange/@alxd"),
     ("github", "https://github.com/pawelngei"),
     ("linkedin", "https://www.linkedin.com/in/paul-ngei-19227983"),
