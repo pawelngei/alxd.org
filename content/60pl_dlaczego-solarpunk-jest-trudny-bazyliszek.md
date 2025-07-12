@@ -10,7 +10,7 @@ opengraph_image: 60_bazyliszek/banner.jpg
 
 W lipcu tego roku na konwencie [Bazyliszek](https://bazyliszek.ava.waw.pl/) w Warszawie organizowanym przez [Stowarzyszenie Avangarda](https://klub.ava.waw.pl/) miałem okazję być częścią panelu ""Dlaczego solarpunk jest trudny? Jak przełknąć gorzką pigułkę katastrofy klimatycznej i wciąż wyobrażać sobie lepsze jutro?".
 
-Nagrania z niego możecie posłuchuchać w audycji Asi Kaniewskiej w [Radiu Kapitał](https://radiokapital.pl/shows/dancing-in-dystopia/), na [PeerTube Tchncs](https://tube.tchncs.de/w/rGpoR13bYwAGGb7voj3JCQ) oraz [YouTube](https://www.youtube.com/watch?v=78QUn4vQ4jM).
+Nagrania z niego możecie posłuchuchać w audycji Asi Kaniewskiej w [Radiu Kapitał](https://radiokapital.pl/shows/dancing-in-dystopia/panel-dyskusyjny-dlaczego-solarpunk-jest-trudny/), na [PeerTube Tchncs](https://tube.tchncs.de/w/rGpoR13bYwAGGb7voj3JCQ) oraz [YouTube](https://www.youtube.com/watch?v=78QUn4vQ4jM).
 
 Panel prowadziła Asia Kaniewska z [Dziewiętnaście czwartych](https://19czwartych.art.blog/) oraz audycji [Dancing in Dystopia](https://radiokapital.pl/shows/dancing-in-dystopia/), a wraz ze mną dyskutowali też Martyna Łysakiewicz, tłumaczka opowiadań z [solarpunk.pl](https://solarpunk.pl/) oraz varelse, twórca bloga [Ekofikcje](https://www.facebook.com/ekofikcje/).
 
