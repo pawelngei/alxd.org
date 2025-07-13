@@ -6,7 +6,7 @@ Translation: false
 opengraph_image: 60_bazyliszek/banner.jpg
 
 ![Zdjęcie panelu autorstwa Zawijasa](/images/60_bazyliszek/banner.jpg)
-<figcaption markdown="1">Zdjęcie panelu - wszystkie prawa zastrzeżone Zawijas</figcaption>
+<figcaption markdown="1">Zdjęcie panelu - wszystkie prawa zastrzeżone Michał Zawiasa</figcaption>
 
 W lipcu tego roku na konwencie [Bazyliszek](https://bazyliszek.ava.waw.pl/) w Warszawie organizowanym przez [Stowarzyszenie Avangarda](https://klub.ava.waw.pl/) miałem okazję być częścią panelu ""Dlaczego solarpunk jest trudny? Jak przełknąć gorzką pigułkę katastrofy klimatycznej i wciąż wyobrażać sobie lepsze jutro?".
 
