@@ -166,6 +166,8 @@ There are a lot of other games I would like to analyze deeper, but for now let m
 - [Lost Eons](https://davidblandy.itch.io/lost-eons) - ([review](https://thebirchandwolf.blogspot.com/2024/03/lost-eons-overview-and-review.html)) - rediscovering a surface world, with post-human themes
 - [Cloud Empress](https://cloudempress.com/) - _An expansive Nausicaa-inspired campaign setting compatible with the Mothership RPG._ - dialing in the weird horror themes of the story
 - [Our Vale of Discontent](https://frankystein.itch.io/our-vale-of-discontent) - _Community-based RPG setting featuring sentient oozes, solarpunk vistas, rioting union workers, and a story telling fungi with no name._
+- [The Transition Year](https://affinity-games.itch.io/the-transition-year) - _A map-drawing game of post-capitalist futures - A re-imagining of The Quiet Year_, part of the Applied Hope: The Solarpunk & Utopias Jam
+- [SolaRPG](https://solauniverse.com/) - A Creative Commons licensed game aimed at educators and youth workers, available in English, Spanish, French and Italian
 
 ### Video
 
