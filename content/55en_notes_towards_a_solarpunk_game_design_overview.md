@@ -188,6 +188,7 @@ There are a lot of other games I would like to analyze deeper, but for now let m
 
 ### Other Resources
 
+- [The Game Developers Guide To Sustainable Futures](https://www.greengamedesign.com/the-game-developers-guide-to-sustainable-futures/) - by the IGDA Climate Special Interest Group
 - [Solarpunk RPG Factions Draft](/solarpunk-rpg-factions.html) - my own blogpost on how to create faction-based dramatic tension in a non-violent Solarpunk world
 - [Playing Nature - Ecology in Video Games](https://www.upress.umn.edu/9781517906320/playing-nature/) - a book by the University of Minnesota
 - [From Pixels to Politics: How Video Games Can Inspire a Green New World](https://atmos.earth/from-pixels-to-politics-how-video-games-can-inspire-a-green-new-world/)
